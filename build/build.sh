@@ -12,7 +12,7 @@ do
   SORTED="$(echo $JSON | sort)"
   LINK="[$p](https://github.com/$p)"
   STARS="$(echo $JSON | jq .stargazers_count)"
-  DESCRIPTION="$(echo $JSON | jq .description)"
+  DESCRIPTION="$(echo $JSON | jq -r .description)"
   if [ "${STARS}" = "null" ]
   then
     echo "😱 could not get the number of stars for $p"

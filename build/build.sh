@@ -19,7 +19,7 @@ do
     exit 1
   fi
   echo "- $LINK  " >> README.md
-  echo "$DESCRIPTION (⭐️x$STARS)" >> README.md
+  echo "$DESCRIPTION (⭐️<sub>x</sub>$STARS)" >> README.md
 done < tmp
 
 cat src/footer.md >> README.md

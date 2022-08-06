@@ -1,0 +1,14 @@
+name: Build list
+
+on:
+  push:
+    branches: [ "*" ]
+
+jobs:
+  build-list:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: build
+      run: ./build/build.sh
+

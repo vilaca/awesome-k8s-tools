@@ -15,10 +15,10 @@ do
   DESCRIPTION="$(echo $JSON | jq .description)"
   if [ "${STARS}" = "null" ]
   then
-    echo "😱 could not get the number of starts for $p"
+    echo "😱 could not get the number of stars for $p"
     exit 1
   fi
-  echo "### $LINK<br>$DESCRIPTION<br>(⭐️<sup>x</sup>$STARS)" >> README.md
+  printf "### $LINK\n#### $DESCRIPTION\n(⭐️<sup>x</sub>$STARS)" >> README.md
 done < tmp
 
 cat src/footer.md >> README.md

@@ -18,7 +18,7 @@ do
     echo "😱 could not get the number of starts for $p"
     exit 1
   fi
-  echo "- $LINK $DESCRIPTION<br>(⭐️<sub>x</sub>$STARS)" >> README.md
+  echo "- $LINK<br>$DESCRIPTION (⭐️<sub>x</sub>$STARS)" >> README.md
 done < tmp
 
 cat src/footer.md >> README.md

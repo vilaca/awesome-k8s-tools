@@ -18,7 +18,7 @@
 - [kluctl/kluctl](https://github.com/kluctl/kluctl) 62
 - [knative](https://github.com/knative) null
 - [kubernetes/kops](https://github.com/kubernetes/kops) 14225
-- [lensapp/lens](https://github.com/lensapp/lens) 19145
+- [lensapp/lens](https://github.com/lensapp/lens) 19146
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) 3014
 - [loft-sh/vcluster](https://github.com/loft-sh/vcluster) 1820
 - [marcinguy/betterscan-ce](https://github.com/marcinguy/betterscan-ce) 266

@@ -10,9 +10,10 @@ do
   printf '%s\n' "$p"
   JSON="$(curl -s https://api.github.com/repos/$p)"
   SORTED="$(echo $JSON | sort)"
-  LINK="[$p](https://github.com/$p)"
+  NAME="$(echo $JSON | jq -r .name)"
   STARS="$(echo $JSON | jq .stargazers_count)"
   DESCRIPTION="$(echo $JSON | jq -r .description)"
+  LINK="[$NAME](https://github.com/$p)"
   if [ "${STARS}" = "null" ]
   then
     echo "😱 could not get the number of stars for $p"

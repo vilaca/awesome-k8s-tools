@@ -8,17 +8,17 @@ cut -d'/' -f4-5 src/repos > tmp
 while IFS="" read -r p || [ -n "$p" ]
 do
   printf '%s\n' "$p"
-  JSON="$(curl -s https://api.github.com/repos/$p)"
-  SORTED="$(echo $JSON | sort)"
-  LINK="[$p](https://github.com/$p)"
-  STARS="$(echo $JSON | jq .stargazers_count)"
-  DESCRIPTION="$(echo $JSON | jq -r .description)"
+  JSON="$(curl -s https://api.github.com/repos/"$p")"
+  NAME="$(echo "$JSON" | jq -r .name)"
+  STARS="$(echo "$JSON" | jq .stargazers_count)"
+  DESCRIPTION="$(echo "$JSON" | jq -r .description)"
+  LINK="[$NAME](https://github.com/$p)"
   if [ "${STARS}" = "null" ]
   then
     echo "😱 could not get the number of stars for $p"
     exit 1
   fi
-  printf "### $LINK <sup>⭐️ x $STARS</sup>\n$DESCRIPTION\n" >> README.md
+  printf '### %s <sup>⭐️ x %s</sup>\n%s\n' "$LINK" "$STARS" "$DESCRIPTION" >> README.md
 done < tmp
 
 cat src/footer.md >> README.md

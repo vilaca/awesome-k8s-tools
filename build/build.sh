@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 set -eou pipefail
 
-cp src/header.md README.md
+cp resources/header.md README.md
 
-cut -d'/' -f4-5 src/repos > tmp
+cut -d'/' -f4-5 data/repos > tmp
 
 while IFS="" read -r p || [ -n "$p" ]
 do
@@ -21,4 +21,4 @@ do
   printf '### %s <sup>⭐️ x %s</sup>\n%s\n' "$LINK" "$STARS" "$DESCRIPTION" >> README.md
 done < tmp
 
-cat src/footer.md >> README.md
+cat resources/footer.md >> README.md

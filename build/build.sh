@@ -3,8 +3,6 @@ set -eou pipefail
 
 cp resources/header.md README.md
 
-cut -d'/' -f4-5 data/repos > tmp
-
 while IFS="" read -r p || [ -n "$p" ]
 do
   printf '%s\n' "$p"
@@ -19,6 +17,6 @@ do
     exit 1
   fi
   printf '### %s <sup>⭐️ x %s</sup>\n%s\n' "$LINK" "$STARS" "$DESCRIPTION" >> README.md
-done < tmp
+done < "$(cut -d'/' -f4-5 data/repos)"
 
 cat resources/footer.md >> README.md

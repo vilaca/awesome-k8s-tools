@@ -1,92 +1,63 @@
 # Awesome list of open source k8s and container tools
 
-### [ahmetb/kubectx](https://github.com/ahmetb/kubectx)
+### [ahmetb/kubectx](https://github.com/ahmetb/kubectx) ⭐️ <sup>x</sup> 13525
 Faster way to switch between clusters and namespaces in kubectl
-(⭐️ <sup>x</sup> 13524)
-### [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+### [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ⭐️ <sup>x</sup> 10198
 Declarative continuous deployment for Kubernetes.
-(⭐️ <sup>x</sup> 10197)
-### [argoproj/argoproj](https://github.com/argoproj/argoproj)
+### [argoproj/argoproj](https://github.com/argoproj/argoproj) ⭐️ <sup>x</sup> 317
 Common project repo for all Argo Projects
-(⭐️ <sup>x</sup> 317)
-### [aws/karpenter](https://github.com/aws/karpenter)
+### [aws/karpenter](https://github.com/aws/karpenter) ⭐️ <sup>x</sup> 3127
 Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-(⭐️ <sup>x</sup> 3127)
-### [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+### [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ⭐️ <sup>x</sup> 4491
 Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
-(⭐️ <sup>x</sup> 4491)
-### [cue-lang/cue](https://github.com/cue-lang/cue)
+### [cue-lang/cue](https://github.com/cue-lang/cue) ⭐️ <sup>x</sup> 2806
 The new home of the CUE language! Validate and define text-based and dynamic configuration
-(⭐️ <sup>x</sup> 2806)
-### [derailed/k9s](https://github.com/derailed/k9s)
+### [derailed/k9s](https://github.com/derailed/k9s) ⭐️ <sup>x</sup> 17388
 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-(⭐️ <sup>x</sup> 17387)
-### [derailed/popeye](https://github.com/derailed/popeye)
+### [derailed/popeye](https://github.com/derailed/popeye) ⭐️ <sup>x</sup> 3732
 👀 A Kubernetes cluster resource sanitizer
-(⭐️ <sup>x</sup> 3732)
-### [digitalocean/clusterlint](https://github.com/digitalocean/clusterlint)
+### [digitalocean/clusterlint](https://github.com/digitalocean/clusterlint) ⭐️ <sup>x</sup> 480
 A best practices checker for Kubernetes clusters. 🤠
-(⭐️ <sup>x</sup> 480)
-### [eldadru/ksniff](https://github.com/eldadru/ksniff)
+### [eldadru/ksniff](https://github.com/eldadru/ksniff) ⭐️ <sup>x</sup> 2344
 Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark
-(⭐️ <sup>x</sup> 2344)
-### [farmotive/kpoof](https://github.com/farmotive/kpoof)
+### [farmotive/kpoof](https://github.com/farmotive/kpoof) ⭐️ <sup>x</sup> 69
 Quick k8s port-forward utility
-(⭐️ <sup>x</sup> 69)
-### [goharbor/harbor](https://github.com/goharbor/harbor)
+### [goharbor/harbor](https://github.com/goharbor/harbor) ⭐️ <sup>x</sup> 18009
 An open source trusted cloud native registry project that stores, signs, and scans content.
-(⭐️ <sup>x</sup> 18009)
-### [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko)
+### [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) ⭐️ <sup>x</sup> 10769
 Build Container Images In Kubernetes
-(⭐️ <sup>x</sup> 10769)
-### [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt)
+### [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) ⭐️ <sup>x</sup> 1224
 Automate Kubernetes Configuration Editing
-(⭐️ <sup>x</sup> 1223)
-### [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold)
+### [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) ⭐️ <sup>x</sup> 13110
 Easy and Repeatable Kubernetes Development
-(⭐️ <sup>x</sup> 13109)
-### [kluctl/kluctl](https://github.com/kluctl/kluctl)
+### [kluctl/kluctl](https://github.com/kluctl/kluctl) ⭐️ <sup>x</sup> 62
 The missing glue to put together large Kubernetes deployments, composed of multiple smaller parts (Helm/Kustomize/...) in a manageable and unified way.
-(⭐️ <sup>x</sup> 62)
-### [kubernetes/kops](https://github.com/kubernetes/kops)
+### [kubernetes/kops](https://github.com/kubernetes/kops) ⭐️ <sup>x</sup> 14225
 Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-(⭐️ <sup>x</sup> 14225)
-### [lensapp/lens](https://github.com/lensapp/lens)
+### [lensapp/lens](https://github.com/lensapp/lens) ⭐️ <sup>x</sup> 19151
 Lens - The way the world runs Kubernetes
-(⭐️ <sup>x</sup> 19147)
-### [loft-sh/devspace](https://github.com/loft-sh/devspace)
+### [loft-sh/devspace](https://github.com/loft-sh/devspace) ⭐️ <sup>x</sup> 3014
 DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-(⭐️ <sup>x</sup> 3014)
-### [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+### [loft-sh/vcluster](https://github.com/loft-sh/vcluster) ⭐️ <sup>x</sup> 1820
 vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
-(⭐️ <sup>x</sup> 1820)
-### [marcinguy/betterscan-ce](https://github.com/marcinguy/betterscan-ce)
+### [marcinguy/betterscan-ce](https://github.com/marcinguy/betterscan-ce) ⭐️ <sup>x</sup> 266
 Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan Community Edition (CE)
-(⭐️ <sup>x</sup> 266)
-### [okteto/okteto](https://github.com/okteto/okteto)
+### [okteto/okteto](https://github.com/okteto/okteto) ⭐️ <sup>x</sup> 2438
 Develop your applications directly in your Kubernetes Cluster
-(⭐️ <sup>x</sup> 2438)
-### [pivotal/kpack](https://github.com/pivotal/kpack)
+### [pivotal/kpack](https://github.com/pivotal/kpack) ⭐️ <sup>x</sup> 697
 Kubernetes Native Container Build Service
-(⭐️ <sup>x</sup> 697)
-### [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter)
+### [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) ⭐️ <sup>x</sup> 33
 Export Kubernetes events to multiple destinations with routing and filtering
-(⭐️ <sup>x</sup> 33)
-### [robusta-dev/kubewatch](https://github.com/robusta-dev/kubewatch)
+### [robusta-dev/kubewatch](https://github.com/robusta-dev/kubewatch) ⭐️ <sup>x</sup> 51
 Watch k8s events and trigger Handlers
-(⭐️ <sup>x</sup> 51)
-### [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
+### [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ⭐️ <sup>x</sup> 709
 Open source Kubernetes troubleshooting and automation platform
-(⭐️ <sup>x</sup> 709)
-### [twuni/docker-registry.helm](https://github.com/twuni/docker-registry.helm)
+### [twuni/docker-registry.helm](https://github.com/twuni/docker-registry.helm) ⭐️ <sup>x</sup> 138
 Helm chart for a Docker registry. Successor to stable/docker-registry chart.
-(⭐️ <sup>x</sup> 138)
-### [weaveworks/eksctl](https://github.com/weaveworks/eksctl)
+### [weaveworks/eksctl](https://github.com/weaveworks/eksctl) ⭐️ <sup>x</sup> 4030
 The official CLI for Amazon EKS
-(⭐️ <sup>x</sup> 4030)
-### [ryane/kfilt](https://github.com/ryane/kfilt)
+### [ryane/kfilt](https://github.com/ryane/kfilt) ⭐️ <sup>x</sup> 72
 kfilt can filter Kubernetes resources.
-(⭐️ <sup>x</sup> 72)
 
 ## Contributing
 

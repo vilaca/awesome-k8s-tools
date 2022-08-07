@@ -18,7 +18,7 @@ do
     echo "😱 could not get the number of stars for $p"
     exit 1
   fi
-  printf "### $LINK ⭐️ <sup>x</sup> $STARS\n$DESCRIPTION\n" >> README.md
+  printf "### $LINK <sub>⭐️ x $STARS</sup>\n$DESCRIPTION\n" >> README.md
 done < tmp
 
 cat src/footer.md >> README.md

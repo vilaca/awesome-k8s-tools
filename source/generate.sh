@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 set -eou pipefail
 
+sort -fo data/repos data/repos
+
 cut -d'/' -f4-5 data/repos > tmp
 
 while IFS="" read -r p || [ -n "$p" ]

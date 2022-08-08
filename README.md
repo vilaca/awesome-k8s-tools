@@ -1,10 +1,10 @@
 # Awesome list of open source k8s and container tools
 
-### [lens](https://github.com/lensapp/lens) <sup>⭐️ x 19162</sup>
+### [lens](https://github.com/lensapp/lens) <sup>⭐️ x 19164</sup>
 Lens - The way the world runs Kubernetes
-### [harbor](https://github.com/goharbor/harbor) <sup>⭐️ x 18012</sup>
+### [harbor](https://github.com/goharbor/harbor) <sup>⭐️ x 18014</sup>
 An open source trusted cloud native registry project that stores, signs, and scans content.
-### [k9s](https://github.com/derailed/k9s) <sup>⭐️ x 17393</sup>
+### [k9s](https://github.com/derailed/k9s) <sup>⭐️ x 17394</sup>
 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 ### [kops](https://github.com/kubernetes/kops) <sup>⭐️ x 14227</sup>
 Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
@@ -22,13 +22,15 @@ Prevent cloud misconfigurations and find vulnerabilities during build-time in in
 The official CLI for Amazon EKS
 ### [popeye](https://github.com/derailed/popeye) <sup>⭐️ x 3733</sup>
 👀 A Kubernetes cluster resource sanitizer
-### [karpenter](https://github.com/aws/karpenter) <sup>⭐️ x 3128</sup>
+### [werf](https://github.com/werf/werf) <sup>⭐️ x 3268</sup>
+A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
+### [karpenter](https://github.com/aws/karpenter) <sup>⭐️ x 3129</sup>
 Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 ### [devspace](https://github.com/loft-sh/devspace) <sup>⭐️ x 3015</sup>
 DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 ### [cue](https://github.com/cue-lang/cue) <sup>⭐️ x 2809</sup>
 The new home of the CUE language! Validate and define text-based and dynamic configuration
-### [okteto](https://github.com/okteto/okteto) <sup>⭐️ x 2440</sup>
+### [okteto](https://github.com/okteto/okteto) <sup>⭐️ x 2441</sup>
 Develop your applications directly in your Kubernetes Cluster
 ### [ksniff](https://github.com/eldadru/ksniff) <sup>⭐️ x 2344</sup>
 Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark

@@ -1,5 +1,7 @@
 # Awesome list of open source k8s and container tools
 
+### [helm](https://github.com/helm/helm) <sup>⭐️ x 22386</sup>
+The Kubernetes Package Manager
 ### [lens](https://github.com/lensapp/lens) <sup>⭐️ x 19232</sup>
 Lens - The way the world runs Kubernetes
 ### [harbor](https://github.com/goharbor/harbor) <sup>⭐️ x 18042</sup>

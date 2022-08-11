@@ -4,7 +4,7 @@
 Lens - The way the world runs Kubernetes
 ### [harbor](https://github.com/goharbor/harbor) <sup>⭐️ x 18042</sup>
 An open source trusted cloud native registry project that stores, signs, and scans content.
-### [k9s](https://github.com/derailed/k9s) <sup>⭐️ x 17493</sup>
+### [k9s](https://github.com/derailed/k9s) <sup>⭐️ x 17494</sup>
 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 ### [k6](https://github.com/grafana/k6) <sup>⭐️ x 17469</sup>
 A modern load testing tool, using Go and JavaScript - https://k6.io
@@ -16,7 +16,7 @@ Faster way to switch between clusters and namespaces in kubectl
 Easy and Repeatable Kubernetes Development
 ### [kaniko](https://github.com/GoogleContainerTools/kaniko) <sup>⭐️ x 10791</sup>
 Build Container Images In Kubernetes
-### [argo-cd](https://github.com/argoproj/argo-cd) <sup>⭐️ x 10246</sup>
+### [argo-cd](https://github.com/argoproj/argo-cd) <sup>⭐️ x 10248</sup>
 Declarative continuous deployment for Kubernetes.
 ### [checkov](https://github.com/bridgecrewio/checkov) <sup>⭐️ x 4513</sup>
 Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
@@ -48,8 +48,6 @@ Kubernetes Native Container Build Service
 A best practices checker for Kubernetes clusters. 🤠
 ### [betterscan-ce](https://github.com/marcinguy/betterscan-ce) <sup>⭐️ x 267</sup>
 Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan Community Edition (CE)
-### [cloud-is-free](https://github.com/ydamni/cloud-is-free) <sup>⭐️ x 156</sup>
-Learn how to setup Cloud projects... for free!
 ### [docker-registry.helm](https://github.com/twuni/docker-registry.helm) <sup>⭐️ x 140</sup>
 Helm chart for a Docker registry. Successor to stable/docker-registry chart.
 ### [kfilt](https://github.com/ryane/kfilt) <sup>⭐️ x 73</sup>

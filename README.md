@@ -62,5 +62,3 @@ Export Kubernetes events to multiple destinations with routing and filtering
 ## Contributing
 
 Send me a PR.
-
-

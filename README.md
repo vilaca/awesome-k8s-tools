@@ -42,7 +42,7 @@ Automate Kubernetes Configuration Editing
 Open source Kubernetes troubleshooting and automation platform
 ### [kpack](https://github.com/pivotal/kpack) <sup>⭐️ x 698</sup>
 Kubernetes Native Container Build Service
-### [clusterlint](https://github.com/digitalocean/clusterlint) <sup>⭐️ x 481</sup>
+### [clusterlint](https://github.com/digitalocean/clusterlint) <sup>⭐️ x 480</sup>
 A best practices checker for Kubernetes clusters. 🤠
 ### [betterscan-ce](https://github.com/marcinguy/betterscan-ce) <sup>⭐️ x 267</sup>
 Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan Community Edition (CE)

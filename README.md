@@ -30,8 +30,6 @@ A solution for implementing efficient and consistent software delivery to Kubern
 Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 ### [devspace](https://github.com/loft-sh/devspace) <sup>⭐️ x 3022</sup>
 DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-### [cue](https://github.com/cue-lang/cue) <sup>⭐️ x 2820</sup>
-The new home of the CUE language! Validate and define text-based and dynamic configuration
 ### [okteto](https://github.com/okteto/okteto) <sup>⭐️ x 2451</sup>
 Develop your applications directly in your Kubernetes Cluster
 ### [ksniff](https://github.com/eldadru/ksniff) <sup>⭐️ x 2349</sup>
@@ -48,8 +46,6 @@ Kubernetes Native Container Build Service
 A best practices checker for Kubernetes clusters. 🤠
 ### [betterscan-ce](https://github.com/marcinguy/betterscan-ce) <sup>⭐️ x 267</sup>
 Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan Community Edition (CE)
-### [docker-registry.helm](https://github.com/twuni/docker-registry.helm) <sup>⭐️ x 140</sup>
-Helm chart for a Docker registry. Successor to stable/docker-registry chart.
 ### [kfilt](https://github.com/ryane/kfilt) <sup>⭐️ x 73</sup>
 kfilt can filter Kubernetes resources.
 ### [kpoof](https://github.com/farmotive/kpoof) <sup>⭐️ x 69</sup>

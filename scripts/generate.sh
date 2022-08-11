@@ -8,7 +8,7 @@ cut -d'/' -f4-5 data/repos > tmp
 while IFS="" read -r p || [ -n "$p" ]
 do
   printf 'Indexing %s\n' "$p"
-  JSON="$(curl -s https://api.github.com/repos/"$p")"
+  JSON="$(curl -s https://api.github.com/repos/"$p"/?$RANDOM)"
   STARS="$(echo "$JSON" | jq .stargazers_count)"
   if [ "${STARS}" = "null" ]
   then

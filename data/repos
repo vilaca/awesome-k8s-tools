@@ -7,6 +7,7 @@ https://github.com/derailed/popeye
 https://github.com/digitalocean/clusterlint
 https://github.com/eldadru/ksniff
 https://github.com/farmotive/kpoof
+https://github.com/fluxcd/flux2
 https://github.com/goharbor/harbor
 https://github.com/GoogleContainerTools/kaniko
 https://github.com/GoogleContainerTools/kpt
@@ -20,8 +21,8 @@ https://github.com/loft-sh/devspace
 https://github.com/loft-sh/vcluster
 https://github.com/marcinguy/betterscan-ce
 https://github.com/okteto/okteto
+https://github.com/opsgenie/kubernetes-event-exporter
 https://github.com/pivotal/kpack
-https://github.com/resmoio/kubernetes-event-exporter
 https://github.com/robusta-dev/robusta
 https://github.com/ryane/kfilt
 https://github.com/weaveworks/eksctl

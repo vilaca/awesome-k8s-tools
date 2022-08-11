@@ -6,7 +6,7 @@ The Kubernetes Package Manager
 Lens - The way the world runs Kubernetes
 ### [harbor](https://github.com/goharbor/harbor) <sup>⭐️ x 18042</sup>
 An open source trusted cloud native registry project that stores, signs, and scans content.
-### [k9s](https://github.com/derailed/k9s) <sup>⭐️ x 17495</sup>
+### [k9s](https://github.com/derailed/k9s) <sup>⭐️ x 17496</sup>
 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 ### [k6](https://github.com/grafana/k6) <sup>⭐️ x 17469</sup>
 A modern load testing tool, using Go and JavaScript - https://k6.io
@@ -26,6 +26,8 @@ Prevent cloud misconfigurations and find vulnerabilities during build-time in in
 The official CLI for Amazon EKS
 ### [popeye](https://github.com/derailed/popeye) <sup>⭐️ x 3741</sup>
 👀 A Kubernetes cluster resource sanitizer
+### [flux2](https://github.com/fluxcd/flux2) <sup>⭐️ x 3665</sup>
+Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 ### [werf](https://github.com/werf/werf) <sup>⭐️ x 3271</sup>
 A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 ### [karpenter](https://github.com/aws/karpenter) <sup>⭐️ x 3136</sup>
@@ -40,6 +42,8 @@ Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark
 vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
 ### [kpt](https://github.com/GoogleContainerTools/kpt) <sup>⭐️ x 1233</sup>
 Automate Kubernetes Configuration Editing
+### [kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) <sup>⭐️ x 986</sup>
+Export Kubernetes events to multiple destinations with routing and filtering
 ### [robusta](https://github.com/robusta-dev/robusta) <sup>⭐️ x 730</sup>
 Open source Kubernetes troubleshooting and automation platform
 ### [kpack](https://github.com/pivotal/kpack) <sup>⭐️ x 698</sup>
@@ -54,8 +58,6 @@ kfilt can filter Kubernetes resources.
 Quick k8s port-forward utility
 ### [kluctl](https://github.com/kluctl/kluctl) <sup>⭐️ x 63</sup>
 The missing glue to put together large Kubernetes deployments, composed of multiple smaller parts (Helm/Kustomize/...)  in a manageable and unified way.
-### [kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) <sup>⭐️ x 33</sup>
-Export Kubernetes events to multiple destinations with routing and filtering
 
 ## Contributing
 

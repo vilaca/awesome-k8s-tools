@@ -16,7 +16,7 @@ do
   FULL_NAME="$(echo "$JSON" | jq -r .full_name)"
   STARS="$(echo "$JSON" | jq .stargazers_count)"
   DESCRIPTION="$(echo "$JSON" | jq -r .description)"
-  LINK="[$NAME](https://github.com/$FULL_NAME)"
+  LINK="[$NAME^](https://github.com/$FULL_NAME)"
   if [ "${STARS}" = "null" ]
   then
     echo "😱 could not get the number of stars for $FULL_NAME"

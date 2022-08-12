@@ -22,5 +22,5 @@ do
     echo "😱 could not get the number of stars for $FULL_NAME"
     exit 1
   fi
-  printf '### %s <sup>⭐️ x %s | 🧑‍💻 x %s | ❕ x %s</sup>\n%s\n' "$LINK" "$STARS" "$FORKS" "$ISSUES" "$DESCRIPTION" >> README.md
+  printf '### %s\n%s <sup>⭐️ x %s 🧑‍💻 x %s ❕ x %s</sup>\n' "$LINK" "$DESCRIPTION" "$STARS" "$FORKS" "$ISSUES" >> README.md
 done < sorted

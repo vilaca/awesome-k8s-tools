@@ -5,6 +5,8 @@ sort -fo data/repos data/repos
 
 cut -d'/' -f4-5 data/repos > tmp
 
+bash --version
+
 declare -A cache
 
 while IFS="" read -r p || [ -n "$p" ]

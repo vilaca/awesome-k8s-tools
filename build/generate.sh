@@ -27,7 +27,7 @@ sort -nr index | cut -d' ' -f2 > sorted
 while IFS="" read -r p || [ -n "$p" ]
 do
   printf 'Processing %s\n' "$p"
-  JSON="${cache["$p"]}"
+  JSON="${cache[p]}"
   NAME="$(echo "$JSON" | jq -r .name)"
   STARS="$(echo "$JSON" | jq .stargazers_count)"
   DESCRIPTION="$(echo "$JSON" | jq -r .description)"

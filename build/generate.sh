@@ -5,10 +5,13 @@ sort -fo data/repos data/repos
 
 cut -d'/' -f4-5 data/repos > tmp
 
+declare -A cache
+
 while IFS="" read -r p || [ -n "$p" ]
 do
   printf 'Indexing %s\n' "$p"
-  JSON="$(curl -s https://api.github.com/repos/"$p"?"$RANDOM")"
+  JSON="$(curl -s https://api.github.com/repos/"$p")"
+  cache[p]=JSON
   STARS="$(echo "$JSON" | jq .stargazers_count)"
   if [ "${STARS}" = "null" ]
   then
@@ -23,7 +26,7 @@ sort -nr index | cut -d' ' -f2 > sorted
 while IFS="" read -r p || [ -n "$p" ]
 do
   printf 'Processing %s\n' "$p"
-  JSON="$(curl -s https://api.github.com/repos/"$p"?"$RANDOM")"
+  JSON=cache[p]
   NAME="$(echo "$JSON" | jq -r .name)"
   STARS="$(echo "$JSON" | jq .stargazers_count)"
   DESCRIPTION="$(echo "$JSON" | jq -r .description)"

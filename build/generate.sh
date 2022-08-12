@@ -18,6 +18,7 @@ do
     echo "$JSON"
     exit 1
   fi
+  printf '%s %s\n' "$STARS" "${JSON//[$'\t\r\n']}"
   printf '%s %s\n' "$STARS" "${JSON//[$'\t\r\n']}" >> index
 done < tmp
 

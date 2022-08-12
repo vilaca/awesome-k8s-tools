@@ -24,7 +24,7 @@ do
   fi
   printf '### %s\n' "$LINK" >> README.md
   printf '#### %s\n' "$DESCRIPTION" >> README.md
-  printf '###### [%s ⭐️](https://api.github.com/repos/%s/stargazers),' "$STARS" "$FULL_NAME" >> README.md
-  printf ' [%s 🚀](https://api.github.com/repos/%s/forks),' "$FORKS" "$FULL_NAME" >> README.md
-  printf ' [%s 💥](https://api.github.com/repos/%s/issues)\n\n' "$ISSUES" "$FULL_NAME" >> README.md
+  printf '###### %s [⭐️](https://api.github.com/repos/%s/stargazers),' "$STARS" "$FULL_NAME" >> README.md
+  printf ' %s [🚀](https://api.github.com/repos/%s/forks),' "$FORKS" "$FULL_NAME" >> README.md
+  printf ' %s [💥](https://api.github.com/repos/%s/issues)\n\n' "$ISSUES" "$FULL_NAME" >> README.md
 done < sorted

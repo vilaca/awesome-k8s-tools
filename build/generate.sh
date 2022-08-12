@@ -13,6 +13,8 @@ do
   NAME="$(echo "$JSON" | jq -r .name)"
   FULL_NAME="$(echo "$JSON" | jq -r .full_name)"
   STARS="$(echo "$JSON" | jq .stargazers_count)"
+  FORKS="$(echo "$JSON" | jq .forks)"
+  ISSUES="$(echo "$JSON" | jq .open_issues)"
   DESCRIPTION="$(echo "$JSON" | jq -r .description)"
   LINK="[${NAME^}](https://github.com/$FULL_NAME)"
   if [ "${STARS}" = "null" ]
@@ -20,5 +22,5 @@ do
     echo "😱 could not get the number of stars for $FULL_NAME"
     exit 1
   fi
-  printf '### %s <sup>⭐️ x %s</sup>\n%s\n' "$LINK" "$STARS" "$DESCRIPTION" >> README.md
+  printf '### %s <sup>⭐️ x %s | 🧑‍💻 x %s | ❕ x %s</sup>\n%s\n' "$LINK" "$STARS" "$FORKS" "$ISSUES" "$DESCRIPTION" >> README.md
 done < sorted

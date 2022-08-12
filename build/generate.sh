@@ -12,13 +12,14 @@ cat sorted
 while IFS="" read -r JSON || [ -n "$JSON" ]
 do
   printf 'Processing %s\n' "$JSON"
-  NAME="$(echo "$JSON" | jq -r .name)"
+  NAME="$(echo "$JSON" | jq -r .full_name)"
+  FULL_NAME="$(echo "$JSON" | jq -r .name)"
   STARS="$(echo "$JSON" | jq .stargazers_count)"
   DESCRIPTION="$(echo "$JSON" | jq -r .description)"
-  LINK="[$NAME](https://github.com/$p)"
+  LINK="[$NAME](https://github.com/$FULL_NAME)"
   if [ "${STARS}" = "null" ]
   then
-    echo "😱 could not get the number of stars for $p"
+    echo "😱 could not get the number of stars for $FULL_NAME"
     exit 1
   fi
   printf '### %s <sup>⭐️ x %s</sup>\n%s\n' "$LINK" "$STARS" "$DESCRIPTION" >> README.md

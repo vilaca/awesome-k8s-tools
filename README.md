@@ -6,7 +6,7 @@ The open and composable observability and data visualization platform. Visualize
 The Prometheus monitoring system and time series database.
 ### [Helm](https://github.com/helm/helm) <sup>⭐️ x 22393</sup>
 The Kubernetes Package Manager
-### [Lens](https://github.com/lensapp/lens) <sup>⭐️ x 19233</sup>
+### [Lens](https://github.com/lensapp/lens) <sup>⭐️ x 19232</sup>
 Lens - The way the world runs Kubernetes
 ### [Harbor](https://github.com/goharbor/harbor) <sup>⭐️ x 18051</sup>
 An open source trusted cloud native registry project that stores, signs, and scans content.

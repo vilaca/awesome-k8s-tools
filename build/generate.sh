@@ -23,6 +23,8 @@ done < tmp
 
 sort -nr index | cut -d' ' -f2 > sorted
 
+cat sorted
+
 while IFS="" read -r JSON || [ -n "$JSON" ]
 do
   printf 'Processing %s\n' "$JSON"

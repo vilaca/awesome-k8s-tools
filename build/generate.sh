@@ -14,6 +14,7 @@ do
   printf 'Pulling %s\n' "$p"
   JSON="$(curl -s https://api.github.com/repos/"$p")"
   cache[p]=JSON
+  echo "$cache[p]"
   STARS="$(echo "$JSON" | jq .stargazers_count)"
   if [ "${STARS}" = "null" ]
   then

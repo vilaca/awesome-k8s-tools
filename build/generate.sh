@@ -30,11 +30,11 @@ while IFS="" read -r p || [ -n "$p" ]
 do
   printf 'Processing %s\n' "$p"
   JSON="${cache[p]}"
+  echo "$JSON"
   NAME="$(echo "$JSON" | jq -r .name)"
   STARS="$(echo "$JSON" | jq .stargazers_count)"
   DESCRIPTION="$(echo "$JSON" | jq -r .description)"
   LINK="[$NAME](https://github.com/$p)"
-  echo "$JSON"
   if [ "${STARS}" = "null" ]
   then
     echo "😱 could not get the number of stars for $p"

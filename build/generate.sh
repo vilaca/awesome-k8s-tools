@@ -9,7 +9,7 @@ declare -A cache
 
 while IFS="" read -r p || [ -n "$p" ]
 do
-  printf 'Indexing %s\n' "$p"
+  printf 'Pulling %s\n' "$p"
   JSON="$(curl -s https://api.github.com/repos/"$p")"
   cache[p]=JSON
   STARS="$(echo "$JSON" | jq .stargazers_count)"
@@ -27,6 +27,7 @@ while IFS="" read -r p || [ -n "$p" ]
 do
   printf 'Processing %s\n' "$p"
   JSON=cache[p]
+  echo $JSON
   NAME="$(echo "$JSON" | jq -r .name)"
   STARS="$(echo "$JSON" | jq .stargazers_count)"
   DESCRIPTION="$(echo "$JSON" | jq -r .description)"

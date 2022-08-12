@@ -22,7 +22,7 @@ do
   printf '%s %s\n' "$STARS" "${JSON//[$'\t\r\n']}" >> index
 done < tmp
 
-sort -nr index | cut -d' ' -f2 > sorted
+sort -nr index # | cut -d' ' -f2 > sorted
 
 cat sorted
 

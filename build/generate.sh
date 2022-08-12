@@ -16,6 +16,7 @@ do
   if [ "${STARS}" = "null" ]
   then
     echo "😱 could not get the number of stars for $p"
+    echo "$JSON"
     exit 1
   fi
   printf '%s %s\n' "$STARS" "$p" >> index
@@ -26,8 +27,7 @@ sort -nr index | cut -d' ' -f2 > sorted
 while IFS="" read -r p || [ -n "$p" ]
 do
   printf 'Processing %s\n' "$p"
-  JSON=cache[p]
-  echo $JSON
+  JSON="${cache["$p"]}"
   NAME="$(echo "$JSON" | jq -r .name)"
   STARS="$(echo "$JSON" | jq .stargazers_count)"
   DESCRIPTION="$(echo "$JSON" | jq -r .description)"

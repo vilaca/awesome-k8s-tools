@@ -18,7 +18,7 @@ do
     echo "$JSON"
     exit 1
   fi
-  printf '%s %s\n' "$STARS" "$JSON" >> index
+  printf '%s %s\n' "$STARS" "${JSON//[$'\t\r\n']}" >> index
 done < tmp
 
 sort -nr index | cut -d' ' -f2 > sorted

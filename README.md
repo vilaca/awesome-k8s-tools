@@ -165,7 +165,7 @@
 ### [Betterscan-ce](https://github.com/marcinguy/betterscan-ce) ~ *Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan Community Edition (CE)*
 ###### [⭐️](https://github.com/marcinguy/betterscan-ce/stargazers) 268 [🚀](https://github.com/marcinguy/betterscan-ce/network/members) 41 [💥](https://github.com/marcinguy/betterscan-ce/issues) 17 🪪  Other
 
-## ⭐️⭐️⭐️⭐️⭐️ Other
+## ⭐️ Misc
 ### [Thanos](https://github.com/thanos-io/thanos) ~ *Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.*
 ###### [⭐️](https://github.com/thanos-io/thanos/stargazers) 10.8K [🚀](https://github.com/thanos-io/thanos/network/members) 1.6K [💥](https://github.com/thanos-io/thanos/issues) 217 🪪  Apache License 2.0
 

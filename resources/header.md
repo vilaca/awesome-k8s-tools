@@ -1,2 +1,2 @@
-# Awesome list of open source k8s and container tools
+# Awesome List of Open Source K8s and Container Tools
 

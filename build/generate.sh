@@ -1,30 +1,38 @@
 #!/usr/bin/env bash
 set -eou pipefail
 
-sort -fo data/repos data/repos
-
-cut -d'/' -f4-5 data/repos > tmp
-
 sort -nr index | cut -d' ' -f2- > sorted
 
+top=0
 while IFS="" read -r JSON || [ -n "$JSON" ]
 do
-  printf 'Processing %s\n' "$JSON"
   NAME="$(echo "$JSON" | jq -r .name)"
   FULL_NAME="$(echo "$JSON" | jq -r .full_name)"
   STARS="$(echo "$JSON" | jq .stargazers_count)"
   FORKS="$(echo "$JSON" | jq .forks)"
   ISSUES="$(echo "$JSON" | jq .open_issues)"
-  DESCRIPTION="$(echo "$JSON" | jq -r .description)"
+  DESCRIPTION="$(echo "$JSON" | jq -r .description | awk '{$1=$1;print}')"
+  UPDATED="$(echo "$JSON" | jq -r .pushed_at)"
+  LICENSE="$(echo "$JSON" | jq -r .license.name)"
   LINK="[${NAME^}](https://github.com/$FULL_NAME)"
   if [ "${STARS}" = "null" ]
   then
     echo "😱 could not get the number of stars for $FULL_NAME"
+    echo "$JSON"
     exit 1
   fi
-  printf '### %s\n' "$LINK" >> README.md
-  printf '#### %s\n' "$DESCRIPTION" >> README.md
-  printf '###### [⭐️](https://github.com/%s/stargazers) %s,' "$FULL_NAME" "$STARS" >> README.md
-  printf ' [🚀](https://github.com/%s/network/members) %s,' "$FULL_NAME" "$FORKS" >> README.md
-  printf ' [💥](https://github.com/%s/issues) %s\n\n' "$FULL_NAME" "$ISSUES" >> README.md
+
+  ./build/card.sh "$LINK" "$DESCRIPTION" "$FULL_NAME" "$STARS" "$FORKS" "$ISSUES" "$LICENSE" >> CARD.md
+  
+  if [ "$top" -lt "10" ]; then
+    ((top=top+1))
+    cat CARD.md >> TOP.md
+  fi;
+
+  echo "$JSON" | jq -r '.topics[]' | while read i; do
+    cat CARD.md >> "$i".topic
+  done
+
+  rm CARD.md
+
 done < sorted

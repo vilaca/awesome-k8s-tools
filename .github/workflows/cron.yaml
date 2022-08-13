@@ -8,7 +8,7 @@ jobs:
     steps:
     - name: Build
       shell: bash
-      run: ./scripts/build.sh
+      run: ./build/build.sh
     - name: Extract branch name
       shell: bash
       run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"

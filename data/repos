@@ -1,4 +1,5 @@
 https://github.com/ahmetb/kubectx
+https://github.com/aquasecurity/trivy
 https://github.com/argoproj/argo-cd
 https://github.com/aws/karpenter
 https://github.com/bridgecrewio/checkov
@@ -15,6 +16,7 @@ https://github.com/GoogleContainerTools/skaffold
 https://github.com/grafana/grafana
 https://github.com/grafana/k6
 https://github.com/grafana/loki
+https://github.com/hadolint/hadolint
 https://github.com/helm/helm
 https://github.com/jacksontj/promxy
 https://github.com/kluctl/kluctl
@@ -34,5 +36,3 @@ https://github.com/ryane/kfilt
 https://github.com/thanos-io/thanos
 https://github.com/weaveworks/eksctl
 https://github.com/werf/werf
-https://github.com/aquasecurity/trivy
-https://github.com/hadolint/hadolint

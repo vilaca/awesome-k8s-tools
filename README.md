@@ -2,67 +2,75 @@
 
 ### [Grafana](https://github.com/grafana/grafana)
 #### The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-###### [⭐️](https://github.com/grafana/grafana/stargazers) 50391, [🚀](https://github.com/grafana/grafana/network/members) 9887, [💥](https://github.com/grafana/grafana/issues) 2563
+###### [⭐️](https://github.com/grafana/grafana/stargazers) 50393, [🚀](https://github.com/grafana/grafana/network/members) 9887, [💥](https://github.com/grafana/grafana/issues) 2554
 
 ### [Prometheus](https://github.com/prometheus/prometheus)
 #### The Prometheus monitoring system and time series database.
-###### [⭐️](https://github.com/prometheus/prometheus/stargazers) 43801, [🚀](https://github.com/prometheus/prometheus/network/members) 7374, [💥](https://github.com/prometheus/prometheus/issues) 680
+###### [⭐️](https://github.com/prometheus/prometheus/stargazers) 43802, [🚀](https://github.com/prometheus/prometheus/network/members) 7376, [💥](https://github.com/prometheus/prometheus/issues) 680
 
 ### [Helm](https://github.com/helm/helm)
 #### The Kubernetes Package Manager
-###### [⭐️](https://github.com/helm/helm/stargazers) 22393, [🚀](https://github.com/helm/helm/network/members) 6328, [💥](https://github.com/helm/helm/issues) 508
+###### [⭐️](https://github.com/helm/helm/stargazers) 22397, [🚀](https://github.com/helm/helm/network/members) 6328, [💥](https://github.com/helm/helm/issues) 509
 
 ### [Lens](https://github.com/lensapp/lens)
 #### Lens - The way the world runs Kubernetes
-###### [⭐️](https://github.com/lensapp/lens/stargazers) 19232, [🚀](https://github.com/lensapp/lens/network/members) 1046, [💥](https://github.com/lensapp/lens/issues) 840
+###### [⭐️](https://github.com/lensapp/lens/stargazers) 19233, [🚀](https://github.com/lensapp/lens/network/members) 1046, [💥](https://github.com/lensapp/lens/issues) 840
 
 ### [Harbor](https://github.com/goharbor/harbor)
 #### An open source trusted cloud native registry project that stores, signs, and scans content.
-###### [⭐️](https://github.com/goharbor/harbor/stargazers) 18051, [🚀](https://github.com/goharbor/harbor/network/members) 4134, [💥](https://github.com/goharbor/harbor/issues) 560
+###### [⭐️](https://github.com/goharbor/harbor/stargazers) 18051, [🚀](https://github.com/goharbor/harbor/network/members) 4134, [💥](https://github.com/goharbor/harbor/issues) 559
 
 ### [K9s](https://github.com/derailed/k9s)
 #### 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-###### [⭐️](https://github.com/derailed/k9s/stargazers) 17508, [🚀](https://github.com/derailed/k9s/network/members) 1102, [💥](https://github.com/derailed/k9s/issues) 320
+###### [⭐️](https://github.com/derailed/k9s/stargazers) 17510, [🚀](https://github.com/derailed/k9s/network/members) 1102, [💥](https://github.com/derailed/k9s/issues) 320
 
 ### [K6](https://github.com/grafana/k6)
 #### A modern load testing tool, using Go and JavaScript - https://k6.io
-###### [⭐️](https://github.com/grafana/k6/stargazers) 17477, [🚀](https://github.com/grafana/k6/network/members) 913, [💥](https://github.com/grafana/k6/issues) 344
+###### [⭐️](https://github.com/grafana/k6/stargazers) 17478, [🚀](https://github.com/grafana/k6/network/members) 913, [💥](https://github.com/grafana/k6/issues) 344
 
 ### [Loki](https://github.com/grafana/loki)
 #### Like Prometheus, but for logs.
-###### [⭐️](https://github.com/grafana/loki/stargazers) 16707, [🚀](https://github.com/grafana/loki/network/members) 2088, [💥](https://github.com/grafana/loki/issues) 488
+###### [⭐️](https://github.com/grafana/loki/stargazers) 16708, [🚀](https://github.com/grafana/loki/network/members) 2088, [💥](https://github.com/grafana/loki/issues) 488
 
 ### [Kops](https://github.com/kubernetes/kops)
 #### Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-###### [⭐️](https://github.com/kubernetes/kops/stargazers) 14240, [🚀](https://github.com/kubernetes/kops/network/members) 4387, [💥](https://github.com/kubernetes/kops/issues) 181
+###### [⭐️](https://github.com/kubernetes/kops/stargazers) 14241, [🚀](https://github.com/kubernetes/kops/network/members) 4386, [💥](https://github.com/kubernetes/kops/issues) 181
 
 ### [Kubectx](https://github.com/ahmetb/kubectx)
 #### Faster way to switch between clusters and namespaces in kubectl
-###### [⭐️](https://github.com/ahmetb/kubectx/stargazers) 13555, [🚀](https://github.com/ahmetb/kubectx/network/members) 971, [💥](https://github.com/ahmetb/kubectx/issues) 46
+###### [⭐️](https://github.com/ahmetb/kubectx/stargazers) 13555, [🚀](https://github.com/ahmetb/kubectx/network/members) 973, [💥](https://github.com/ahmetb/kubectx/issues) 46
+
+### [Trivy](https://github.com/aquasecurity/trivy)
+#### Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
+###### [⭐️](https://github.com/aquasecurity/trivy/stargazers) 13255, [🚀](https://github.com/aquasecurity/trivy/network/members) 1272, [💥](https://github.com/aquasecurity/trivy/issues) 242
 
 ### [Skaffold](https://github.com/GoogleContainerTools/skaffold)
 #### Easy and Repeatable Kubernetes Development
-###### [⭐️](https://github.com/GoogleContainerTools/skaffold/stargazers) 13130, [🚀](https://github.com/GoogleContainerTools/skaffold/network/members) 1438, [💥](https://github.com/GoogleContainerTools/skaffold/issues) 608
+###### [⭐️](https://github.com/GoogleContainerTools/skaffold/stargazers) 13134, [🚀](https://github.com/GoogleContainerTools/skaffold/network/members) 1438, [💥](https://github.com/GoogleContainerTools/skaffold/issues) 609
 
 ### [Thanos](https://github.com/thanos-io/thanos)
 #### Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-###### [⭐️](https://github.com/thanos-io/thanos/stargazers) 10819, [🚀](https://github.com/thanos-io/thanos/network/members) 1646, [💥](https://github.com/thanos-io/thanos/issues) 219
+###### [⭐️](https://github.com/thanos-io/thanos/stargazers) 10820, [🚀](https://github.com/thanos-io/thanos/network/members) 1646, [💥](https://github.com/thanos-io/thanos/issues) 219
 
 ### [Kaniko](https://github.com/GoogleContainerTools/kaniko)
 #### Build Container Images In Kubernetes
-###### [⭐️](https://github.com/GoogleContainerTools/kaniko/stargazers) 10797, [🚀](https://github.com/GoogleContainerTools/kaniko/network/members) 1108, [💥](https://github.com/GoogleContainerTools/kaniko/issues) 530
+###### [⭐️](https://github.com/GoogleContainerTools/kaniko/stargazers) 10799, [🚀](https://github.com/GoogleContainerTools/kaniko/network/members) 1109, [💥](https://github.com/GoogleContainerTools/kaniko/issues) 530
 
 ### [Argo-cd](https://github.com/argoproj/argo-cd)
 #### Declarative continuous deployment for Kubernetes.
-###### [⭐️](https://github.com/argoproj/argo-cd/stargazers) 10263, [🚀](https://github.com/argoproj/argo-cd/network/members) 2743, [💥](https://github.com/argoproj/argo-cd/issues) 1717
+###### [⭐️](https://github.com/argoproj/argo-cd/stargazers) 10263, [🚀](https://github.com/argoproj/argo-cd/network/members) 2744, [💥](https://github.com/argoproj/argo-cd/issues) 1717
 
 ### [Node_exporter](https://github.com/prometheus/node_exporter)
 #### Exporter for machine metrics
-###### [⭐️](https://github.com/prometheus/node_exporter/stargazers) 7762, [🚀](https://github.com/prometheus/node_exporter/network/members) 1879, [💥](https://github.com/prometheus/node_exporter/issues) 172
+###### [⭐️](https://github.com/prometheus/node_exporter/stargazers) 7763, [🚀](https://github.com/prometheus/node_exporter/network/members) 1879, [💥](https://github.com/prometheus/node_exporter/issues) 172
+
+### [Hadolint](https://github.com/hadolint/hadolint)
+#### Dockerfile linter, validate inline bash, written in Haskell
+###### [⭐️](https://github.com/hadolint/hadolint/stargazers) 7342, [🚀](https://github.com/hadolint/hadolint/network/members) 320, [💥](https://github.com/hadolint/hadolint/issues) 121
 
 ### [Alertmanager](https://github.com/prometheus/alertmanager)
 #### Prometheus Alertmanager
-###### [⭐️](https://github.com/prometheus/alertmanager/stargazers) 5094, [🚀](https://github.com/prometheus/alertmanager/network/members) 1819, [💥](https://github.com/prometheus/alertmanager/issues) 380
+###### [⭐️](https://github.com/prometheus/alertmanager/stargazers) 5095, [🚀](https://github.com/prometheus/alertmanager/network/members) 1819, [💥](https://github.com/prometheus/alertmanager/issues) 380
 
 ### [Checkov](https://github.com/bridgecrewio/checkov)
 #### Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
@@ -70,7 +78,7 @@
 
 ### [Eksctl](https://github.com/weaveworks/eksctl)
 #### The official CLI for Amazon EKS
-###### [⭐️](https://github.com/weaveworks/eksctl/stargazers) 4047, [🚀](https://github.com/weaveworks/eksctl/network/members) 1126, [💥](https://github.com/weaveworks/eksctl/issues) 93
+###### [⭐️](https://github.com/weaveworks/eksctl/stargazers) 4048, [🚀](https://github.com/weaveworks/eksctl/network/members) 1126, [💥](https://github.com/weaveworks/eksctl/issues) 93
 
 ### [Popeye](https://github.com/derailed/popeye)
 #### 👀 A Kubernetes cluster resource sanitizer
@@ -86,11 +94,11 @@
 
 ### [Karpenter](https://github.com/aws/karpenter)
 #### Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-###### [⭐️](https://github.com/aws/karpenter/stargazers) 3136, [🚀](https://github.com/aws/karpenter/network/members) 327, [💥](https://github.com/aws/karpenter/issues) 114
+###### [⭐️](https://github.com/aws/karpenter/stargazers) 3137, [🚀](https://github.com/aws/karpenter/network/members) 327, [💥](https://github.com/aws/karpenter/issues) 114
 
 ### [Devspace](https://github.com/loft-sh/devspace)
 #### DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-###### [⭐️](https://github.com/loft-sh/devspace/stargazers) 3023, [🚀](https://github.com/loft-sh/devspace/network/members) 252, [💥](https://github.com/loft-sh/devspace/issues) 177
+###### [⭐️](https://github.com/loft-sh/devspace/stargazers) 3024, [🚀](https://github.com/loft-sh/devspace/network/members) 252, [💥](https://github.com/loft-sh/devspace/issues) 177
 
 ### [Okteto](https://github.com/okteto/okteto)
 #### Develop your applications directly in your Kubernetes Cluster
@@ -102,11 +110,11 @@
 
 ### [Vcluster](https://github.com/loft-sh/vcluster)
 #### vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
-###### [⭐️](https://github.com/loft-sh/vcluster/stargazers) 1841, [🚀](https://github.com/loft-sh/vcluster/network/members) 153, [💥](https://github.com/loft-sh/vcluster/issues) 100
+###### [⭐️](https://github.com/loft-sh/vcluster/stargazers) 1844, [🚀](https://github.com/loft-sh/vcluster/network/members) 154, [💥](https://github.com/loft-sh/vcluster/issues) 101
 
 ### [Kpt](https://github.com/GoogleContainerTools/kpt)
 #### Automate Kubernetes Configuration Editing
-###### [⭐️](https://github.com/GoogleContainerTools/kpt/stargazers) 1235, [🚀](https://github.com/GoogleContainerTools/kpt/network/members) 180, [💥](https://github.com/GoogleContainerTools/kpt/issues) 496
+###### [⭐️](https://github.com/GoogleContainerTools/kpt/stargazers) 1235, [🚀](https://github.com/GoogleContainerTools/kpt/network/members) 180, [💥](https://github.com/GoogleContainerTools/kpt/issues) 497
 
 ### [Kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter)
 #### Export Kubernetes events to multiple destinations with routing and filtering

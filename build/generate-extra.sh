@@ -20,7 +20,7 @@ wc -l *topic \
   | grep -v notifications \
   | grep -v observability \
   | sort -nr \
-  | head -n 20 \
+  | head -n 16 \
   | sed -e 's/^[ \t]*//' \
   | cut -d' ' -f2 \
   | sort \

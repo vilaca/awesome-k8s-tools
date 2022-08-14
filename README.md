@@ -8,6 +8,8 @@
 [[gitops](https://github.com/vilaca/awesome-k8s-tools#-gitops)]
 [[microservice](https://github.com/vilaca/awesome-k8s-tools#-microservice)]
 [[monitoring](https://github.com/vilaca/awesome-k8s-tools#-monitoring)]
+[[policy as code](https://github.com/vilaca/awesome-k8s-tools#-policy-as-code)]
+[[s3](https://github.com/vilaca/awesome-k8s-tools#-s3)]
 [[static analysis](https://github.com/vilaca/awesome-k8s-tools#-static-analysis)]
 [[storage](https://github.com/vilaca/awesome-k8s-tools#-storage)]
 ## 🎉 Top 10
@@ -150,6 +152,20 @@
 
 ### [Robusta](https://github.com/robusta-dev/robusta) ~ *Open source Kubernetes troubleshooting and automation platform*
 ###### [⭐️](https://github.com/robusta-dev/robusta/stargazers) 735 [🚀](https://github.com/robusta-dev/robusta/network/members) 73 [💥](https://github.com/robusta-dev/robusta/issues) 60 🪪  MIT License
+
+## 🧑‍💻 Policy as code
+### [Checkov](https://github.com/bridgecrewio/checkov) ~ *Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.*
+###### [⭐️](https://github.com/bridgecrewio/checkov/stargazers) 4.5K [🚀](https://github.com/bridgecrewio/checkov/network/members) 671 [💥](https://github.com/bridgecrewio/checkov/issues) 159 🪪  Apache License 2.0
+
+### [Kpt](https://github.com/GoogleContainerTools/kpt) ~ *Automate Kubernetes Configuration Editing*
+###### [⭐️](https://github.com/GoogleContainerTools/kpt/stargazers) 1.2K [🚀](https://github.com/GoogleContainerTools/kpt/network/members) 180 [💥](https://github.com/GoogleContainerTools/kpt/issues) 497 🪪  Apache License 2.0
+
+## 🧑‍💻 S3
+### [Minio](https://github.com/minio/minio) ~ *Multi-Cloud :cloud: Object Storage*
+###### [⭐️](https://github.com/minio/minio/stargazers) 34.5K [🚀](https://github.com/minio/minio/network/members) 4.1K [💥](https://github.com/minio/minio/issues) 24 🪪  GNU Affero General Public License v3.0
+
+### [Thanos](https://github.com/thanos-io/thanos) ~ *Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.*
+###### [⭐️](https://github.com/thanos-io/thanos/stargazers) 10.8K [🚀](https://github.com/thanos-io/thanos/network/members) 1.6K [💥](https://github.com/thanos-io/thanos/issues) 217 🪪  Apache License 2.0
 
 ## 🧑‍💻 Static analysis
 ### [Hadolint](https://github.com/hadolint/hadolint) ~ *Dockerfile linter, validate inline bash, written in Haskell*

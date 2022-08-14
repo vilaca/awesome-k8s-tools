@@ -23,7 +23,7 @@ wc -l *topic \
   | grep -v notifications \
   | grep -v observability \
   | sort -nr \
-  | head \
+  | head -n 12 \
   | sed -e 's/^[ \t]*//' \
   | cut -d' ' -f2 \
   | sort \

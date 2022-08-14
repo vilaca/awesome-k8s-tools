@@ -5,22 +5,15 @@ wc -l *topic \
   | sed '$d' \
   | grep -v docker \
   | grep -v go \
-  | grep -v grafana \
   | grep -v hacktoberfest \
-  | grep -v helm \
   | grep -v k8s \
   | grep -v kubectl \
   | grep -v kubernetes \
-  | grep -v kustomize \
-  | grep -v prometheus \
-  | grep -v cloud-native \
   | grep -v cncf \
   | grep -v terraform \
-  | grep -v metrics \
   | grep -v slack \
   | grep -v time-series \
   | grep -v notifications \
-  | grep -v observability \
   | sort -nr \
   | head -n 14 \
   | sed -e 's/^[ \t]*//' \

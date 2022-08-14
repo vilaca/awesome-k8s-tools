@@ -31,7 +31,7 @@ do
   echo "## 🧑‍💻 ${FILE^}" | cut -d'.' -f1 | tr '-' ' ' >> EXTRA.md
   cat "$FILE" >> EXTRA.md
   LINK="$(echo "$FILE" | cut -d'.' -f1)"
-  echo "<a href=\"#-$LINK\">$(echo "$FILE" | cut -d'.' -f1 | tr '-' ' ')</a>" >> NAV.md
+  echo "<a href=\"#-$LINK\">[$(echo "$FILE" | cut -d'.' -f1 | tr '-' ' ')]</a>" >> NAV.md
   # echo "[[$(echo "$FILE" | cut -d'.' -f1 | tr '-' ' ')](https://github.com/vilaca/awesome-k8s-tools#-$LINK)]" >> NAV.md
 done < topics
 

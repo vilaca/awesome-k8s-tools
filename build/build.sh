@@ -8,6 +8,7 @@ cp resources/header.md README.md
 echo "<div align=\"center\">" >> README.md
 cat NAV.md >> README.md
 echo "</div>" >> README.md
+printf "\n"
 echo "## 🎉 Top 5" >> README.md
 cat TOP.md >> README.md
 cat EXTRA.md >> README.md

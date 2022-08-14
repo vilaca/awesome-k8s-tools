@@ -6,7 +6,7 @@ cp resources/header.md README.md
 ./build/generate.sh
 ./build/generate-extra.sh
 cat NAV.md >> README.md
-echo "## 🎉 Top 10" >> README.md
+echo "## 🎉 Top 5" >> README.md
 cat TOP.md >> README.md
 cat EXTRA.md >> README.md
 echo "## ⭐️ Misc" >> README.md

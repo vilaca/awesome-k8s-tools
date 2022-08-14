@@ -7,13 +7,10 @@ wc -l *topic \
   | grep -v go \
   | grep -v grafana \
   | grep -v hacktoberfest \
-  | grep -v helm \
   | grep -v k8s \
   | grep -v kubectl \
   | grep -v kubernetes \
-  | grep -v kustomize \
   | grep -v prometheus \
-  | grep -v containers \
   | grep -v cloud-native \
   | grep -v cncf \
   | grep -v terraform \
@@ -23,7 +20,7 @@ wc -l *topic \
   | grep -v notifications \
   | grep -v observability \
   | sort -nr \
-  | head \
+  | head -n 16 \
   | sed -e 's/^[ \t]*//' \
   | cut -d' ' -f2 \
   | sort \

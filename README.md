@@ -1,22 +1,22 @@
 # Awesome List of Open Source K8s and Container Tools
 
 <div align="center">
-[[alerting](https://github.com/vilaca/awesome-k8s-tools#-alerting)]
-[[containers](https://github.com/vilaca/awesome-k8s-tools#-containers)]
-[[continuous delivery](https://github.com/vilaca/awesome-k8s-tools#-continuous-delivery)]
-[[developer tools](https://github.com/vilaca/awesome-k8s-tools#-developer-tools)]
-[[devops](https://github.com/vilaca/awesome-k8s-tools#-devops)]
-[[devsecops](https://github.com/vilaca/awesome-k8s-tools#-devsecops)]
-[[gitops](https://github.com/vilaca/awesome-k8s-tools#-gitops)]
-[[helm](https://github.com/vilaca/awesome-k8s-tools#-helm)]
-[[kustomize](https://github.com/vilaca/awesome-k8s-tools#-kustomize)]
-[[linter](https://github.com/vilaca/awesome-k8s-tools#-linter)]
-[[microservice](https://github.com/vilaca/awesome-k8s-tools#-microservice)]
-[[monitoring](https://github.com/vilaca/awesome-k8s-tools#-monitoring)]
-[[policy as code](https://github.com/vilaca/awesome-k8s-tools#-policy-as-code)]
-[[s3](https://github.com/vilaca/awesome-k8s-tools#-s3)]
-[[static analysis](https://github.com/vilaca/awesome-k8s-tools#-static-analysis)]
-[[storage](https://github.com/vilaca/awesome-k8s-tools#-storage)]
+<a href="#-alerting">alerting</a>
+<a href="#-containers">containers</a>
+<a href="#-continuous-delivery">continuous delivery</a>
+<a href="#-developer-tools">developer tools</a>
+<a href="#-devops">devops</a>
+<a href="#-devsecops">devsecops</a>
+<a href="#-gitops">gitops</a>
+<a href="#-helm">helm</a>
+<a href="#-kustomize">kustomize</a>
+<a href="#-linter">linter</a>
+<a href="#-microservice">microservice</a>
+<a href="#-monitoring">monitoring</a>
+<a href="#-policy-as-code">policy as code</a>
+<a href="#-s3">s3</a>
+<a href="#-static-analysis">static analysis</a>
+<a href="#-storage">storage</a>
 </div>
 
 ## 🎉 Top 5
@@ -75,7 +75,7 @@
 
 
 ### [Skaffold](https://github.com/GoogleContainerTools/skaffold) ~ *Easy and Repeatable Kubernetes Development*
- [⭐️](https://github.com/GoogleContainerTools/skaffold/stargazers) 13.1K [🚀](https://github.com/GoogleContainerTools/skaffold/network/members) 1.4K [💥](https://github.com/GoogleContainerTools/skaffold/issues) 609 🪪  Apache License 2.0
+ [⭐️](https://github.com/GoogleContainerTools/skaffold/stargazers) 13.1K [🚀](https://github.com/GoogleContainerTools/skaffold/network/members) 1.4K [💥](https://github.com/GoogleContainerTools/skaffold/issues) 608 🪪  Apache License 2.0
 
 
 ### [Kaniko](https://github.com/GoogleContainerTools/kaniko) ~ *Build Container Images In Kubernetes*
@@ -105,7 +105,7 @@
 
 ## 🧑‍💻 Developer tools
 ### [Skaffold](https://github.com/GoogleContainerTools/skaffold) ~ *Easy and Repeatable Kubernetes Development*
- [⭐️](https://github.com/GoogleContainerTools/skaffold/stargazers) 13.1K [🚀](https://github.com/GoogleContainerTools/skaffold/network/members) 1.4K [💥](https://github.com/GoogleContainerTools/skaffold/issues) 609 🪪  Apache License 2.0
+ [⭐️](https://github.com/GoogleContainerTools/skaffold/stargazers) 13.1K [🚀](https://github.com/GoogleContainerTools/skaffold/network/members) 1.4K [💥](https://github.com/GoogleContainerTools/skaffold/issues) 608 🪪  Apache License 2.0
 
 
 ### [Kaniko](https://github.com/GoogleContainerTools/kaniko) ~ *Build Container Images In Kubernetes*

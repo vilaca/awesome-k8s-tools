@@ -1,22 +1,22 @@
 # Awesome List of Open Source K8s and Container Tools
 
 <div align="center">
-<a href="#-alerting">[alerting]</a>
-<a href="#-containers">[containers]</a>
-<a href="#-continuous-delivery">[continuous delivery]</a>
-<a href="#-developer-tools">[developer tools]</a>
-<a href="#-devops">[devops]</a>
-<a href="#-devsecops">[devsecops]</a>
-<a href="#-gitops">[gitops]</a>
-<a href="#-helm">[helm]</a>
-<a href="#-kustomize">[kustomize]</a>
-<a href="#-linter">[linter]</a>
-<a href="#-microservice">[microservice]</a>
-<a href="#-monitoring">[monitoring]</a>
-<a href="#-policy-as-code">[policy as code]</a>
-<a href="#-s3">[s3]</a>
-<a href="#-static-analysis">[static analysis]</a>
-<a href="#-storage">[storage]</a>
+[<a href="#-alerting">alerting</a>]
+[<a href="#-containers">containers</a>]
+[<a href="#-continuous-delivery">continuous delivery</a>]
+[<a href="#-developer-tools">developer tools</a>]
+[<a href="#-devops">devops</a>]
+[<a href="#-devsecops">devsecops</a>]
+[<a href="#-gitops">gitops</a>]
+[<a href="#-helm">helm</a>]
+[<a href="#-kustomize">kustomize</a>]
+[<a href="#-linter">linter</a>]
+[<a href="#-microservice">microservice</a>]
+[<a href="#-monitoring">monitoring</a>]
+[<a href="#-policy-as-code">policy as code</a>]
+[<a href="#-s3">s3</a>]
+[<a href="#-static-analysis">static analysis</a>]
+[<a href="#-storage">storage</a>]
 </div>
 
 ## 🎉 Top 5

@@ -7,11 +7,7 @@
 [[devops](https://github.com/vilaca/awesome-k8s-tools#-devops)]
 [[devsecops](https://github.com/vilaca/awesome-k8s-tools#-devsecops)]
 [[gitops](https://github.com/vilaca/awesome-k8s-tools#-gitops)]
-[[graphing](https://github.com/vilaca/awesome-k8s-tools#-graphing)]
 [[helm](https://github.com/vilaca/awesome-k8s-tools#-helm)]
-[[high availability](https://github.com/vilaca/awesome-k8s-tools#-high-availability)]
-[[iac](https://github.com/vilaca/awesome-k8s-tools#-iac)]
-[[infrastructure as code](https://github.com/vilaca/awesome-k8s-tools#-infrastructure-as-code)]
 [[kustomize](https://github.com/vilaca/awesome-k8s-tools#-kustomize)]
 [[linter](https://github.com/vilaca/awesome-k8s-tools#-linter)]
 [[microservice](https://github.com/vilaca/awesome-k8s-tools#-microservice)]
@@ -145,13 +141,6 @@
 ### [Kluctl](https://github.com/kluctl/kluctl) ~ *The missing glue to put together large Kubernetes deployments, composed of multiple smaller parts (Helm/Kustomize/...) in a manageable and unified way.*
 ###### [⭐️](https://github.com/kluctl/kluctl/stargazers) 63 [🚀](https://github.com/kluctl/kluctl/network/members) 7 [💥](https://github.com/kluctl/kluctl/issues) 3 🪪  Apache License 2.0
 
-## 🧑‍💻 Graphing
-### [Prometheus](https://github.com/prometheus/prometheus) ~ *The Prometheus monitoring system and time series database.*
-###### [⭐️](https://github.com/prometheus/prometheus/stargazers) 43.8K [🚀](https://github.com/prometheus/prometheus/network/members) 7.3K [💥](https://github.com/prometheus/prometheus/issues) 681 🪪  Apache License 2.0
-
-### [Promxy](https://github.com/jacksontj/promxy) ~ *An aggregating proxy to enable HA prometheus*
-###### [⭐️](https://github.com/jacksontj/promxy/stargazers) 832 [🚀](https://github.com/jacksontj/promxy/network/members) 92 [💥](https://github.com/jacksontj/promxy/issues) 32 🪪  MIT License
-
 ## 🧑‍💻 Helm
 ### [Helm](https://github.com/helm/helm) ~ *The Kubernetes Package Manager*
 ###### [⭐️](https://github.com/helm/helm/stargazers) 22.4K [🚀](https://github.com/helm/helm/network/members) 6.3K [💥](https://github.com/helm/helm/issues) 507 🪪  Apache License 2.0
@@ -176,27 +165,6 @@
 
 ### [Kluctl](https://github.com/kluctl/kluctl) ~ *The missing glue to put together large Kubernetes deployments, composed of multiple smaller parts (Helm/Kustomize/...) in a manageable and unified way.*
 ###### [⭐️](https://github.com/kluctl/kluctl/stargazers) 63 [🚀](https://github.com/kluctl/kluctl/network/members) 7 [💥](https://github.com/kluctl/kluctl/issues) 3 🪪  Apache License 2.0
-
-## 🧑‍💻 High availability
-### [Thanos](https://github.com/thanos-io/thanos) ~ *Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.*
-###### [⭐️](https://github.com/thanos-io/thanos/stargazers) 10.8K [🚀](https://github.com/thanos-io/thanos/network/members) 1.6K [💥](https://github.com/thanos-io/thanos/issues) 217 🪪  Apache License 2.0
-
-### [Promxy](https://github.com/jacksontj/promxy) ~ *An aggregating proxy to enable HA prometheus*
-###### [⭐️](https://github.com/jacksontj/promxy/stargazers) 832 [🚀](https://github.com/jacksontj/promxy/network/members) 92 [💥](https://github.com/jacksontj/promxy/issues) 32 🪪  MIT License
-
-## 🧑‍💻 Iac
-### [Trivy](https://github.com/aquasecurity/trivy) ~ *Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets*
-###### [⭐️](https://github.com/aquasecurity/trivy/stargazers) 13.2K [🚀](https://github.com/aquasecurity/trivy/network/members) 1.2K [💥](https://github.com/aquasecurity/trivy/issues) 241 🪪  Apache License 2.0
-
-### [Werf](https://github.com/werf/werf) ~ *A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.*
-###### [⭐️](https://github.com/werf/werf/stargazers) 3.2K [🚀](https://github.com/werf/werf/network/members) 164 [💥](https://github.com/werf/werf/issues) 261 🪪  Apache License 2.0
-
-## 🧑‍💻 Infrastructure as code
-### [Trivy](https://github.com/aquasecurity/trivy) ~ *Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets*
-###### [⭐️](https://github.com/aquasecurity/trivy/stargazers) 13.2K [🚀](https://github.com/aquasecurity/trivy/network/members) 1.2K [💥](https://github.com/aquasecurity/trivy/issues) 241 🪪  Apache License 2.0
-
-### [Checkov](https://github.com/bridgecrewio/checkov) ~ *Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.*
-###### [⭐️](https://github.com/bridgecrewio/checkov/stargazers) 4.5K [🚀](https://github.com/bridgecrewio/checkov/network/members) 671 [💥](https://github.com/bridgecrewio/checkov/issues) 159 🪪  Apache License 2.0
 
 ## 🧑‍💻 Kustomize
 ### [Flux2](https://github.com/fluxcd/flux2) ~ *Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.*

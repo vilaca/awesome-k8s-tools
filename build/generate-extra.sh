@@ -13,7 +13,6 @@ wc -l *topic \
   | grep -v kubernetes \
   | grep -v kustomize \
   | grep -v prometheus \
-  | grep -v containers \
   | grep -v cloud-native \
   | grep -v cncf \
   | grep -v terraform \
@@ -23,7 +22,7 @@ wc -l *topic \
   | grep -v notifications \
   | grep -v observability \
   | sort -nr \
-  | head -n 12 \
+  | head -n 14 \
   | sed -e 's/^[ \t]*//' \
   | cut -d' ' -f2 \
   | sort \

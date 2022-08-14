@@ -24,7 +24,7 @@ do
 
   ./build/card.sh "$LINK" "$DESCRIPTION" "$FULL_NAME" "$STARS" "$FORKS" "$ISSUES" "$LICENSE" >> CARD.md
   
-  if [ "$top" -lt "10" ]; then
+  if [ "$top" -lt "5" ]; then
     ((top=top+1))
     cat CARD.md >> TOP.md
   fi;

@@ -261,6 +261,9 @@
 ### [Kubectx](https://github.com/ahmetb/kubectx) ~ *Faster way to switch between clusters and namespaces in kubectl*
 ###### [⭐️](https://github.com/ahmetb/kubectx/stargazers) 13.5K [🚀](https://github.com/ahmetb/kubectx/network/members) 973 [💥](https://github.com/ahmetb/kubectx/issues) 46 🪪  Apache License 2.0
 
+### [Kustomize](https://github.com/kubernetes-sigs/kustomize) ~ *Customization of kubernetes YAML configurations*
+###### [⭐️](https://github.com/kubernetes-sigs/kustomize/stargazers) 8.7K [🚀](https://github.com/kubernetes-sigs/kustomize/network/members) 1.8K [💥](https://github.com/kubernetes-sigs/kustomize/issues) 202 🪪  Apache License 2.0
+
 ### [Eksctl](https://github.com/weaveworks/eksctl) ~ *The official CLI for Amazon EKS*
 ###### [⭐️](https://github.com/weaveworks/eksctl/stargazers) 4.0K [🚀](https://github.com/weaveworks/eksctl/network/members) 1.1K [💥](https://github.com/weaveworks/eksctl/issues) 93 🪪  Other
 

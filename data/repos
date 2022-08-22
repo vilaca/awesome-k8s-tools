@@ -1,6 +1,3 @@
-https://github.com/GoogleContainerTools/kaniko
-https://github.com/GoogleContainerTools/kpt
-https://github.com/GoogleContainerTools/skaffold
 https://github.com/adrienverge/yamllint
 https://github.com/ahmetb/kubectx
 https://github.com/aquasecurity/defsec
@@ -22,6 +19,9 @@ https://github.com/farmotive/kpoof
 https://github.com/fluxcd/flux2
 https://github.com/gocrane/crane
 https://github.com/goharbor/harbor
+https://github.com/GoogleContainerTools/kaniko
+https://github.com/GoogleContainerTools/kpt
+https://github.com/GoogleContainerTools/skaffold
 https://github.com/grafana/grafana
 https://github.com/grafana/k6
 https://github.com/grafana/loki

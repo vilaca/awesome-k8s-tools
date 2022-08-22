@@ -57,7 +57,7 @@
 
 
 ### [Kubectx](https://github.com/ahmetb/kubectx) ~ *Faster way to switch between clusters and namespaces in kubectl*
- [⭐️](https://github.com/ahmetb/kubectx/stargazers) 13.6K [🚀](https://github.com/ahmetb/kubectx/network/members) 978 [💥](https://github.com/ahmetb/kubectx/issues) 49 🪪  Apache License 2.0
+ [⭐️](https://github.com/ahmetb/kubectx/stargazers) 13.6K [🚀](https://github.com/ahmetb/kubectx/network/members) 979 [💥](https://github.com/ahmetb/kubectx/issues) 49 🪪  Apache License 2.0
 
 
 ### [Trivy](https://github.com/aquasecurity/trivy) ~ *Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets*
@@ -217,7 +217,7 @@
 
 
 ### [Defsec](https://github.com/aquasecurity/defsec) ~ *DefSec is a set of tools for scanning definitions of infrastructure*
- [⭐️](https://github.com/aquasecurity/defsec/stargazers) 97 [🚀](https://github.com/aquasecurity/defsec/network/members) 46 [💥](https://github.com/aquasecurity/defsec/issues) 31 🪪  MIT License
+ [⭐️](https://github.com/aquasecurity/defsec/stargazers) 97 [🚀](https://github.com/aquasecurity/defsec/network/members) 46 [💥](https://github.com/aquasecurity/defsec/issues) 36 🪪  MIT License
 
 
 ### [Kfilt](https://github.com/ryane/kfilt) ~ *kfilt can filter Kubernetes resources.*

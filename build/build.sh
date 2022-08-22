@@ -4,9 +4,7 @@ set -eou pipefail
 cp resources/header.md README.md
 ./build/pull.sh
 ./build/generate.sh
-./build/generate-extra.sh
 echo "<div align=\"center\">" >> README.md
-cat NAV.md >> README.md
 echo "</div>" >> README.md
 printf "\n"  >> README.md
 echo "## 🎉 Top 5" >> README.md

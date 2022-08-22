@@ -9,7 +9,6 @@ echo "</div>" >> README.md
 printf "\n"  >> README.md
 echo "## 🎉 Top 5" >> README.md
 cat TOP.md >> README.md
-cat EXTRA.md >> README.md
 echo "## ⭐️ Misc" >> README.md
 cat ALL.md >> README.md
 cat resources/footer.md >> README.md

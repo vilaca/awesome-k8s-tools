@@ -1,9 +1,5 @@
 # Awesome List of Open Source K8s and Container Tools
 
-<div align="center">
-</div>
-
-## 🎉 Top 5
 ### [Grafana](https://github.com/grafana/grafana) ~ *The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.*
  [⭐️](https://github.com/grafana/grafana/stargazers) 50.5K [🚀](https://github.com/grafana/grafana/network/members) 9.9K [💥](https://github.com/grafana/grafana/issues) 2.5K 🪪  GNU Affero General Public License v3.0
 

@@ -3,7 +3,6 @@ set -eou pipefail
 
 sort -nr index | cut -d' ' -f2- > sorted
 
-top=0
 while IFS="" read -r JSON || [ -n "$JSON" ]
 do
   NAME="$(echo "$JSON" | jq -r .name)"
@@ -21,18 +20,5 @@ do
     echo "$JSON"
     exit 1
   fi
-
-  ./build/card.sh "$LINK" "$DESCRIPTION" "$FULL_NAME" "$STARS" "$FORKS" "$ISSUES" "$LICENSE" >> CARD.md
-  
-  if [ "$top" -lt "5" ]; then
-    ((top=top+1))
-    cat CARD.md >> TOP.md
-  fi;
-
-  echo "$JSON" | jq -r '.topics[]' | while read i; do
-    cat CARD.md >> "$i".topic
-  done
-
-  rm CARD.md
-
+  ./build/card.sh "$LINK" "$DESCRIPTION" "$FULL_NAME" "$STARS" "$FORKS" "$ISSUES" "$LICENSE" >> TOP.md
 done < sorted

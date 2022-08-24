@@ -5,6 +5,7 @@ https://github.com/aquasecurity/trivy
 https://github.com/argoproj/argo-cd
 https://github.com/aws/karpenter
 https://github.com/bridgecrewio/checkov
+https://github.com/canonical/microk8s
 https://github.com/common-fate/iamzero
 https://github.com/containrrr/watchtower
 https://github.com/crossplane/crossplane
@@ -31,6 +32,8 @@ https://github.com/helm/helm
 https://github.com/infracost/infracost
 https://github.com/istio/istio
 https://github.com/jacksontj/promxy
+https://github.com/k0sproject/k0s
+https://github.com/k3s-io/k3s
 https://github.com/k8spacket/k8spacket
 https://github.com/kislyuk/yq
 https://github.com/kluctl/kluctl
@@ -38,6 +41,8 @@ https://github.com/knative/serving
 https://github.com/kubernetes-sigs/kubespray
 https://github.com/kubernetes-sigs/kustomize/
 https://github.com/kubernetes/kops
+https://github.com/kubernetes/kubernetes
+https://github.com/kubernetes/minikube
 https://github.com/kubesphere/kubesphere
 https://github.com/lensapp/lens
 https://github.com/loft-sh/devspace
@@ -51,6 +56,7 @@ https://github.com/prometheus/alertmanager
 https://github.com/prometheus/node_exporter
 https://github.com/prometheus/prometheus
 https://github.com/punk-security/secret-magpie-cli
+https://github.com/rancher/rke2
 https://github.com/robusta-dev/robusta
 https://github.com/ryane/kfilt
 https://github.com/similarweb/finala
@@ -62,9 +68,3 @@ https://github.com/vmware-tanzu/carvel-ytt
 https://github.com/weaveworks/eksctl
 https://github.com/werf/werf
 https://github.com/zricethezav/gitleaks
-https://github.com/canonical/microk8s
-https://github.com/rancher/rke2
-https://github.com/kubernetes/minikube
-https://github.com/k0sproject/k0s
-https://github.com/k3s-io/k3s
-https://github.com/kubernetes/kubernetes

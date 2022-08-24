@@ -35,6 +35,7 @@ https://github.com/k8spacket/k8spacket
 https://github.com/kislyuk/yq
 https://github.com/kluctl/kluctl
 https://github.com/knative/serving
+https://github.com/kubernetes-sigs/kubespray
 https://github.com/kubernetes-sigs/kustomize/
 https://github.com/kubernetes/kops
 https://github.com/kubesphere/kubesphere
@@ -60,4 +61,3 @@ https://github.com/trufflesecurity/trufflehog
 https://github.com/vmware-tanzu/carvel-ytt
 https://github.com/weaveworks/eksctl
 https://github.com/werf/werf
-https://github.com/kubernetes-sigs/kubespray

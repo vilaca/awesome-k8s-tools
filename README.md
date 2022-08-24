@@ -68,6 +68,10 @@
  [⭐️](https://github.com/GoogleContainerTools/skaffold/stargazers) 13.1K [🚀](https://github.com/GoogleContainerTools/skaffold/network/members) 1.4K [💥](https://github.com/GoogleContainerTools/skaffold/issues) 612 🪪  Apache License 2.0
 
 
+### [Kubespray](https://github.com/kubernetes-sigs/kubespray) ~ *Deploy a Production Ready Kubernetes Cluster*
+ [⭐️](https://github.com/kubernetes-sigs/kubespray/stargazers) 12.7K [🚀](https://github.com/kubernetes-sigs/kubespray/network/members) 5.4K [💥](https://github.com/kubernetes-sigs/kubespray/issues) 165 🪪  Apache License 2.0
+
+
 ### [Watchtower](https://github.com/containrrr/watchtower) ~ *A process for automating Docker container base image updates.*
  [⭐️](https://github.com/containrrr/watchtower/stargazers) 11.5K [🚀](https://github.com/containrrr/watchtower/network/members) 643 [💥](https://github.com/containrrr/watchtower/issues) 43 🪪  Apache License 2.0
 

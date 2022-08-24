@@ -6,7 +6,7 @@ cut -d'/' -f4-5 data/repos > tmp
 
 while IFS="" read -r p || [ -n "$p" ]
 do
-  JSON="$(curl -s https://api.github.com/repos/"$p")"
+  JSON="$(curl -s https://api.github.com/repos/"$p" --header "Authorization: Bearer $PAT")"
   STARS="$(echo "$JSON" | jq .stargazers_count)"
   if [ "${STARS}" = "null" ]
   then

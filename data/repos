@@ -44,6 +44,7 @@ https://github.com/kubernetes/kops
 https://github.com/kubernetes/kubernetes
 https://github.com/kubernetes/minikube
 https://github.com/kubesphere/kubesphere
+https://github.com/kubevirt/kubevirt
 https://github.com/lensapp/lens
 https://github.com/loft-sh/devspace
 https://github.com/loft-sh/vcluster
@@ -68,4 +69,3 @@ https://github.com/vmware-tanzu/carvel-ytt
 https://github.com/weaveworks/eksctl
 https://github.com/werf/werf
 https://github.com/zricethezav/gitleaks
-https://github.com/kubevirt/kubevirt

@@ -28,6 +28,10 @@
  [⭐️](https://github.com/istio/istio/stargazers) 31.1K [🚀](https://github.com/istio/istio/network/members) 6.6K [💥](https://github.com/istio/istio/issues) 513 🪪  Apache License 2.0
 
 
+### [Consul](https://github.com/hashicorp/consul) ~ *Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.*
+ [⭐️](https://github.com/hashicorp/consul/stargazers) 25.2K [🚀](https://github.com/hashicorp/consul/network/members) 4.1K [💥](https://github.com/hashicorp/consul/issues) 1.1K 🪪  Mozilla Public License 2.0
+
+
 ### [Minikube](https://github.com/kubernetes/minikube) ~ *Run Kubernetes locally*
  [⭐️](https://github.com/kubernetes/minikube/stargazers) 24.6K [🚀](https://github.com/kubernetes/minikube/network/members) 4.2K [💥](https://github.com/kubernetes/minikube/issues) 798 🪪  Apache License 2.0
 
@@ -130,6 +134,10 @@
 
 ### [Hadolint](https://github.com/hadolint/hadolint) ~ *Dockerfile linter, validate inline bash, written in Haskell*
  [⭐️](https://github.com/hadolint/hadolint/stargazers) 7.3K [🚀](https://github.com/hadolint/hadolint/network/members) 324 [💥](https://github.com/hadolint/hadolint/issues) 125 🪪  GNU General Public License v3.0
+
+
+### [Fabio](https://github.com/fabiolb/fabio) ~ *Consul Load-Balancing made simple*
+ [⭐️](https://github.com/fabiolb/fabio/stargazers) 7.0K [🚀](https://github.com/fabiolb/fabio/network/members) 629 [💥](https://github.com/fabiolb/fabio/issues) 228 🪪  MIT License
 
 
 ### [Microk8s](https://github.com/canonical/microk8s) ~ *MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.*
@@ -258,6 +266,10 @@
 
 ### [Finala](https://github.com/similarweb/finala) ~ *Finala is an open-source resource cloud scanner that analyzes, discloses, presents and notifies about wasteful and unused resources.*
  [⭐️](https://github.com/similarweb/finala/stargazers) 659 [🚀](https://github.com/similarweb/finala/network/members) 40 [💥](https://github.com/similarweb/finala/issues) 31 🪪  Other
+
+
+### [Consul-k8s](https://github.com/hashicorp/consul-k8s) ~ *First-class support for Consul Service Mesh on Kubernetes*
+ [⭐️](https://github.com/hashicorp/consul-k8s/stargazers) 523 [🚀](https://github.com/hashicorp/consul-k8s/network/members) 224 [💥](https://github.com/hashicorp/consul-k8s/issues) 136 🪪  Mozilla Public License 2.0
 
 
 ### [Clusterlint](https://github.com/digitalocean/clusterlint) ~ *A best practices checker for Kubernetes clusters. 🤠*

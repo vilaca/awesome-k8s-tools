@@ -13,6 +13,7 @@ https://github.com/derailed/k9s
 https://github.com/derailed/popeye
 https://github.com/digitalocean/clusterlint
 https://github.com/docker-slim/docker-slim
+https://github.com/docker/buildx
 https://github.com/duo-labs/parliament
 https://github.com/EgeKaanGurkan/k8sc
 https://github.com/eldadru/ksniff
@@ -53,6 +54,7 @@ https://github.com/minio/minio
 https://github.com/okteto/okteto
 https://github.com/opsgenie/kubernetes-event-exporter
 https://github.com/pivotal/kpack
+https://github.com/portainer/portainer
 https://github.com/prometheus/alertmanager
 https://github.com/prometheus/node_exporter
 https://github.com/prometheus/prometheus
@@ -60,6 +62,7 @@ https://github.com/punk-security/secret-magpie-cli
 https://github.com/rancher/rke2
 https://github.com/robusta-dev/robusta
 https://github.com/ryane/kfilt
+https://github.com/shini4i/kd
 https://github.com/similarweb/finala
 https://github.com/terraform-linters/tflint
 https://github.com/thanos-io/thanos
@@ -71,6 +74,3 @@ https://github.com/weaveworks/kubediff
 https://github.com/weaveworks/kured
 https://github.com/werf/werf
 https://github.com/zricethezav/gitleaks
-https://github.com/docker/buildx
-https://github.com/shini4i/kd
-https://github.com/portainer/portainer

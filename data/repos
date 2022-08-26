@@ -38,7 +38,6 @@ https://github.com/hashicorp/consul
 https://github.com/hashicorp/consul-k8s
 https://github.com/helm/helm
 https://github.com/infracost/infracost
-https://github.com/istio/istio
 https://github.com/jacksontj/promxy
 https://github.com/k0sproject/k0s
 https://github.com/k3s-io/k3s
@@ -102,7 +101,6 @@ https://github.com/kubernetes/kube-state-metrics
 https://github.com/asobti/kube-monkey
 https://github.com/mrahbar/k8s-testsuite
 https://github.com/kubernetes/test-infra
-https://github.com/powerfulseal/powerfulseal
 https://github.com/cloudnativelabs/kube-shell
 https://github.com/boz/kail
 https://github.com/telepresenceio/telepresence
@@ -115,7 +113,6 @@ https://github.com/apache/openwhisk
 https://github.com/nuclio/nuclio
 https://github.com/virtual-kubelet/virtual-kubelet
 https://github.com/istio/istio
-https://github.com/linkerd/linkerd2
 https://github.com/coredns/coredns
 https://github.com/txn2/kubefwd
 https://github.com/hyscale/hyscale
@@ -154,7 +151,6 @@ https://github.com/benc-uk/kubeview
 https://github.com/wercker/stern
 https://github.com/int128/kubelogin
 https://github.com/zedge/kubecd
-https://github.com/itaysk/kubectl-neat
 https://github.com/tilt-dev/tilt
 https://github.com/ibm/kone
 https://github.com/google/ko
@@ -177,7 +173,6 @@ https://github.com/NexClipper/NexClipper
 https://github.com/kj187/kubernetes-ingress-linklist
 https://github.com/hjacobs/kube-web-view
 https://github.com/eduardobaitello/kubelogs
-https://github.com/kubernetes/kops
 https://github.com/txn2/kubefwd
 https://github.com/itaysk/kubectl-neat
 https://github.com/superbrothers/ksort
@@ -204,5 +199,4 @@ https://github.com/cert-manager/cert-manager
 https://github.com/scholzj/terraform-aws-kubernetes
 https://github.com/argoproj/argo-workflows
 https://github.com/ahmetb/kubectl-tree
-https://github.com/kube-vip/kube-vip
 https://github.com/powerfulseal/powerfulseal

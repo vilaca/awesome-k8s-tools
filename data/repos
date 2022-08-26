@@ -18,7 +18,6 @@ https://github.com/duo-labs/parliament
 https://github.com/EgeKaanGurkan/k8sc
 https://github.com/eldadru/ksniff
 https://github.com/etcd-io/etcd
-https://github.com/fabiolb/fabio
 https://github.com/farmotive/kpoof
 https://github.com/fluxcd/flux2
 https://github.com/gocrane/crane
@@ -30,8 +29,6 @@ https://github.com/grafana/grafana
 https://github.com/grafana/k6
 https://github.com/grafana/loki
 https://github.com/hadolint/hadolint
-https://github.com/hashicorp/consul
-https://github.com/hashicorp/consul-k8s
 https://github.com/helm/helm
 https://github.com/infracost/infracost
 https://github.com/istio/istio
@@ -77,3 +74,12 @@ https://github.com/weaveworks/kubediff
 https://github.com/weaveworks/kured
 https://github.com/werf/werf
 https://github.com/zricethezav/gitleaks
+https://github.com/fabiolb/fabio
+https://github.com/hashicorp/consul
+https://github.com/hashicorp/consul-k8s
+https://github.com/linkerd/linkerd2
+https://github.com/openfaas/faas-netes
+https://github.com/fnproject/fn
+https://github.com/distribution/distribution
+https://github.com/containers/podman
+https://github.com/containers/podman-compose

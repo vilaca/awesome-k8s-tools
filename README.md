@@ -864,6 +864,10 @@
  [⭐️](https://github.com/alcideio/advisor/stargazers) 36 [🚀](https://github.com/alcideio/advisor/network/members) 8 [💥](https://github.com/alcideio/advisor/issues) 0 🪪  null
 
 
+### [Kubecd](https://github.com/kubecd/kubecd) ~ *Kubernetes Continuous Deployment Toolkit*
+ [⭐️](https://github.com/kubecd/kubecd/stargazers) 33 [🚀](https://github.com/kubecd/kubecd/network/members) 5 [💥](https://github.com/kubecd/kubecd/issues) 3 🪪  Apache License 2.0
+
+
 ### [Secret-magpie-cli](https://github.com/punk-security/secret-magpie-cli) ~ *Secret Magpie - Secret Detection Tool*
  [⭐️](https://github.com/punk-security/secret-magpie-cli/stargazers) 27 [🚀](https://github.com/punk-security/secret-magpie-cli/network/members) 6 [💥](https://github.com/punk-security/secret-magpie-cli/issues) 2 🪪  GNU General Public License v3.0
 
@@ -934,10 +938,6 @@
 
 ### [Kubectl-unbound-pvc](https://github.com/ishantanu/kubectl-unbound-pvc) ~ *A kubectl plugint to see PVCs which are not in "Bound" state*
  [⭐️](https://github.com/ishantanu/kubectl-unbound-pvc/stargazers) 1 [🚀](https://github.com/ishantanu/kubectl-unbound-pvc/network/members) 1 [💥](https://github.com/ishantanu/kubectl-unbound-pvc/issues) 0 🪪  Apache License 2.0
-
-
-### [Kubecd](https://github.com/zedge/kubecd) ~ *Kubernetes Continuous Deployment Toolkit*
- [⭐️](https://github.com/zedge/kubecd/stargazers) 0 [🚀](https://github.com/zedge/kubecd/network/members) 1 [💥](https://github.com/zedge/kubecd/issues) 0 🪪  Apache License 2.0
 
 
 

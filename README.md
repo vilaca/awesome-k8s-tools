@@ -868,6 +868,10 @@
  [⭐️](https://github.com/kubecd/kubecd/stargazers) 33 [🚀](https://github.com/kubecd/kubecd/network/members) 5 [💥](https://github.com/kubecd/kubecd/issues) 3 🪪  Apache License 2.0
 
 
+### [Kubecd](https://github.com/kubecd/kubecd) ~ *Kubernetes Continuous Deployment Toolkit*
+ [⭐️](https://github.com/kubecd/kubecd/stargazers) 33 [🚀](https://github.com/kubecd/kubecd/network/members) 5 [💥](https://github.com/kubecd/kubecd/issues) 3 🪪  Apache License 2.0
+
+
 ### [Secret-magpie-cli](https://github.com/punk-security/secret-magpie-cli) ~ *Secret Magpie - Secret Detection Tool*
  [⭐️](https://github.com/punk-security/secret-magpie-cli/stargazers) 27 [🚀](https://github.com/punk-security/secret-magpie-cli/network/members) 6 [💥](https://github.com/punk-security/secret-magpie-cli/issues) 2 🪪  GNU General Public License v3.0
 

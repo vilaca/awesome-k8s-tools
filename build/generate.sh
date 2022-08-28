@@ -13,6 +13,7 @@ do
   DESCRIPTION="$(echo "$JSON" | jq -r .description | awk '{$1=$1;print}')"
   UPDATED="$(echo "$JSON" | jq -r .pushed_at)"
   LICENSE="$(echo "$JSON" | jq -r .license.name)"
+  ARCHIVED="$(echo "$JSON" | jq -r .archived)"
   LINK="[${NAME^}](https://github.com/$FULL_NAME)"
   if [ "${STARS}" = "null" ]
   then
@@ -20,5 +21,5 @@ do
     echo "$JSON"
     exit 1
   fi
-  ./build/card.sh "$LINK" "$DESCRIPTION" "$FULL_NAME" "$STARS" "$FORKS" "$ISSUES" "$LICENSE" >> TOP.md
+  ./build/card.sh "$LINK" "$DESCRIPTION" "$FULL_NAME" "$STARS" "$FORKS" "$ISSUES" "$LICENSE" "$ARCHIVED" >> TOP.md
 done < sorted

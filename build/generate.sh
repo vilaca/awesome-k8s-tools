@@ -15,6 +15,7 @@ do
   LICENSE="$(echo "$JSON" | jq -r .license.name)"
   ARCHIVED="$(echo "$JSON" | jq -r .archived)"
   LINK="[${NAME^}](https://github.com/$FULL_NAME)"
+  echo "$(echo "$JSON" | jq -r .created_at)"
   if [ "${STARS}" = "null" ]
   then
     echo "😱 could not get the number of stars for $FULL_NAME"

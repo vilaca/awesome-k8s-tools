@@ -1,5 +1,4 @@
 https://github.com/99designs/aws-vault
-https://github.com/ctk-hq/ctk
 https://github.com/adrienverge/yamllint
 https://github.com/ahmetb/kubectl-tree
 https://github.com/ahmetb/kubectx
@@ -39,6 +38,7 @@ https://github.com/controlplaneio/kubectl-kubesec
 https://github.com/coredns/coredns
 https://github.com/cosmo-workspace/cosmo
 https://github.com/crossplane/crossplane
+https://github.com/ctk-hq/ctk
 https://github.com/cyberark/KubiScan
 https://github.com/deepfence/YaraHunter
 https://github.com/Dentrax/kubesql

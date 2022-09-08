@@ -25,7 +25,7 @@
 
 
 ### [Istio](https://github.com/istio/istio) ~ *Connect, secure, control, and observe services.*
- [⭐️](https://github.com/istio/istio/stargazers) 31.2K [🚀](https://github.com/istio/istio/network/members) 6.6K [💥](https://github.com/istio/istio/issues) 518 🪪  Apache License 2.0
+ [⭐️](https://github.com/istio/istio/stargazers) 31.2K [🚀](https://github.com/istio/istio/network/members) 6.6K [💥](https://github.com/istio/istio/issues) 520 🪪  Apache License 2.0
 
 
 ### [Consul](https://github.com/hashicorp/consul) ~ *Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.*
@@ -37,11 +37,11 @@
 
 
 ### [Portainer](https://github.com/portainer/portainer) ~ *Making Docker and Kubernetes management easy.*
- [⭐️](https://github.com/portainer/portainer/stargazers) 22.8K [🚀](https://github.com/portainer/portainer/network/members) 2.0K [💥](https://github.com/portainer/portainer/issues) 938 🪪  zlib License
+ [⭐️](https://github.com/portainer/portainer/stargazers) 22.8K [🚀](https://github.com/portainer/portainer/network/members) 2.0K [💥](https://github.com/portainer/portainer/issues) 934 🪪  zlib License
 
 
 ### [Helm](https://github.com/helm/helm) ~ *The Kubernetes Package Manager*
- [⭐️](https://github.com/helm/helm/stargazers) 22.5K [🚀](https://github.com/helm/helm/network/members) 6.3K [💥](https://github.com/helm/helm/issues) 528 🪪  Apache License 2.0
+ [⭐️](https://github.com/helm/helm/stargazers) 22.5K [🚀](https://github.com/helm/helm/network/members) 6.3K [💥](https://github.com/helm/helm/issues) 526 🪪  Apache License 2.0
 
 
 ### [K3s](https://github.com/k3s-io/k3s) ~ *Lightweight Kubernetes*
@@ -53,7 +53,7 @@
 
 
 ### [Lens](https://github.com/lensapp/lens) ~ *Lens - The way the world runs Kubernetes*
- [⭐️](https://github.com/lensapp/lens/stargazers) 19.3K [🚀](https://github.com/lensapp/lens/network/members) 1.0K [💥](https://github.com/lensapp/lens/issues) 842 🪪  Other
+ [⭐️](https://github.com/lensapp/lens/stargazers) 19.3K [🚀](https://github.com/lensapp/lens/network/members) 1.0K [💥](https://github.com/lensapp/lens/issues) 847 🪪  Other
 
 
 ### [Harbor](https://github.com/goharbor/harbor) ~ *An open source trusted cloud native registry project that stores, signs, and scans content.*
@@ -109,7 +109,7 @@
 
 
 ### [Kubespray](https://github.com/kubernetes-sigs/kubespray) ~ *Deploy a Production Ready Kubernetes Cluster*
- [⭐️](https://github.com/kubernetes-sigs/kubespray/stargazers) 12.8K [🚀](https://github.com/kubernetes-sigs/kubespray/network/members) 5.4K [💥](https://github.com/kubernetes-sigs/kubespray/issues) 167 🪪  Apache License 2.0
+ [⭐️](https://github.com/kubernetes-sigs/kubespray/stargazers) 12.8K [🚀](https://github.com/kubernetes-sigs/kubespray/network/members) 5.4K [💥](https://github.com/kubernetes-sigs/kubespray/issues) 166 🪪  Apache License 2.0
 
 
 ### [Kubeflow](https://github.com/kubeflow/kubeflow) ~ *Machine Learning Toolkit for Kubernetes*
@@ -165,7 +165,7 @@
 
 
 ### [Trufflehog](https://github.com/trufflesecurity/trufflehog) ~ *Find credentials all over the place*
- [⭐️](https://github.com/trufflesecurity/trufflehog/stargazers) 9.1K [🚀](https://github.com/trufflesecurity/trufflehog/network/members) 1.1K [💥](https://github.com/trufflesecurity/trufflehog/issues) 76 🪪  GNU Affero General Public License v3.0
+ [⭐️](https://github.com/trufflesecurity/trufflehog/stargazers) 9.1K [🚀](https://github.com/trufflesecurity/trufflehog/network/members) 1.1K [💥](https://github.com/trufflesecurity/trufflehog/issues) 77 🪪  GNU Affero General Public License v3.0
 
 
 ### [Linkerd2](https://github.com/linkerd/linkerd2) ~ *Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.*
@@ -313,7 +313,7 @@
 
 
 ### [Flux2](https://github.com/fluxcd/flux2) ~ *Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.*
- [⭐️](https://github.com/fluxcd/flux2/stargazers) 3.7K [🚀](https://github.com/fluxcd/flux2/network/members) 398 [💥](https://github.com/fluxcd/flux2/issues) 148 🪪  Apache License 2.0
+ [⭐️](https://github.com/fluxcd/flux2/stargazers) 3.7K [🚀](https://github.com/fluxcd/flux2/network/members) 398 [💥](https://github.com/fluxcd/flux2/issues) 149 🪪  Apache License 2.0
 
 
 ### [Virtual-kubelet](https://github.com/virtual-kubelet/virtual-kubelet) ~ *Virtual Kubelet is an open source Kubernetes kubelet implementation.*
@@ -325,7 +325,7 @@
 
 
 ### [Test-infra](https://github.com/kubernetes/test-infra) ~ *Test infrastructure for the Kubernetes project.*
- [⭐️](https://github.com/kubernetes/test-infra/stargazers) 3.4K [🚀](https://github.com/kubernetes/test-infra/network/members) 2.2K [💥](https://github.com/kubernetes/test-infra/issues) 197 🪪  Apache License 2.0
+ [⭐️](https://github.com/kubernetes/test-infra/stargazers) 3.4K [🚀](https://github.com/kubernetes/test-infra/network/members) 2.2K [💥](https://github.com/kubernetes/test-infra/issues) 198 🪪  Apache License 2.0
 
 
 ### [Tflint](https://github.com/terraform-linters/tflint) ~ *A Pluggable Terraform Linter*
@@ -593,7 +593,7 @@
 
 
 ### [Rke2](https://github.com/rancher/rke2) ~ *null*
- [⭐️](https://github.com/rancher/rke2/stargazers) 737 [🚀](https://github.com/rancher/rke2/network/members) 174 [💥](https://github.com/rancher/rke2/issues) 248 🪪  Apache License 2.0
+ [⭐️](https://github.com/rancher/rke2/stargazers) 737 [🚀](https://github.com/rancher/rke2/network/members) 174 [💥](https://github.com/rancher/rke2/issues) 249 🪪  Apache License 2.0
 
 
 ### [Kubeclarity](https://github.com/openclarity/kubeclarity) ~ *KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems*
@@ -689,7 +689,7 @@
 
 
 ### [Betterscan-ce](https://github.com/marcinguy/betterscan-ce) ~ *Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan Community Edition (CE)*
- [⭐️](https://github.com/marcinguy/betterscan-ce/stargazers) 279 [🚀](https://github.com/marcinguy/betterscan-ce/network/members) 43 [💥](https://github.com/marcinguy/betterscan-ce/issues) 19 🪪  Other
+ [⭐️](https://github.com/marcinguy/betterscan-ce/stargazers) 280 [🚀](https://github.com/marcinguy/betterscan-ce/network/members) 43 [💥](https://github.com/marcinguy/betterscan-ce/issues) 19 🪪  Other
 
 
 ### [Yh](https://github.com/andreazorzetto/yh) ~ *YAML syntax highlighter to bring colours to kubectl output*

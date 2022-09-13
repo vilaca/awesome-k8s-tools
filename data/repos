@@ -1,4 +1,3 @@
-https://github.com/JovianX/helm-release-plugin
 https://github.com/99designs/aws-vault
 https://github.com/adrienverge/yamllint
 https://github.com/ahmetb/kubectl-tree
@@ -102,6 +101,7 @@ https://github.com/jaegertracing/jaeger
 https://github.com/JamesTGrant/kubectl-debug
 https://github.com/jodevsa/wireguard-operator
 https://github.com/johanhaleby/kubetail
+https://github.com/JovianX/helm-release-plugin
 https://github.com/jtblin/kube2iam
 https://github.com/k0sproject/k0s
 https://github.com/k3d-io/k3d

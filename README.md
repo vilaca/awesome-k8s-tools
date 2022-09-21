@@ -21,11 +21,11 @@
 
 
 ### [Minio](https://github.com/minio/minio) ~ *Multi-Cloud :cloud: Object Storage*
- [⭐️](https://github.com/minio/minio/stargazers) 35.3K [🚀](https://github.com/minio/minio/network/members) 4.1K [💥](https://github.com/minio/minio/issues) 29 🪪  GNU Affero General Public License v3.0
+ [⭐️](https://github.com/minio/minio/stargazers) 35.3K [🚀](https://github.com/minio/minio/network/members) 4.1K [💥](https://github.com/minio/minio/issues) 30 🪪  GNU Affero General Public License v3.0
 
 
 ### [Istio](https://github.com/istio/istio) ~ *Connect, secure, control, and observe services.*
- [⭐️](https://github.com/istio/istio/stargazers) 31.3K [🚀](https://github.com/istio/istio/network/members) 6.6K [💥](https://github.com/istio/istio/issues) 516 🪪  Apache License 2.0
+ [⭐️](https://github.com/istio/istio/stargazers) 31.3K [🚀](https://github.com/istio/istio/network/members) 6.6K [💥](https://github.com/istio/istio/issues) 515 🪪  Apache License 2.0
 
 
 ### [Consul](https://github.com/hashicorp/consul) ~ *Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.*
@@ -549,7 +549,7 @@
 
 
 ### [Kubelogin](https://github.com/int128/kubelogin) ~ *kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)*
- [⭐️](https://github.com/int128/kubelogin/stargazers) 967 [🚀](https://github.com/int128/kubelogin/network/members) 143 [💥](https://github.com/int128/kubelogin/issues) 55 🪪  Apache License 2.0
+ [⭐️](https://github.com/int128/kubelogin/stargazers) 967 [🚀](https://github.com/int128/kubelogin/network/members) 143 [💥](https://github.com/int128/kubelogin/issues) 54 🪪  Apache License 2.0
 
 
 ### [Kube-vip](https://github.com/kube-vip/kube-vip) ~ *Kubernetes Control Plane Virtual IP and Load-Balancer*

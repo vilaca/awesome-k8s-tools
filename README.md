@@ -21,7 +21,7 @@
 
 
 ### [Minio](https://github.com/minio/minio) ~ *Multi-Cloud :cloud: Object Storage*
- [⭐️](https://github.com/minio/minio/stargazers) 35.7K [🚀](https://github.com/minio/minio/network/members) 4.2K [💥](https://github.com/minio/minio/issues) 28 🪪  GNU Affero General Public License v3.0
+ [⭐️](https://github.com/minio/minio/stargazers) 35.7K [🚀](https://github.com/minio/minio/network/members) 4.2K [💥](https://github.com/minio/minio/issues) 30 🪪  GNU Affero General Public License v3.0
 
 
 ### [Dive](https://github.com/wagoodman/dive) ~ *A tool for exploring each layer in a docker image*
@@ -425,7 +425,7 @@
 
 
 ### [Kyverno](https://github.com/kyverno/kyverno) ~ *Kubernetes Native Policy Management*
- [⭐️](https://github.com/kyverno/kyverno/stargazers) 3.0K [🚀](https://github.com/kyverno/kyverno/network/members) 420 [💥](https://github.com/kyverno/kyverno/issues) 316 🪪  Apache License 2.0
+ [⭐️](https://github.com/kyverno/kyverno/stargazers) 3.0K [🚀](https://github.com/kyverno/kyverno/network/members) 420 [💥](https://github.com/kyverno/kyverno/issues) 318 🪪  Apache License 2.0
 
 
 ### [Kubeval](https://github.com/instrumenta/kubeval) ~ *Validate your Kubernetes configuration files, supports multiple Kubernetes versions*
@@ -473,7 +473,7 @@
 
 
 ### [Coder](https://github.com/coder/coder) ~ *Remote development environments on your infrastructure provisioned with Terraform*
- [⭐️](https://github.com/coder/coder/stargazers) 2.4K [🚀](https://github.com/coder/coder/network/members) 146 [💥](https://github.com/coder/coder/issues) 271 🪪  GNU Affero General Public License v3.0
+ [⭐️](https://github.com/coder/coder/stargazers) 2.4K [🚀](https://github.com/coder/coder/network/members) 146 [💥](https://github.com/coder/coder/issues) 272 🪪  GNU Affero General Public License v3.0
 
 
 ### [Ksniff](https://github.com/eldadru/ksniff) ~ *Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark*
@@ -769,7 +769,7 @@
 
 
 ### [Hajimari](https://github.com/toboshii/hajimari) ~ *Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.*
- [⭐️](https://github.com/toboshii/hajimari/stargazers) 458 [🚀](https://github.com/toboshii/hajimari/network/members) 18 [💥](https://github.com/toboshii/hajimari/issues) 25 🪪  Apache License 2.0
+ [⭐️](https://github.com/toboshii/hajimari/stargazers) 458 [🚀](https://github.com/toboshii/hajimari/network/members) 18 [💥](https://github.com/toboshii/hajimari/issues) 26 🪪  Apache License 2.0
 
 
 ### [Hyscale](https://github.com/hyscale/hyscale) ~ *HyScale is an Application Centric Abstraction Framework over K8s.*
@@ -797,7 +797,7 @@
 
 
 ### [Apptainer](https://github.com/apptainer/apptainer) ~ *Apptainer: Application containers for Linux*
- [⭐️](https://github.com/apptainer/apptainer/stargazers) 379 [🚀](https://github.com/apptainer/apptainer/network/members) 62 [💥](https://github.com/apptainer/apptainer/issues) 85 🪪  Other
+ [⭐️](https://github.com/apptainer/apptainer/stargazers) 379 [🚀](https://github.com/apptainer/apptainer/network/members) 62 [💥](https://github.com/apptainer/apptainer/issues) 84 🪪  Other
 
 
 ### [Troubleshoot](https://github.com/replicatedhq/troubleshoot) ~ *Preflight Checks and Support Bundles Framework for Kubernetes Applications*

@@ -18,6 +18,7 @@ https://github.com/astefanutti/kubebox
 https://github.com/aws/karpenter
 https://github.com/azure/draft
 https://github.com/benc-uk/kubeview
+https://github.com/bitnami-labs/charts-syncer
 https://github.com/blendle/kns
 https://github.com/bmuschko/kubectl-swiftnp
 https://github.com/boz/kail
@@ -33,6 +34,7 @@ https://github.com/cloudnativelabs/kube-shell
 https://github.com/common-fate/iamzero
 https://github.com/containers/podman
 https://github.com/containers/podman-compose
+https://github.com/containers/skopeo
 https://github.com/containrrr/watchtower
 https://github.com/controlplaneio/kubectl-kubesec
 https://github.com/coredns/coredns
@@ -209,6 +211,7 @@ https://github.com/searchlight/searchlight
 https://github.com/shini4i/kd
 https://github.com/siderolabs/talos
 https://github.com/sighupio/permission-manager
+https://github.com/sigstore/cosign
 https://github.com/similarweb/finala
 https://github.com/SparebankenVest/azure-key-vault-to-kubernetes
 https://github.com/squat/kilo

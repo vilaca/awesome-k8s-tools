@@ -1,4 +1,8 @@
 
 ## Contributing
 
-Read the [LICENSE](LICENSE) and create a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+To add a new github repository: fork repository, edit the file at data/repos and create a new PR.
+
+Make sure to read the [LICENSE](LICENSE).
+
+

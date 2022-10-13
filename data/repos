@@ -76,6 +76,7 @@ https://github.com/google/gke-policy-automation
 https://github.com/GoogleContainerTools/kaniko
 https://github.com/GoogleContainerTools/kpt
 https://github.com/GoogleContainerTools/skaffold
+https://github.com/govirtuo/kube-ns-suspender
 https://github.com/grafana/grafana
 https://github.com/grafana/k6
 https://github.com/grafana/loki
@@ -242,4 +243,3 @@ https://github.com/wI2L/kubectl-vpa-recommendation
 https://github.com/yashbhutwala/kubectl-df-pv
 https://github.com/zegl/kube-score
 https://github.com/zricethezav/gitleaks
-https://github.com/govirtuo/kube-ns-suspender

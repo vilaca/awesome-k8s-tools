@@ -51,6 +51,8 @@ https://github.com/ContainerSSH/ContainerSSH
 https://github.com/containrrr/watchtower
 https://github.com/controlplaneio/kubectl-kubesec
 https://github.com/coredns/coredns
+https://github.com/corneliusweig/ketall
+https://github.com/corneliusweig/rakkess
 https://github.com/cosmo-workspace/cosmo
 https://github.com/crossplane/crossplane
 https://github.com/ctk-hq/ctk
@@ -68,6 +70,7 @@ https://github.com/digitalocean/clusterlint
 https://github.com/distribution/distribution
 https://github.com/docker-slim/docker-slim
 https://github.com/docker/buildx
+https://github.com/doitintl/kube-no-trouble
 https://github.com/dpeckett/pangolin
 https://github.com/duo-labs/parliament
 https://github.com/eduardobaitello/kubelogs
@@ -244,6 +247,7 @@ https://github.com/reddec/keycloak-ext-operator
 https://github.com/redkubes/otomi-core/
 https://github.com/replicatedhq/outdated
 https://github.com/replicatedhq/troubleshoot
+https://github.com/rikatz/kubepug
 https://github.com/robscott/kube-capacity
 https://github.com/robusta-dev/robusta
 https://github.com/robusta-dev/robusta-chaos
@@ -298,7 +302,3 @@ https://github.com/yashbhutwala/kubectl-df-pv
 https://github.com/yuyicai/kubei
 https://github.com/zegl/kube-score
 https://github.com/zricethezav/gitleaks
-https://github.com/doitintl/kube-no-trouble
-https://github.com/rikatz/kubepug
-https://github.com/corneliusweig/ketall
-https://github.com/corneliusweig/rakkess

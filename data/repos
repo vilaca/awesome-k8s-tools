@@ -35,6 +35,7 @@ https://github.com/bridgecrewio/checkov
 https://github.com/brigadecore/brigade
 https://github.com/caldito/soup
 https://github.com/canonical/microk8s
+https://github.com/cdk8s-team/cdk8s
 https://github.com/cert-manager/cert-manager
 https://github.com/chaitin/veinmind-tools
 https://github.com/chaos-mesh/chaos-mesh
@@ -307,4 +308,3 @@ https://github.com/yashbhutwala/kubectl-df-pv
 https://github.com/yuyicai/kubei
 https://github.com/zegl/kube-score
 https://github.com/zricethezav/gitleaks
-https://github.com/cdk8s-team/cdk8s

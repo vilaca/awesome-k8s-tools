@@ -231,6 +231,7 @@ https://github.com/openclarity/kubeclarity
 https://github.com/openebs/lvm-localpv
 https://github.com/openebs/openebs
 https://github.com/openfaas/faas-netes
+https://github.com/openshift/rosa
 https://github.com/opsgenie/kubernetes-event-exporter
 https://github.com/oslabs-beta/kr8s
 https://github.com/oslabs-beta/Palaemon
@@ -313,4 +314,3 @@ https://github.com/yashbhutwala/kubectl-df-pv
 https://github.com/yuyicai/kubei
 https://github.com/zegl/kube-score
 https://github.com/zricethezav/gitleaks
-https://github.com/openshift/rosa

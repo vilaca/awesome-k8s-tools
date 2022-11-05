@@ -1,6 +1,5 @@
 https://github.com/99designs/aws-vault
 https://github.com/acorn-io/acorn
-https://github.com/groundcover-com/murre
 https://github.com/adrienverge/yamllint
 https://github.com/ahmetb/kubectl-tree
 https://github.com/ahmetb/kubectx
@@ -110,6 +109,7 @@ https://github.com/grafana/loki
 https://github.com/grafana/tanka
 https://github.com/gravitational/gravity
 https://github.com/gravitational/teleport
+https://github.com/groundcover-com/murre
 https://github.com/groundnuty/k8s-wait-for
 https://github.com/hadolint/hadolint
 https://github.com/hashicorp/consul

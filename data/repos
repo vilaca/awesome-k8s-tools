@@ -241,6 +241,7 @@ https://github.com/openyurtio/openyurt
 https://github.com/opsgenie/kubernetes-event-exporter
 https://github.com/oslabs-beta/kr8s
 https://github.com/oslabs-beta/Palaemon
+https://github.com/otterize/intents-operator
 https://github.com/patrickdappollonio/kubectl-slice
 https://github.com/pivotal/kpack
 https://github.com/portainer/portainer
@@ -286,6 +287,7 @@ https://github.com/SparebankenVest/azure-key-vault-to-kubernetes
 https://github.com/squat/kilo
 https://github.com/stackrox/kube-linter
 https://github.com/stakater/Reloader
+https://github.com/stern/stern
 https://github.com/sukeesh/k8s-job-notify
 https://github.com/superbrothers/ksort
 https://github.com/superedge/superedge
@@ -315,11 +317,9 @@ https://github.com/wagoodman/dive
 https://github.com/walmartlabs/kubeman
 https://github.com/weaveworks/eksctl
 https://github.com/weaveworks/kubediff
-https://github.com/stern/stern
 https://github.com/werf/werf
 https://github.com/wI2L/kubectl-vpa-recommendation
 https://github.com/yashbhutwala/kubectl-df-pv
 https://github.com/yuyicai/kubei
 https://github.com/zegl/kube-score
 https://github.com/zricethezav/gitleaks
-https://github.com/otterize/intents-operator

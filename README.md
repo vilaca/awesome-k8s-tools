@@ -17,7 +17,7 @@
 
 
 ### [Traefik](https://github.com/traefik/traefik) ~ *The Cloud Native Application Proxy*
- [⭐️](https://github.com/traefik/traefik/stargazers) 40.4K [🚀](https://github.com/traefik/traefik/network/members) 4.4K [💥](https://github.com/traefik/traefik/issues) 611 🪪  MIT License
+ [⭐️](https://github.com/traefik/traefik/stargazers) 40.4K [🚀](https://github.com/traefik/traefik/network/members) 4.4K [💥](https://github.com/traefik/traefik/issues) 612 🪪  MIT License
 
 
 ### [Minio](https://github.com/minio/minio) ~ *Multi-Cloud :cloud: Object Storage*
@@ -57,7 +57,7 @@
 
 
 ### [Lens](https://github.com/lensapp/lens) ~ *Lens - The way the world runs Kubernetes*
- [⭐️](https://github.com/lensapp/lens/stargazers) 19.8K [🚀](https://github.com/lensapp/lens/network/members) 1.1K [💥](https://github.com/lensapp/lens/issues) 832 🪪  Other
+ [⭐️](https://github.com/lensapp/lens/stargazers) 19.8K [🚀](https://github.com/lensapp/lens/network/members) 1.1K [💥](https://github.com/lensapp/lens/issues) 836 🪪  Other
 
 
 ### [Dapr](https://github.com/dapr/dapr) ~ *Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.*
@@ -337,7 +337,7 @@
 
 
 ### [Kubeshark](https://github.com/kubeshark/kubeshark) ~ *The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes*
- [⭐️](https://github.com/kubeshark/kubeshark/stargazers) 4.4K [🚀](https://github.com/kubeshark/kubeshark/network/members) 157 [💥](https://github.com/kubeshark/kubeshark/issues) 30 🪪  Apache License 2.0
+ [⭐️](https://github.com/kubeshark/kubeshark/stargazers) 4.5K [🚀](https://github.com/kubeshark/kubeshark/network/members) 157 [💥](https://github.com/kubeshark/kubeshark/issues) 30 🪪  Apache License 2.0
 
 
 ### [Reloader](https://github.com/stakater/Reloader) ~ *A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!*
@@ -389,7 +389,7 @@
 
 
 ### [Karpenter](https://github.com/aws/karpenter) ~ *Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.*
- [⭐️](https://github.com/aws/karpenter/stargazers) 3.5K [🚀](https://github.com/aws/karpenter/network/members) 394 [💥](https://github.com/aws/karpenter/issues) 145 🪪  Other
+ [⭐️](https://github.com/aws/karpenter/stargazers) 3.5K [🚀](https://github.com/aws/karpenter/network/members) 394 [💥](https://github.com/aws/karpenter/issues) 144 🪪  Other
 
 
 ### [Test-infra](https://github.com/kubernetes/test-infra) ~ *Test infrastructure for the Kubernetes project.*
@@ -813,7 +813,7 @@
 
 
 ### [Kanister](https://github.com/kanisterio/kanister) ~ *An extensible framework for application-level data management on Kubernetes*
- [⭐️](https://github.com/kanisterio/kanister/stargazers) 573 [🚀](https://github.com/kanisterio/kanister/network/members) 110 [💥](https://github.com/kanisterio/kanister/issues) 72 🪪  Apache License 2.0
+ [⭐️](https://github.com/kanisterio/kanister/stargazers) 573 [🚀](https://github.com/kanisterio/kanister/network/members) 110 [💥](https://github.com/kanisterio/kanister/issues) 73 🪪  Apache License 2.0
 
 
 ### [Consul-k8s](https://github.com/hashicorp/consul-k8s) ~ *First-class support for Consul Service Mesh on Kubernetes*

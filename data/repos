@@ -193,6 +193,7 @@ https://github.com/kubernetes/minikube
 https://github.com/kubernetes/node-problem-detector
 https://github.com/kubernetes/test-infra
 https://github.com/kubescape/kubescape
+https://github.com/kubeshark/kubeshark
 https://github.com/kubeshop/botkube
 https://github.com/kubesphere/kubesphere
 https://github.com/kubevious/kubevious
@@ -303,7 +304,6 @@ https://github.com/Trendyol/kink
 https://github.com/trufflesecurity/trufflehog
 https://github.com/twuni/docker-registry.helm
 https://github.com/txn2/kubefwd
-https://github.com/kubeshark/kubeshark
 https://github.com/utkuozdemir/pv-migrate
 https://github.com/virtual-kubelet/virtual-kubelet
 https://github.com/vmware-tanzu/carvel-kapp

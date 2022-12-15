@@ -24,6 +24,7 @@ https://github.com/asobti/kube-monkey
 https://github.com/astefanutti/kubebox
 https://github.com/aws-containers/kubectl-detector-for-docker-socket
 https://github.com/aws-samples/aws-cost-explorer-report
+https://github.com/aws-samples/hardeneks
 https://github.com/aws/karpenter
 https://github.com/azure/draft
 https://github.com/benc-uk/kubeview
@@ -323,4 +324,3 @@ https://github.com/yashbhutwala/kubectl-df-pv
 https://github.com/yuyicai/kubei
 https://github.com/zegl/kube-score
 https://github.com/zricethezav/gitleaks
-https://github.com/aws-samples/hardeneks

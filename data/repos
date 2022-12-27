@@ -11,7 +11,6 @@ https://github.com/andreazorzetto/yh
 https://github.com/AndrewGuenther/cdk-fck-nat
 https://github.com/apache/openwhisk
 https://github.com/apptainer/apptainer
-https://github.com/komodorio/helm-dashboard
 https://github.com/appvia/krane
 https://github.com/aptakube/aptakube
 https://github.com/aquasecurity/defsec
@@ -160,6 +159,7 @@ https://github.com/kj187/kubernetes-ingress-linklist
 https://github.com/kluctl/kluctl
 https://github.com/knative/serving
 https://github.com/ko-build/ko
+https://github.com/komodorio/helm-dashboard
 https://github.com/koolwithk/kubernetes-kn-kx-bash
 https://github.com/krisnova/kaar
 https://github.com/krustlet/krustlet

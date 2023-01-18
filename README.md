@@ -1,6 +1,6 @@
 # Awesome List of Open Source K8s and Container Tools
 
-### This is list is a compilation of oss k8s tools sorted by the number of likes the repository has at [Github](https://github.com) updated everyday at 1h GMT.
+### This is list is a compilation of oss k8s tools updated everyday at 1h GMT. The repositories are sorted by the number of likes.
 
 To add a missing tool repository create a [pull request](../data/repos).
 ### [Kubernetes](https://github.com/kubernetes/kubernetes) ~ *Production-Grade Container Scheduling and Management*
@@ -32,7 +32,7 @@ To add a missing tool repository create a [pull request](../data/repos).
 
 
 ### [Istio](https://github.com/istio/istio) ~ *Connect, secure, control, and observe services.*
- [⭐️](https://github.com/istio/istio/stargazers) 32.2K [🚀](https://github.com/istio/istio/network/members) 6.9K [💥](https://github.com/istio/istio/issues) 585 🪪  Apache License 2.0
+ [⭐️](https://github.com/istio/istio/stargazers) 32.2K [🚀](https://github.com/istio/istio/network/members) 6.9K [💥](https://github.com/istio/istio/issues) 587 🪪  Apache License 2.0
 
 
 ### [Consul](https://github.com/hashicorp/consul) ~ *Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.*
@@ -468,7 +468,7 @@ To add a missing tool repository create a [pull request](../data/repos).
 
 
 ### [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) ~ *Gatekeeper - Policy Controller for Kubernetes*
- [⭐️](https://github.com/open-policy-agent/gatekeeper/stargazers) 2.8K [🚀](https://github.com/open-policy-agent/gatekeeper/network/members) 635 [💥](https://github.com/open-policy-agent/gatekeeper/issues) 156 🪪  Apache License 2.0
+ [⭐️](https://github.com/open-policy-agent/gatekeeper/stargazers) 2.8K [🚀](https://github.com/open-policy-agent/gatekeeper/network/members) 635 [💥](https://github.com/open-policy-agent/gatekeeper/issues) 155 🪪  Apache License 2.0
 
 
 ### [Kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) ~ *Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀*
@@ -732,7 +732,7 @@ To add a missing tool repository create a [pull request](../data/repos).
 
 
 ### [Acorn](https://github.com/acorn-io/acorn) ~ *A simple application deployment framework for Kubernetes*
- [⭐️](https://github.com/acorn-io/acorn/stargazers) 929 [🚀](https://github.com/acorn-io/acorn/network/members) 67 [💥](https://github.com/acorn-io/acorn/issues) 153 🪪  Apache License 2.0
+ [⭐️](https://github.com/acorn-io/acorn/stargazers) 929 [🚀](https://github.com/acorn-io/acorn/network/members) 67 [💥](https://github.com/acorn-io/acorn/issues) 152 🪪  Apache License 2.0
 
 
 ### [Kiosk](https://github.com/loft-sh/kiosk) ~ *kiosk 🏢 Multi-Tenancy Extension For Kubernetes - Secure Cluster Sharing & Self-Service Namespace Provisioning*
@@ -1120,7 +1120,7 @@ To add a missing tool repository create a [pull request](../data/repos).
 
 
 ### [Secret-magpie-cli](https://github.com/punk-security/secret-magpie-cli) ~ *Secret Magpie - Secret Detection Tool*
- [⭐️](https://github.com/punk-security/secret-magpie-cli/stargazers) 119 [🚀](https://github.com/punk-security/secret-magpie-cli/network/members) 13 [💥](https://github.com/punk-security/secret-magpie-cli/issues) 13 🪪  GNU General Public License v3.0
+ [⭐️](https://github.com/punk-security/secret-magpie-cli/stargazers) 119 [🚀](https://github.com/punk-security/secret-magpie-cli/network/members) 13 [💥](https://github.com/punk-security/secret-magpie-cli/issues) 12 🪪  GNU General Public License v3.0
 
 
 ### [K8s-job-notify](https://github.com/sukeesh/k8s-job-notify) ~ *Kuberenets Job/CronJob Notifier*
@@ -1318,4 +1318,4 @@ To add a new github repository: fork repository, edit the file at data/repos and
 
 Make sure to read the [LICENSE](LICENSE).
 
-
+***

@@ -308,7 +308,7 @@ https://github.com/twuni/docker-registry.helm
 https://github.com/txn2/kubefwd
 https://github.com/utkuozdemir/pv-migrate
 https://github.com/virtual-kubelet/virtual-kubelet
-https://github.com/vmware-tanzu/carvel-kapp
+https://github.com/carvel-dev/kapp
 https://github.com/vmware-tanzu/carvel-ytt
 https://github.com/vmware-tanzu/octant
 https://github.com/vmware-tanzu/velero

@@ -36,6 +36,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/brigadecore/brigade
 https://github.com/caldito/soup
 https://github.com/canonical/microk8s
+https://github.com/carvel-dev/kapp
+https://github.com/carvel-dev/ytt
 https://github.com/cdk8s-team/cdk8s
 https://github.com/cert-manager/cert-manager
 https://github.com/chaitin/veinmind-tools
@@ -67,6 +69,7 @@ https://github.com/deepfence/YaraHunter
 https://github.com/Dentrax/kubesql
 https://github.com/derailed/k9s
 https://github.com/derailed/popeye
+https://github.com/devspace-sh/devspace
 https://github.com/devtron-labs/devtron
 https://github.com/devtron-labs/silver-surfer
 https://github.com/dexidp/dex
@@ -208,7 +211,6 @@ https://github.com/lensapp/lens
 https://github.com/linkerd/linkerd2
 https://github.com/linki/chaoskube
 https://github.com/litmuschaos/litmus
-https://github.com/devspace-sh/devspace
 https://github.com/loft-sh/kiosk
 https://github.com/loft-sh/vcluster
 https://github.com/lucky-sideburn/KubeInvaders
@@ -308,7 +310,7 @@ https://github.com/twuni/docker-registry.helm
 https://github.com/txn2/kubefwd
 https://github.com/utkuozdemir/pv-migrate
 https://github.com/virtual-kubelet/virtual-kubelet
-https://github.com/carvel-dev/kapp
+https://github.com/vmware-archive/octant
 https://github.com/vmware-tanzu/velero
 https://github.com/vmware/kube-fluentd-operator
 https://github.com/vmware/weathervane
@@ -323,5 +325,3 @@ https://github.com/yashbhutwala/kubectl-df-pv
 https://github.com/yuyicai/kubei
 https://github.com/zegl/kube-score
 https://github.com/zricethezav/gitleaks
-https://github.com/carvel-dev/ytt
-https://github.com/vmware-archive/octant

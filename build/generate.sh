@@ -20,5 +20,9 @@ do
     echo "$JSON"
     exit 1
   fi
+  if [ "${LICENSE}" = "null" ]
+  then
+    LICENSE="n.a."
+  fi
   ./build/card.sh "$LINK" "$DESCRIPTION" "$FULL_NAME" "$STARS" "$FORKS" "$ISSUES" "$LICENSE" >> TOP.md
 done < sorted

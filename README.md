@@ -431,12 +431,12 @@ To add a missing tool repository append it to the [repository index](data/repos)
  [⭐️](https://github.com/kyverno/kyverno/stargazers) 3.4K [🚀](https://github.com/kyverno/kyverno/network/members) 504 [💥](https://github.com/kyverno/kyverno/issues) 317 🪪  Apache License 2.0
 
 
-### [Kubefwd](https://github.com/txn2/kubefwd) ~ *Bulk port forwarding Kubernetes services for local development.*
- [⭐️](https://github.com/txn2/kubefwd/stargazers) 3.3K [🚀](https://github.com/txn2/kubefwd/network/members) 176 [💥](https://github.com/txn2/kubefwd/issues) 14 🪪  Apache License 2.0
-
-
 ### [Devspace](https://github.com/devspace-sh/devspace) ~ *DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.*
  [⭐️](https://github.com/devspace-sh/devspace/stargazers) 3.3K [🚀](https://github.com/devspace-sh/devspace/network/members) 293 [💥](https://github.com/devspace-sh/devspace/issues) 167 🪪  Apache License 2.0
+
+
+### [Kubefwd](https://github.com/txn2/kubefwd) ~ *Bulk port forwarding Kubernetes services for local development.*
+ [⭐️](https://github.com/txn2/kubefwd/stargazers) 3.3K [🚀](https://github.com/txn2/kubefwd/network/members) 176 [💥](https://github.com/txn2/kubefwd/issues) 14 🪪  Apache License 2.0
 
 
 ### [Contour](https://github.com/projectcontour/contour) ~ *Contour is a Kubernetes ingress controller using Envoy proxy.*
@@ -735,6 +735,10 @@ To add a missing tool repository append it to the [repository index](data/repos)
  [⭐️](https://github.com/chaitin/veinmind-tools/stargazers) 1.0K [🚀](https://github.com/chaitin/veinmind-tools/network/members) 131 [💥](https://github.com/chaitin/veinmind-tools/issues) 16 🪪  MIT License
 
 
+### [Kubeconform](https://github.com/yannh/kubeconform) ~ *A FAST Kubernetes manifests validator, with support for Custom Resources!*
+ [⭐️](https://github.com/yannh/kubeconform/stargazers) 977 [🚀](https://github.com/yannh/kubeconform/network/members) 74 [💥](https://github.com/yannh/kubeconform/issues) 25 🪪  Apache License 2.0
+
+
 ### [Acorn](https://github.com/acorn-io/acorn) ~ *A simple application deployment framework for Kubernetes*
  [⭐️](https://github.com/acorn-io/acorn/stargazers) 945 [🚀](https://github.com/acorn-io/acorn/network/members) 72 [💥](https://github.com/acorn-io/acorn/issues) 167 🪪  Apache License 2.0
 
@@ -928,7 +932,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Kubefirst](https://github.com/kubefirst/kubefirst) ~ *The Kubefirst Open Source Platform*
- [⭐️](https://github.com/kubefirst/kubefirst/stargazers) 381 [🚀](https://github.com/kubefirst/kubefirst/network/members) 30 [💥](https://github.com/kubefirst/kubefirst/issues) 213 🪪  MIT License
+ [⭐️](https://github.com/kubefirst/kubefirst/stargazers) 382 [🚀](https://github.com/kubefirst/kubefirst/network/members) 31 [💥](https://github.com/kubefirst/kubefirst/issues) 213 🪪  MIT License
 
 
 ### [Azure-key-vault-to-kubernetes](https://github.com/SparebankenVest/azure-key-vault-to-kubernetes) ~ *Azure Key Vault to Kubernetes (akv2k8s for short) makes it simple and secure to use Azure Key Vault secrets, keys and certificates in Kubernetes.*

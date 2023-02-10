@@ -1,5 +1,5 @@
-# Awesome List of Open Source Kubernetes and Container Tools
+# Awesome List of Open Source K8s and Container Tools
 
-### This is list is a compilation of oss k8s tools. Everyday at 1h GMT the repositories are sorted by the number of stars that repository received.
+### Every day at 1h GMT, the repositories are ordered by the star count. All data displayed is extracted from each repository GitHub page.
 
 To add a missing tool repository append it to the [repository index](data/repos) and create a pull request.

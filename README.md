@@ -32,7 +32,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Istio](https://github.com/istio/istio) ~ *Connect, secure, control, and observe services.*
- [⭐️](https://github.com/istio/istio/stargazers) 32.3K [🚀](https://github.com/istio/istio/network/members) 6.9K [💥](https://github.com/istio/istio/issues) 604 🪪  Apache License 2.0
+ [⭐️](https://github.com/istio/istio/stargazers) 32.3K [🚀](https://github.com/istio/istio/network/members) 6.9K [💥](https://github.com/istio/istio/issues) 608 🪪  Apache License 2.0
 
 
 ### [Consul](https://github.com/hashicorp/consul) ~ *Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.*
@@ -356,7 +356,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ~ *Add-on agent to generate and expose cluster-level metrics.*
- [⭐️](https://github.com/kubernetes/kube-state-metrics/stargazers) 4.3K [🚀](https://github.com/kubernetes/kube-state-metrics/network/members) 1.6K [💥](https://github.com/kubernetes/kube-state-metrics/issues) 48 🪪  Apache License 2.0
+ [⭐️](https://github.com/kubernetes/kube-state-metrics/stargazers) 4.3K [🚀](https://github.com/kubernetes/kube-state-metrics/network/members) 1.6K [💥](https://github.com/kubernetes/kube-state-metrics/issues) 47 🪪  Apache License 2.0
 
 
 ### [Calico](https://github.com/projectcalico/calico) ~ *Cloud native networking and network security*
@@ -644,7 +644,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Kyma](https://github.com/kyma-project/kyma) ~ *A flexible and easy way to connect and extend enterprise applications in a cloud-native world*
- [⭐️](https://github.com/kyma-project/kyma/stargazers) 1.4K [🚀](https://github.com/kyma-project/kyma/network/members) 405 [💥](https://github.com/kyma-project/kyma/issues) 294 🪪  Apache License 2.0
+ [⭐️](https://github.com/kyma-project/kyma/stargazers) 1.4K [🚀](https://github.com/kyma-project/kyma/network/members) 405 [💥](https://github.com/kyma-project/kyma/issues) 295 🪪  Apache License 2.0
 
 
 ### [Kics](https://github.com/Checkmarx/kics) ~ *Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.*
@@ -1177,10 +1177,6 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 ### [Kpoof](https://github.com/farmotive/kpoof) ~ *Quick k8s port-forward utility*
  [⭐️](https://github.com/farmotive/kpoof/stargazers) 73 [🚀](https://github.com/farmotive/kpoof/network/members) 7 [💥](https://github.com/farmotive/kpoof/issues) 4 🪪  MIT License
-
-
-### [K8s](https://github.com/forbearing/k8s) ~ *The library implements various handlers to more easier create/update/apply/patch/delete/get/list/watch k8s resources such as pods, deployments, etc. inside or outside k8s cluster.*
- [⭐️](https://github.com/forbearing/k8s/stargazers) 71 [🚀](https://github.com/forbearing/k8s/network/members) 5 [💥](https://github.com/forbearing/k8s/issues) 0 🪪  Apache License 2.0
 
 
 ### [Helm-release-plugin](https://github.com/JovianX/helm-release-plugin) ~ *Helm3 plugin that pulls(re-creates) helm Charts from deployed releases, and updates values of deployed releases without the chart.*

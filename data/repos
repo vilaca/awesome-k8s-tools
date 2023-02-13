@@ -1,4 +1,3 @@
-https://github.com/ContainerSolutions/helm-monitor
 https://github.com/99designs/aws-vault
 https://github.com/abahmed/kwatch
 https://github.com/acorn-io/acorn
@@ -53,6 +52,7 @@ https://github.com/common-fate/iamzero
 https://github.com/containers/podman
 https://github.com/containers/podman-compose
 https://github.com/containers/skopeo
+https://github.com/ContainerSolutions/helm-monitor
 https://github.com/ContainerSSH/ContainerSSH
 https://github.com/containrrr/watchtower
 https://github.com/controlplaneio/kubectl-kubesec

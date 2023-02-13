@@ -249,6 +249,7 @@ https://github.com/oslabs-beta/Palaemon
 https://github.com/otterize/intents-operator
 https://github.com/patrickdappollonio/kubectl-slice
 https://github.com/pivotal/kpack
+https://github.com/pixie-io/pixie
 https://github.com/portainer/portainer
 https://github.com/poseidon/typhoon
 https://github.com/postfinance/kubectl-sudo
@@ -256,6 +257,7 @@ https://github.com/powerfulseal/powerfulseal
 https://github.com/profefe/kube-profefe
 https://github.com/projectcalico/calico
 https://github.com/projectcontour/contour
+https://github.com/prometheus-operator/prometheus-operator
 https://github.com/prometheus/alertmanager
 https://github.com/prometheus/node_exporter
 https://github.com/prometheus/prometheus
@@ -327,5 +329,3 @@ https://github.com/yashbhutwala/kubectl-df-pv
 https://github.com/yuyicai/kubei
 https://github.com/zegl/kube-score
 https://github.com/zricethezav/gitleaks
-https://github.com/pixie-io/pixie
-https://github.com/prometheus-operator/prometheus-operator

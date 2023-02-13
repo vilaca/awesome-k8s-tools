@@ -2,7 +2,7 @@
 
 ### Every day at 1h GMT, the repositories are ordered by the star count. All data displayed is extracted from each repository GitHub page.
 
-⭐️ - Stars the repository was awarded
+⭐️ - Stars the repository has received
 
 🚀 - Forks
 

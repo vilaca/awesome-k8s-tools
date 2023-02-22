@@ -5,4 +5,3 @@ To add a new github repository: fork repository, edit the file at data/repos and
 
 Make sure to read the [LICENSE](LICENSE).
 
-***

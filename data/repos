@@ -4,7 +4,6 @@ https://github.com/acorn-io/acorn
 https://github.com/adrienverge/yamllint
 https://github.com/ahmetb/kubectl-tree
 https://github.com/ahmetb/kubectx
-https://github.com/kedacore/keda
 https://github.com/airwallex/k8s-pod-restart-info-collector
 https://github.com/alcideio/advisor
 https://github.com/alcideio/skan
@@ -153,6 +152,7 @@ https://github.com/kalmhq/kalm
 https://github.com/kanisterio/kanister
 https://github.com/kbst/terraform-kubestack
 https://github.com/kcp-dev/kcp
+https://github.com/kedacore/keda
 https://github.com/keel-hq/keel
 https://github.com/keisku/kubectl-explore
 https://github.com/keyval-dev/odigos

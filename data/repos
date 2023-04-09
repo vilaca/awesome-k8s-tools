@@ -1,5 +1,4 @@
 https://github.com/99designs/aws-vault
-https://github.com/containerd/containerd
 https://github.com/abahmed/kwatch
 https://github.com/acorn-io/acorn
 https://github.com/adrienverge/yamllint
@@ -50,6 +49,7 @@ https://github.com/cloudboss/keights
 https://github.com/cloudnativelabs/kube-shell
 https://github.com/coder/coder
 https://github.com/common-fate/iamzero
+https://github.com/containerd/containerd
 https://github.com/containers/podman
 https://github.com/containers/podman-compose
 https://github.com/containers/skopeo

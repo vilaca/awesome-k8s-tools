@@ -8,7 +8,6 @@ https://github.com/airwallex/k8s-pod-restart-info-collector
 https://github.com/alcideio/advisor
 https://github.com/alcideio/skan
 https://github.com/alexellis/k3sup
-https://github.com/aws-quickstart/cdk-eks-blueprints
 https://github.com/andreazorzetto/yh
 https://github.com/AndrewGuenther/cdk-fck-nat
 https://github.com/apache/openwhisk
@@ -24,6 +23,7 @@ https://github.com/arttor/helmify
 https://github.com/asobti/kube-monkey
 https://github.com/astefanutti/kubebox
 https://github.com/aws-containers/kubectl-detector-for-docker-socket
+https://github.com/aws-quickstart/cdk-eks-blueprints
 https://github.com/aws-samples/aws-cost-explorer-report
 https://github.com/aws-samples/hardeneks
 https://github.com/aws/karpenter

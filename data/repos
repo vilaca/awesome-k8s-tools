@@ -5,7 +5,6 @@ https://github.com/adrienverge/yamllint
 https://github.com/ahmetb/kubectl-tree
 https://github.com/ahmetb/kubectx
 https://github.com/airwallex/k8s-pod-restart-info-collector
-https://github.com/containers/buildah
 https://github.com/alcideio/advisor
 https://github.com/alcideio/skan
 https://github.com/alexellis/k3sup
@@ -54,6 +53,7 @@ https://github.com/cloudnativelabs/kube-shell
 https://github.com/coder/coder
 https://github.com/common-fate/iamzero
 https://github.com/containerd/containerd
+https://github.com/containers/buildah
 https://github.com/containers/podman
 https://github.com/containers/podman-compose
 https://github.com/containers/skopeo

@@ -40,7 +40,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Istio](https://github.com/istio/istio) *Connect, secure, control, and observe services.*
- [⭐️](https://github.com/istio/istio/stargazers) 32.8K [🚀](https://github.com/istio/istio/network/members) 7.0K [💥](https://github.com/istio/istio/issues) 596 🪪  Apache License 2.0
+ [⭐️](https://github.com/istio/istio/stargazers) 32.8K [🚀](https://github.com/istio/istio/network/members) 7.0K [💥](https://github.com/istio/istio/issues) 597 🪪  Apache License 2.0
 
 
 ### [Compose](https://github.com/docker/compose) *Define and run multi-container applications with Docker*
@@ -148,7 +148,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Containerd](https://github.com/containerd/containerd) *An open and reliable container runtime*
- [⭐️](https://github.com/containerd/containerd/stargazers) 13.8K [🚀](https://github.com/containerd/containerd/network/members) 2.8K [💥](https://github.com/containerd/containerd/issues) 560 🪪  Apache License 2.0
+ [⭐️](https://github.com/containerd/containerd/stargazers) 13.8K [🚀](https://github.com/containerd/containerd/network/members) 2.8K [💥](https://github.com/containerd/containerd/issues) 561 🪪  Apache License 2.0
 
 
 ### [Argo-cd](https://github.com/argoproj/argo-cd) *Declarative continuous deployment for Kubernetes.*
@@ -156,7 +156,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Argo-workflows](https://github.com/argoproj/argo-workflows) *Workflow engine for Kubernetes*
- [⭐️](https://github.com/argoproj/argo-workflows/stargazers) 12.8K [🚀](https://github.com/argoproj/argo-workflows/network/members) 2.7K [💥](https://github.com/argoproj/argo-workflows/issues) 816 🪪  Apache License 2.0
+ [⭐️](https://github.com/argoproj/argo-workflows/stargazers) 12.8K [🚀](https://github.com/argoproj/argo-workflows/network/members) 2.7K [💥](https://github.com/argoproj/argo-workflows/issues) 817 🪪  Apache License 2.0
 
 
 ### [Kubesphere](https://github.com/kubesphere/kubesphere) *The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️*
@@ -188,7 +188,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Trufflehog](https://github.com/trufflesecurity/trufflehog) *Find and verify credentials*
- [⭐️](https://github.com/trufflesecurity/trufflehog/stargazers) 10.9K [🚀](https://github.com/trufflesecurity/trufflehog/network/members) 1.3K [💥](https://github.com/trufflesecurity/trufflehog/issues) 126 🪪  GNU Affero General Public License v3.0
+ [⭐️](https://github.com/trufflesecurity/trufflehog/stargazers) 10.9K [🚀](https://github.com/trufflesecurity/trufflehog/network/members) 1.3K [💥](https://github.com/trufflesecurity/trufflehog/issues) 125 🪪  GNU Affero General Public License v3.0
 
 
 ### [Rook](https://github.com/rook/rook) *Storage Orchestration for Kubernetes*
@@ -507,6 +507,10 @@ To add a missing tool repository append it to the [repository index](data/repos)
  [⭐️](https://github.com/kiali/kiali/stargazers) 3.0K [🚀](https://github.com/kiali/kiali/network/members) 444 [💥](https://github.com/kiali/kiali/issues) 130 🪪  Apache License 2.0
 
 
+### [Mimir](https://github.com/grafana/mimir) *Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.*
+ [⭐️](https://github.com/grafana/mimir/stargazers) 3.0K [🚀](https://github.com/grafana/mimir/network/members) 319 [💥](https://github.com/grafana/mimir/issues) 466 🪪  GNU Affero General Public License v3.0
+
+
 ### [Devtron](https://github.com/devtron-labs/devtron) *Tool integration platform for Kubernetes*
  [⭐️](https://github.com/devtron-labs/devtron/stargazers) 3.0K [🚀](https://github.com/devtron-labs/devtron/network/members) 326 [💥](https://github.com/devtron-labs/devtron/issues) 489 🪪  Apache License 2.0
 
@@ -820,7 +824,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Acorn](https://github.com/acorn-io/acorn) *A simple application deployment framework for Kubernetes*
- [⭐️](https://github.com/acorn-io/acorn/stargazers) 983 [🚀](https://github.com/acorn-io/acorn/network/members) 78 [💥](https://github.com/acorn-io/acorn/issues) 224 🪪  Apache License 2.0
+ [⭐️](https://github.com/acorn-io/acorn/stargazers) 983 [🚀](https://github.com/acorn-io/acorn/network/members) 78 [💥](https://github.com/acorn-io/acorn/issues) 225 🪪  Apache License 2.0
 
 
 ### [Porter](https://github.com/getporter/porter) *Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.*
@@ -840,7 +844,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Rke2](https://github.com/rancher/rke2) *null*
- [⭐️](https://github.com/rancher/rke2/stargazers) 945 [🚀](https://github.com/rancher/rke2/network/members) 211 [💥](https://github.com/rancher/rke2/issues) 150 🪪  Apache License 2.0
+ [⭐️](https://github.com/rancher/rke2/stargazers) 945 [🚀](https://github.com/rancher/rke2/network/members) 212 [💥](https://github.com/rancher/rke2/issues) 150 🪪  Apache License 2.0
 
 
 ### [Promxy](https://github.com/jacksontj/promxy) *An aggregating proxy to enable HA prometheus*
@@ -880,7 +884,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Kpack](https://github.com/pivotal/kpack) *Kubernetes Native Container Build Service*
- [⭐️](https://github.com/pivotal/kpack/stargazers) 791 [🚀](https://github.com/pivotal/kpack/network/members) 147 [💥](https://github.com/pivotal/kpack/issues) 104 🪪  Apache License 2.0
+ [⭐️](https://github.com/pivotal/kpack/stargazers) 791 [🚀](https://github.com/pivotal/kpack/network/members) 147 [💥](https://github.com/pivotal/kpack/issues) 97 🪪  Apache License 2.0
 
 
 ### [Gpu-operator](https://github.com/NVIDIA/gpu-operator) *NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes*
@@ -940,7 +944,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Consul-k8s](https://github.com/hashicorp/consul-k8s) *First-class support for Consul Service Mesh on Kubernetes*
- [⭐️](https://github.com/hashicorp/consul-k8s/stargazers) 598 [🚀](https://github.com/hashicorp/consul-k8s/network/members) 273 [💥](https://github.com/hashicorp/consul-k8s/issues) 161 🪪  Mozilla Public License 2.0
+ [⭐️](https://github.com/hashicorp/consul-k8s/stargazers) 598 [🚀](https://github.com/hashicorp/consul-k8s/network/members) 273 [💥](https://github.com/hashicorp/consul-k8s/issues) 160 🪪  Mozilla Public License 2.0
 
 
 ### [Validkube](https://github.com/komodorio/validkube) *ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.*
@@ -1012,7 +1016,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Wireguard-operator](https://github.com/jodevsa/wireguard-operator) *A wireguard operator created to easily provision a VPN in a k8s cluster*
- [⭐️](https://github.com/jodevsa/wireguard-operator/stargazers) 434 [🚀](https://github.com/jodevsa/wireguard-operator/network/members) 19 [💥](https://github.com/jodevsa/wireguard-operator/issues) 3 🪪  MIT License
+ [⭐️](https://github.com/jodevsa/wireguard-operator/stargazers) 434 [🚀](https://github.com/jodevsa/wireguard-operator/network/members) 19 [💥](https://github.com/jodevsa/wireguard-operator/issues) 2 🪪  MIT License
 
 
 ### [Betterscan-ce](https://github.com/marcinguy/betterscan-ce) *Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan Community Edition (CE)*

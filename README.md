@@ -28,7 +28,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Traefik](https://github.com/traefik/traefik) *The Cloud Native Application Proxy*
- [⭐️](https://github.com/traefik/traefik/stargazers) 42.9K [🚀](https://github.com/traefik/traefik/network/members) 4.5K [💥](https://github.com/traefik/traefik/issues) 617 🪪  MIT License
+ [⭐️](https://github.com/traefik/traefik/stargazers) 42.9K [🚀](https://github.com/traefik/traefik/network/members) 4.5K [💥](https://github.com/traefik/traefik/issues) 616 🪪  MIT License
 
 
 ### [Minio](https://github.com/minio/minio) *High Performance Object Storage for AI*
@@ -56,7 +56,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Portainer](https://github.com/portainer/portainer) *Making Docker and Kubernetes management easy.*
- [⭐️](https://github.com/portainer/portainer/stargazers) 25.3K [🚀](https://github.com/portainer/portainer/network/members) 2.1K [💥](https://github.com/portainer/portainer/issues) 1.1K 🪪  zlib License
+ [⭐️](https://github.com/portainer/portainer/stargazers) 25.4K [🚀](https://github.com/portainer/portainer/network/members) 2.1K [💥](https://github.com/portainer/portainer/issues) 1.1K 🪪  zlib License
 
 
 ### [Helm](https://github.com/helm/helm) *The Kubernetes Package Manager*
@@ -108,7 +108,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Slim](https://github.com/slimtoolkit/slim) *Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)*
- [⭐️](https://github.com/slimtoolkit/slim/stargazers) 16.5K [🚀](https://github.com/slimtoolkit/slim/network/members) 624 [💥](https://github.com/slimtoolkit/slim/issues) 150 🪪  Apache License 2.0
+ [⭐️](https://github.com/slimtoolkit/slim/stargazers) 16.5K [🚀](https://github.com/slimtoolkit/slim/network/members) 624 [💥](https://github.com/slimtoolkit/slim/issues) 151 🪪  Apache License 2.0
 
 
 ### [Cilium](https://github.com/cilium/cilium) *eBPF-based Networking, Security, and Observability*
@@ -144,7 +144,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Containerd](https://github.com/containerd/containerd) *An open and reliable container runtime*
- [⭐️](https://github.com/containerd/containerd/stargazers) 13.8K [🚀](https://github.com/containerd/containerd/network/members) 2.8K [💥](https://github.com/containerd/containerd/issues) 568 🪪  Apache License 2.0
+ [⭐️](https://github.com/containerd/containerd/stargazers) 13.8K [🚀](https://github.com/containerd/containerd/network/members) 2.8K [💥](https://github.com/containerd/containerd/issues) 569 🪪  Apache License 2.0
 
 
 ### [Kubespray](https://github.com/kubernetes-sigs/kubespray) *Deploy a Production Ready Kubernetes Cluster*
@@ -228,7 +228,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Kubescape](https://github.com/kubescape/kubescape) *Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.*
- [⭐️](https://github.com/kubescape/kubescape/stargazers) 8.3K [🚀](https://github.com/kubescape/kubescape/network/members) 697 [💥](https://github.com/kubescape/kubescape/issues) 71 🪪  Apache License 2.0
+ [⭐️](https://github.com/kubescape/kubescape/stargazers) 8.3K [🚀](https://github.com/kubescape/kubescape/network/members) 697 [💥](https://github.com/kubescape/kubescape/issues) 72 🪪  Apache License 2.0
 
 
 ### [Openebs](https://github.com/openebs/openebs) *Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.*
@@ -360,7 +360,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Checkov](https://github.com/bridgecrewio/checkov) *Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.*
- [⭐️](https://github.com/bridgecrewio/checkov/stargazers) 5.5K [🚀](https://github.com/bridgecrewio/checkov/network/members) 896 [💥](https://github.com/bridgecrewio/checkov/issues) 181 🪪  Apache License 2.0
+ [⭐️](https://github.com/bridgecrewio/checkov/stargazers) 5.5K [🚀](https://github.com/bridgecrewio/checkov/network/members) 896 [💥](https://github.com/bridgecrewio/checkov/issues) 180 🪪  Apache License 2.0
 
 
 ### [Fn](https://github.com/fnproject/fn) *The container native, cloud agnostic serverless platform.*
@@ -499,6 +499,10 @@ To add a missing tool repository append it to the [repository index](data/repos)
  [⭐️](https://github.com/sigstore/cosign/stargazers) 3.3K [🚀](https://github.com/sigstore/cosign/network/members) 395 [💥](https://github.com/sigstore/cosign/issues) 198 🪪  Apache License 2.0
 
 
+### [Kata-containers](https://github.com/kata-containers/kata-containers) *Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/*
+ [⭐️](https://github.com/kata-containers/kata-containers/stargazers) 3.3K [🚀](https://github.com/kata-containers/kata-containers/network/members) 645 [💥](https://github.com/kata-containers/kata-containers/issues) 1.1K 🪪  Apache License 2.0
+
+
 ### [Functions](https://github.com/iron-io/functions) *IronFunctions - the serverless microservices platform by*
  [⭐️](https://github.com/iron-io/functions/stargazers) 3.1K [🚀](https://github.com/iron-io/functions/network/members) 236 [💥](https://github.com/iron-io/functions/issues) 94 🪪  Apache License 2.0
 
@@ -584,7 +588,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Mirrord](https://github.com/metalbear-co/mirrord) *Connect your local process and your cloud environment, and run local code in cloud conditions.*
- [⭐️](https://github.com/metalbear-co/mirrord/stargazers) 2.4K [🚀](https://github.com/metalbear-co/mirrord/network/members) 75 [💥](https://github.com/metalbear-co/mirrord/issues) 122 🪪  MIT License
+ [⭐️](https://github.com/metalbear-co/mirrord/stargazers) 2.4K [🚀](https://github.com/metalbear-co/mirrord/network/members) 75 [💥](https://github.com/metalbear-co/mirrord/issues) 121 🪪  MIT License
 
 
 ### [Brigade](https://github.com/brigadecore/brigade) *Event-driven scripting for Kubernetes*
@@ -788,7 +792,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Monokle](https://github.com/kubeshop/monokle) *🧐 Monokle lets you create, analyze, and deploy YAML manifests with a visual UI, and provides policy validation and cluster management.*
- [⭐️](https://github.com/kubeshop/monokle/stargazers) 1.1K [🚀](https://github.com/kubeshop/monokle/network/members) 94 [💥](https://github.com/kubeshop/monokle/issues) 344 🪪  MIT License
+ [⭐️](https://github.com/kubeshop/monokle/stargazers) 1.1K [🚀](https://github.com/kubeshop/monokle/network/members) 95 [💥](https://github.com/kubeshop/monokle/issues) 344 🪪  MIT License
 
 
 ### [Permission-manager](https://github.com/sighupio/permission-manager) *Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW*

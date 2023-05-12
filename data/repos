@@ -1,4 +1,3 @@
-https://github.com/awslabs/eks-node-viewer
 https://github.com/99designs/aws-vault
 https://github.com/abahmed/kwatch
 https://github.com/acorn-io/acorn
@@ -28,6 +27,7 @@ https://github.com/aws-quickstart/cdk-eks-blueprints
 https://github.com/aws-samples/aws-cost-explorer-report
 https://github.com/aws-samples/hardeneks
 https://github.com/aws/karpenter
+https://github.com/awslabs/eks-node-viewer
 https://github.com/azure/draft
 https://github.com/benc-uk/kubeview
 https://github.com/bitnami-labs/charts-syncer

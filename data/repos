@@ -1,8 +1,4 @@
 https://github.com/99designs/aws-vault
-https://github.com/helmwave/helmwave
-https://github.com/kubermatic/fubectl
-https://github.com/cilium/hubble
-https://github.com/pixie-io/pixie
 https://github.com/abahmed/kwatch
 https://github.com/abiosoft/colima
 https://github.com/acorn-io/acorn
@@ -52,6 +48,7 @@ https://github.com/chaitin/veinmind-tools
 https://github.com/chaos-mesh/chaos-mesh
 https://github.com/Checkmarx/kics
 https://github.com/cilium/cilium
+https://github.com/cilium/hubble
 https://github.com/Clivern/Peanut
 https://github.com/cloud-ark/kubeplus
 https://github.com/cloudboss/keights
@@ -142,6 +139,7 @@ https://github.com/hashicorp/packer
 https://github.com/haxsaw/hikaru
 https://github.com/headlamp-k8s/headlamp
 https://github.com/helm/helm
+https://github.com/helmwave/helmwave
 https://github.com/hjacobs/kube-web-view
 https://github.com/hyscale/hyscale
 https://github.com/ibm/kone
@@ -206,6 +204,7 @@ https://github.com/kubeflow/kubeflow
 https://github.com/kubenav/kubenav
 https://github.com/kubereboot/kured
 https://github.com/kuberhealthy/kuberhealthy
+https://github.com/kubermatic/fubectl
 https://github.com/kubermatic/kubecarrier
 https://github.com/kubermatic/kubeone
 https://github.com/kubernauts/bonsai
@@ -286,6 +285,7 @@ https://github.com/otterize/intents-operator
 https://github.com/otterize/network-mapper
 https://github.com/patrickdappollonio/kubectl-slice
 https://github.com/pivotal/kpack
+https://github.com/pixie-io/pixie
 https://github.com/polverio/kubelift-cli
 https://github.com/portainer/portainer
 https://github.com/poseidon/typhoon

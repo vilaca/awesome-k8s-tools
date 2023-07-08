@@ -37,6 +37,7 @@ https://github.com/bmuschko/kubectl-swiftnp
 https://github.com/boz/kail
 https://github.com/bridgecrewio/checkov
 https://github.com/brigadecore/brigade
+https://github.com/buildpacks-community/kpack
 https://github.com/buildpacks/pack
 https://github.com/caldito/soup
 https://github.com/canonical/microk8s
@@ -285,7 +286,6 @@ https://github.com/oslabs-beta/Palaemon
 https://github.com/otterize/intents-operator
 https://github.com/otterize/network-mapper
 https://github.com/patrickdappollonio/kubectl-slice
-https://github.com/buildpacks-community/kpack
 https://github.com/pixie-io/pixie
 https://github.com/polverio/kubelift-cli
 https://github.com/portainer/portainer

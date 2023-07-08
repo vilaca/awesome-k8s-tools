@@ -2,7 +2,6 @@ https://github.com/99designs/aws-vault
 https://github.com/abahmed/kwatch
 https://github.com/abiosoft/colima
 https://github.com/acorn-io/runtime
-https://github.com/rajatjindal/kubectl-whoami
 https://github.com/adrienverge/yamllint
 https://github.com/ahmetb/kubectl-tree
 https://github.com/ahmetb/kubectx
@@ -303,6 +302,7 @@ https://github.com/prometheus/prometheus
 https://github.com/pulumi/kubespy
 https://github.com/pulumi/pulumi
 https://github.com/punk-security/secret-magpie-cli
+https://github.com/rajatjindal/kubectl-whoami
 https://github.com/Ramilito/kubesess
 https://github.com/rancher/rancher
 https://github.com/rancher/rke2

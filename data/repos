@@ -95,6 +95,7 @@ https://github.com/duo-labs/parliament
 https://github.com/eclipse/che
 https://github.com/eduardobaitello/kubelogs
 https://github.com/EgeKaanGurkan/k8sc
+https://github.com/eksctl-io/eksctl
 https://github.com/EladLeev/kubeseal-convert
 https://github.com/eldadru/ksniff
 https://github.com/elotl/kip
@@ -166,6 +167,7 @@ https://github.com/jthomperoo/predictive-horizontal-pod-autoscaler
 https://github.com/k0sproject/k0s
 https://github.com/k3d-io/k3d
 https://github.com/k3s-io/k3s
+https://github.com/k3s-io/klipper-lb
 https://github.com/k8spacket/k8spacket
 https://github.com/k8spin/k8spin-operator
 https://github.com/kalmhq/kalm
@@ -369,8 +371,6 @@ https://github.com/vmware/weathervane
 https://github.com/volcano-sh/volcano
 https://github.com/wagoodman/dive
 https://github.com/walmartlabs/kubeman
-https://github.com/eksctl-io/eksctl
-https://github.com/k3s-io/klipper-lb
 https://github.com/weaveworks/kubediff
 https://github.com/werf/werf
 https://github.com/wI2L/kubectl-vpa-recommendation

@@ -408,7 +408,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Pixie](https://github.com/pixie-io/pixie) *Instant Kubernetes-Native Application Observability*
- [⭐️](https://github.com/pixie-io/pixie/stargazers) 4.7K [🚀](https://github.com/pixie-io/pixie/network/members) 363 [💥](https://github.com/pixie-io/pixie/issues) 235 🪪  Apache License 2.0
+ [⭐️](https://github.com/pixie-io/pixie/stargazers) 4.7K [🚀](https://github.com/pixie-io/pixie/network/members) 363 [💥](https://github.com/pixie-io/pixie/issues) 234 🪪  Apache License 2.0
 
 
 ### [Kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) *Add-on agent to generate and expose cluster-level metrics.*
@@ -868,7 +868,7 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 
 ### [Rke2](https://github.com/rancher/rke2) *null*
- [⭐️](https://github.com/rancher/rke2/stargazers) 1.0K [🚀](https://github.com/rancher/rke2/network/members) 235 [💥](https://github.com/rancher/rke2/issues) 148 🪪  Apache License 2.0
+ [⭐️](https://github.com/rancher/rke2/stargazers) 1.0K [🚀](https://github.com/rancher/rke2/network/members) 235 [💥](https://github.com/rancher/rke2/issues) 147 🪪  Apache License 2.0
 
 
 ### [Porter](https://github.com/getporter/porter) *Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.*
@@ -1425,6 +1425,10 @@ To add a missing tool repository append it to the [repository index](data/repos)
 
 ### [Right-size-guide](https://github.com/mhausenblas/right-size-guide) *A CLI tool providing memory & CPU recommendations for containerized apps*
  [⭐️](https://github.com/mhausenblas/right-size-guide/stargazers) 47 [🚀](https://github.com/mhausenblas/right-size-guide/network/members) 6 [💥](https://github.com/mhausenblas/right-size-guide/issues) 1 🪪  Apache License 2.0
+
+
+### [Kubecui](https://github.com/pymag09/kubecui) *null*
+ [⭐️](https://github.com/pymag09/kubecui/stargazers) 45 [🚀](https://github.com/pymag09/kubecui/network/members) 0 [💥](https://github.com/pymag09/kubecui/issues) 0 🪪  MIT License
 
 
 ### [Knative-inspect](https://github.com/nimakaviani/knative-inspect) *A light-weight debugging tool for Knative's system components*

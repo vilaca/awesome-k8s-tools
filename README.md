@@ -1,6 +1,6 @@
 # Awesome List of Open Source K8s and Container Tools
 
-###### *Every evening (at 1h00 GMT) the repositories in the list are scanned and ordered by the number of stars awarded by users. To add a missing tool repository append it to the [repository index](data/repos) and create a pull request.*
+###### *Every night at 1:00 AM GMT, the repositories listed here are scanned and organized based on the number of stars they've received from users. If you notice a tool repository that's not included, you can simply add it to the [repository index](data/repos) and then submit a pull request to contribute.*
 ### [Kubernetes](https://github.com/kubernetes/kubernetes) *Production-Grade Container Scheduling and Management*
  [⭐️](https://github.com/kubernetes/kubernetes/stargazers) 100.8K [🚀](https://github.com/kubernetes/kubernetes/network/members) 38.5K [💥](https://github.com/kubernetes/kubernetes/issues) 2.7K 🪪  Apache License 2.0
 

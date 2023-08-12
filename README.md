@@ -1,6 +1,6 @@
 # Awesome List of Open Source K8s and Container Tools
 
-*Every evening (at 1h00 GMT) the repositories in the list are scanned and ordered by the number of stars awarded by users. To add a missing tool repository append it to the [repository index](data/repos) and create a pull request.*
+###### *Every evening (at 1h00 GMT) the repositories in the list are scanned and ordered by the number of stars awarded by users. To add a missing tool repository append it to the [repository index](data/repos) and create a pull request.*
 ### [Kubernetes](https://github.com/kubernetes/kubernetes) *Production-Grade Container Scheduling and Management*
  [⭐️](https://github.com/kubernetes/kubernetes/stargazers) 100.8K [🚀](https://github.com/kubernetes/kubernetes/network/members) 38.5K [💥](https://github.com/kubernetes/kubernetes/issues) 2.7K 🪪  Apache License 2.0
 
@@ -98,7 +98,7 @@
 
 
 ### [Jaeger](https://github.com/jaegertracing/jaeger) *CNCF Jaeger, a Distributed Tracing Platform*
- [⭐️](https://github.com/jaegertracing/jaeger/stargazers) 18.0K [🚀](https://github.com/jaegertracing/jaeger/network/members) 2.1K [💥](https://github.com/jaegertracing/jaeger/issues) 356 🪪  Apache License 2.0
+ [⭐️](https://github.com/jaegertracing/jaeger/stargazers) 18.0K [🚀](https://github.com/jaegertracing/jaeger/network/members) 2.1K [💥](https://github.com/jaegertracing/jaeger/issues) 357 🪪  Apache License 2.0
 
 
 ### [Slim](https://github.com/slimtoolkit/slim) *Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)*

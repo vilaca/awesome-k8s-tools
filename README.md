@@ -1,6 +1,6 @@
 # Awesome index of Open Source K8s and container tools
 
-###### *Every night at 1:00 AM GMT, the repositories listed here are scanned and organized based on the number of stars they've received from users. If you notice a tool repository that's not included, please add it to the [repository index](data/repos) and then submit a pull request to contribute.*
+###### *Every night at 1:00 AM GMT, the repositories in the index are scanned and organized based on the number of stars they've received from users. If you know a repository that should be included, please add it to the [repository index](data/repos) and then submit a pull request to contribute.*
 ### [Kubernetes](https://github.com/kubernetes/kubernetes) *Production-Grade Container Scheduling and Management*
  [⭐️](https://github.com/kubernetes/kubernetes/stargazers) 100.8K [🚀](https://github.com/kubernetes/kubernetes/network/members) 38.5K [💥](https://github.com/kubernetes/kubernetes/issues) 2.7K 🪪  Apache License 2.0
 
@@ -450,7 +450,7 @@
 
 
 ### [Talos](https://github.com/siderolabs/talos) *Talos Linux is a modern Linux distribution built for Kubernetes.*
- [⭐️](https://github.com/siderolabs/talos/stargazers) 4.1K [🚀](https://github.com/siderolabs/talos/network/members) 343 [💥](https://github.com/siderolabs/talos/issues) 405 🪪  Mozilla Public License 2.0
+ [⭐️](https://github.com/siderolabs/talos/stargazers) 4.1K [🚀](https://github.com/siderolabs/talos/network/members) 343 [💥](https://github.com/siderolabs/talos/issues) 406 🪪  Mozilla Public License 2.0
 
 
 ### [Tflint](https://github.com/terraform-linters/tflint) *A Pluggable Terraform Linter*
@@ -1081,12 +1081,12 @@
  [⭐️](https://github.com/hyscale/hyscale/stargazers) 440 [🚀](https://github.com/hyscale/hyscale/network/members) 43 [💥](https://github.com/hyscale/hyscale/issues) 15 🪪  Apache License 2.0
 
 
-### [Network-mapper](https://github.com/otterize/network-mapper) *Map Kubernetes in-cluster traffic and export as text, intents, or an image*
- [⭐️](https://github.com/otterize/network-mapper/stargazers) 439 [🚀](https://github.com/otterize/network-mapper/network/members) 15 [💥](https://github.com/otterize/network-mapper/issues) 2 🪪  Apache License 2.0
-
-
 ### [K8s-mediaserver-operator](https://github.com/kubealex/k8s-mediaserver-operator) *Repository for k8s Mediaserver Operator project*
  [⭐️](https://github.com/kubealex/k8s-mediaserver-operator/stargazers) 439 [🚀](https://github.com/kubealex/k8s-mediaserver-operator/network/members) 54 [💥](https://github.com/kubealex/k8s-mediaserver-operator/issues) 13 🪪  MIT License
+
+
+### [Network-mapper](https://github.com/otterize/network-mapper) *Map Kubernetes in-cluster traffic and export as text, intents, or an image*
+ [⭐️](https://github.com/otterize/network-mapper/stargazers) 438 [🚀](https://github.com/otterize/network-mapper/network/members) 15 [💥](https://github.com/otterize/network-mapper/issues) 2 🪪  Apache License 2.0
 
 
 ### [Kalm](https://github.com/kalmhq/kalm) *Kalm | Kubernetes AppLication Manager*

@@ -294,7 +294,7 @@
 
 
 ### [Che](https://github.com/eclipse/che) *The Kubernetes-Native IDE for Developer Teams*
- [⭐️](https://github.com/eclipse/che/stargazers) 6.8K [🚀](https://github.com/eclipse/che/network/members) 1.2K [💥](https://github.com/eclipse/che/issues) 409 🪪  Eclipse Public License 2.0
+ [⭐️](https://github.com/eclipse/che/stargazers) 6.8K [🚀](https://github.com/eclipse/che/network/members) 1.2K [💥](https://github.com/eclipse/che/issues) 408 🪪  Eclipse Public License 2.0
 
 
 ### [Tilt](https://github.com/tilt-dev/tilt) *Define your dev environment as code. For microservice apps on Kubernetes.*
@@ -478,11 +478,11 @@
 
 
 ### [Devspace](https://github.com/devspace-sh/devspace) *DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.*
- [⭐️](https://github.com/devspace-sh/devspace/stargazers) 3.7K [🚀](https://github.com/devspace-sh/devspace/network/members) 321 [💥](https://github.com/devspace-sh/devspace/issues) 186 🪪  Apache License 2.0
+ [⭐️](https://github.com/devspace-sh/devspace/stargazers) 3.7K [🚀](https://github.com/devspace-sh/devspace/network/members) 321 [💥](https://github.com/devspace-sh/devspace/issues) 187 🪪  Apache License 2.0
 
 
 ### [Test-infra](https://github.com/kubernetes/test-infra) *Test infrastructure for the Kubernetes project.*
- [⭐️](https://github.com/kubernetes/test-infra/stargazers) 3.6K [🚀](https://github.com/kubernetes/test-infra/network/members) 2.5K [💥](https://github.com/kubernetes/test-infra/issues) 234 🪪  Apache License 2.0
+ [⭐️](https://github.com/kubernetes/test-infra/stargazers) 3.6K [🚀](https://github.com/kubernetes/test-infra/network/members) 2.5K [💥](https://github.com/kubernetes/test-infra/issues) 233 🪪  Apache License 2.0
 
 
 ### [Kata-containers](https://github.com/kata-containers/kata-containers) *Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/*
@@ -869,6 +869,10 @@
  [⭐️](https://github.com/rancher/rke2/stargazers) 1.0K [🚀](https://github.com/rancher/rke2/network/members) 234 [💥](https://github.com/rancher/rke2/issues) 155 🪪  Apache License 2.0
 
 
+### [Shifu](https://github.com/Edgenesis/shifu) *Kubernetes-native Industrial Edge*
+ [⭐️](https://github.com/Edgenesis/shifu/stargazers) 1.0K [🚀](https://github.com/Edgenesis/shifu/network/members) 85 [💥](https://github.com/Edgenesis/shifu/issues) 19 🪪  Apache License 2.0
+
+
 ### [Porter](https://github.com/getporter/porter) *Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.*
  [⭐️](https://github.com/getporter/porter/stargazers) 1.0K [🚀](https://github.com/getporter/porter/network/members) 177 [💥](https://github.com/getporter/porter/issues) 255 🪪  Apache License 2.0
 
@@ -946,7 +950,7 @@
 
 
 ### [Helmify](https://github.com/arttor/helmify) *Creates Helm chart from Kubernetes yaml*
- [⭐️](https://github.com/arttor/helmify/stargazers) 797 [🚀](https://github.com/arttor/helmify/network/members) 87 [💥](https://github.com/arttor/helmify/issues) 20 🪪  MIT License
+ [⭐️](https://github.com/arttor/helmify/stargazers) 797 [🚀](https://github.com/arttor/helmify/network/members) 87 [💥](https://github.com/arttor/helmify/issues) 21 🪪  MIT License
 
 
 ### [Kwatch](https://github.com/abahmed/kwatch) *:eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly*

@@ -124,7 +124,6 @@ https://github.com/goharbor/harbor
 https://github.com/google/cadvisor
 https://github.com/google/gke-policy-automation
 https://github.com/GoogleContainerTools/kaniko
-https://github.com/kptdev/kpt
 https://github.com/GoogleContainerTools/skaffold
 https://github.com/govirtuo/kube-ns-suspender
 https://github.com/grafana/grafana
@@ -194,6 +193,7 @@ https://github.com/ko-build/ko
 https://github.com/komodorio/helm-dashboard
 https://github.com/komodorio/validkube
 https://github.com/koolwithk/kubernetes-kn-kx-bash
+https://github.com/kptdev/kpt
 https://github.com/krisnova/kaar
 https://github.com/krustlet/krustlet
 https://github.com/kube-aws/kube-aws

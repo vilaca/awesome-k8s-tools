@@ -200,6 +200,7 @@ https://github.com/kube-aws/kube-aws
 https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner
 https://github.com/kube-vip/kube-vip
 https://github.com/kubealex/k8s-mediaserver-operator
+https://github.com/kubearmor/KubeArmor
 https://github.com/kubebn/talos-proxmox-kaas
 https://github.com/kubecd/kubecd
 https://github.com/kubecost/cluster-turndown
@@ -389,4 +390,3 @@ https://github.com/yannh/kubeconform
 https://github.com/yashbhutwala/kubectl-df-pv
 https://github.com/yuyicai/kubei
 https://github.com/zegl/kube-score
-https://github.com/kubearmor/KubeArmor

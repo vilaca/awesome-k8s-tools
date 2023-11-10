@@ -656,7 +656,7 @@
 *Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration.*
 
 ### [Rke2](https://github.com/rancher/rke2) [⭐️](https://github.com/rancher/rke2/stargazers) 1.1K [🚀](https://github.com/rancher/rke2/network/members) 240 [💥](https://github.com/rancher/rke2/issues) 118 🪪  Apache License 2.0
-*null*
+**
 
 ### [Kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) [⭐️](https://github.com/kvaps/kubectl-node-shell/stargazers) 1.1K [🚀](https://github.com/kvaps/kubectl-node-shell/network/members) 161 [💥](https://github.com/kvaps/kubectl-node-shell/issues) 20 🪪  Apache License 2.0
 *Exec into node via kubectl*
@@ -1043,7 +1043,7 @@
 *Open Source, Cross platform, Native Kubernetes IDE*
 
 ### [Talos-proxmox-kaas](https://github.com/kubebn/talos-proxmox-kaas) [⭐️](https://github.com/kubebn/talos-proxmox-kaas/stargazers) 91 [🚀](https://github.com/kubebn/talos-proxmox-kaas/network/members) 9 [💥](https://github.com/kubebn/talos-proxmox-kaas/issues) 3 🪪  n.a.
-*null*
+**
 
 ### [Kfilt](https://github.com/ryane/kfilt) [⭐️](https://github.com/ryane/kfilt/stargazers) 91 [🚀](https://github.com/ryane/kfilt/network/members) 8 [💥](https://github.com/ryane/kfilt/issues) 3 🪪  Apache License 2.0
 *kfilt can filter Kubernetes resources.*
@@ -1070,7 +1070,7 @@
 *Operator to deploy confidential containers runtime*
 
 ### [Rosa](https://github.com/openshift/rosa) [⭐️](https://github.com/openshift/rosa/stargazers) 71 [🚀](https://github.com/openshift/rosa/network/members) 162 [💥](https://github.com/openshift/rosa/issues) 23 🪪  Apache License 2.0
-*null*
+**
 
 ### [Bonsai](https://github.com/kubernauts/bonsai) [⭐️](https://github.com/kubernauts/bonsai/stargazers) 70 [🚀](https://github.com/kubernauts/bonsai/network/members) 26 [💥](https://github.com/kubernauts/bonsai/issues) 0 🪪  Apache License 2.0
 *Rancher k3s and Rancher Server on Multipass VMs on your local machine and RKE cluster deployment through Rancher server running on k3s*
@@ -1088,7 +1088,7 @@
 *A CLI tool providing memory & CPU recommendations for containerized apps*
 
 ### [Kubecui](https://github.com/pymag09/kubecui) [⭐️](https://github.com/pymag09/kubecui/stargazers) 46 [🚀](https://github.com/pymag09/kubecui/network/members) 0 [💥](https://github.com/pymag09/kubecui/issues) 0 🪪  MIT License
-*null*
+**
 
 ### [Knative-inspect](https://github.com/nimakaviani/knative-inspect) [⭐️](https://github.com/nimakaviani/knative-inspect/stargazers) 43 [🚀](https://github.com/nimakaviani/knative-inspect/network/members) 4 [💥](https://github.com/nimakaviani/knative-inspect/issues) 3 🪪  n.a.
 *A light-weight debugging tool for Knative's system components*

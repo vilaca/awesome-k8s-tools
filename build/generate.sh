@@ -24,5 +24,9 @@ do
   then
     LICENSE="n.a."
   fi
+  if [ "${DESCRIPTION}" = "null" ]
+  then
+    DESCRIPTION=""
+  fi
   ./build/card.sh "$LINK" "$DESCRIPTION" "$FULL_NAME" "$STARS" "$FORKS" "$ISSUES" "$LICENSE" >> TOP.md
 done < sorted

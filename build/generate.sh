@@ -22,11 +22,11 @@ do
   fi
   if [ "${LICENSE}" = "null" ]
   then
-    LICENSE="n.a."
+    LICENSE="N.A."
   fi
   if [ "${DESCRIPTION}" = "null" ]
   then
-    DESCRIPTION=""
+    DESCRIPTION="No description in repo."
   fi
   ./build/card.sh "$LINK" "$DESCRIPTION" "$FULL_NAME" "$STARS" "$FORKS" "$ISSUES" "$LICENSE" >> TOP.md
 done < sorted

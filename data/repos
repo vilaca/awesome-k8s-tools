@@ -125,7 +125,6 @@ https://github.com/google/cadvisor
 https://github.com/google/gke-policy-automation
 https://github.com/GoogleContainerTools/kaniko
 https://github.com/GoogleContainerTools/skaffold
-https://github.com/kube-ns-suspender/kube-ns-suspender
 https://github.com/grafana/grafana
 https://github.com/grafana/k6
 https://github.com/grafana/loki
@@ -199,6 +198,7 @@ https://github.com/krisnova/kaar
 https://github.com/krustlet/krustlet
 https://github.com/kube-aws/kube-aws
 https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner
+https://github.com/kube-ns-suspender/kube-ns-suspender
 https://github.com/kube-vip/kube-vip
 https://github.com/kubealex/k8s-mediaserver-operator
 https://github.com/kubearmor/KubeArmor

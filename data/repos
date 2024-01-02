@@ -1,4 +1,3 @@
-https://github.com/prometheus/blackbox_exporter
 https://github.com/99designs/aws-vault
 https://github.com/abahmed/kwatch
 https://github.com/abiosoft/colima
@@ -311,6 +310,7 @@ https://github.com/projectcalico/calico
 https://github.com/projectcontour/contour
 https://github.com/prometheus-operator/prometheus-operator
 https://github.com/prometheus/alertmanager
+https://github.com/prometheus/blackbox_exporter
 https://github.com/prometheus/node_exporter
 https://github.com/prometheus/prometheus
 https://github.com/prymitive/karma

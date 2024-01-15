@@ -3,6 +3,7 @@ https://github.com/abahmed/kwatch
 https://github.com/abiosoft/colima
 https://github.com/acorn-io/runtime
 https://github.com/adrienverge/yamllint
+https://github.com/aenix-io/kubefarm
 https://github.com/ahmetb/kubectl-tree
 https://github.com/ahmetb/kubectx
 https://github.com/airwallex/k8s-pod-restart-info-collector
@@ -209,7 +210,6 @@ https://github.com/kubecost/cluster-turndown
 https://github.com/kubecost/cost-analyzer-helm-chart
 https://github.com/kubecost/kubectl-cost
 https://github.com/kubeedge/kubeedge
-https://github.com/aenix-io/kubefarm
 https://github.com/kubefirst/kubefirst
 https://github.com/kubeflow/kubeflow
 https://github.com/kubenav/kubenav

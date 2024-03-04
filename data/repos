@@ -53,6 +53,7 @@ https://github.com/chaos-mesh/chaos-mesh
 https://github.com/Checkmarx/kics
 https://github.com/cilium/cilium
 https://github.com/cilium/hubble
+https://github.com/clastix/kamaji
 https://github.com/Clivern/Peanut
 https://github.com/cloud-ark/kubeplus
 https://github.com/cloudboss/keights
@@ -175,6 +176,7 @@ https://github.com/JovianX/helm-release-plugin
 https://github.com/jtblin/kube2iam
 https://github.com/jthomperoo/predictive-horizontal-pod-autoscaler
 https://github.com/k0sproject/k0s
+https://github.com/k0sproject/k0smotron
 https://github.com/k3d-io/k3d
 https://github.com/k3s-io/k3s
 https://github.com/k3s-io/kine
@@ -297,6 +299,7 @@ https://github.com/openebs/lvm-localpv
 https://github.com/openebs/openebs
 https://github.com/openfaas/faas
 https://github.com/openfaas/faas-netes
+https://github.com/openshift/hypershift
 https://github.com/openshift/rosa
 https://github.com/openyurtio/openyurt
 https://github.com/oslabs-beta/kr8s
@@ -405,6 +408,3 @@ https://github.com/yannh/kubeconform
 https://github.com/yashbhutwala/kubectl-df-pv
 https://github.com/yuyicai/kubei
 https://github.com/zegl/kube-score
-https://github.com/openshift/hypershift
-https://github.com/k0sproject/k0smotron
-https://github.com/clastix/kamaji

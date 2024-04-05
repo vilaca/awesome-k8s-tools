@@ -37,6 +37,7 @@ https://github.com/benc-uk/kubeview
 https://github.com/bitnami/charts-syncer
 https://github.com/blendle/kns
 https://github.com/bmuschko/kubectl-swiftnp
+https://github.com/boltops-tools/kubes
 https://github.com/boz/kail
 https://github.com/bridgecrewio/checkov
 https://github.com/brigadecore/brigade
@@ -155,6 +156,7 @@ https://github.com/hcavarsan/kftray
 https://github.com/headlamp-k8s/headlamp
 https://github.com/helm-unittest/helm-unittest
 https://github.com/helm/helm
+https://github.com/helmfile/helmfile
 https://github.com/helmwave/helmwave
 https://github.com/hjacobs/kube-web-view
 https://github.com/hyscale/hyscale
@@ -258,6 +260,7 @@ https://github.com/kubetail-org/kubetail
 https://github.com/kubevious/kubevious
 https://github.com/kubevirt/kubevirt
 https://github.com/kubewharf/kubegateway
+https://github.com/KusionStack/kusion
 https://github.com/kvaps/kubectl-node-shell
 https://github.com/kyma-project/kyma
 https://github.com/kyverno/kyverno

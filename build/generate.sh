@@ -3,6 +3,8 @@ set -eou pipefail
 
 sort -nr index | cut -d' ' -f2- > sorted
 
+COUNTER=0
+
 while IFS="" read -r JSON || [ -n "$JSON" ]
 do
   NAME="$(echo "$JSON" | jq -r .name)"
@@ -28,5 +30,6 @@ do
   then
     DESCRIPTION="No description in repo."
   fi
-  ./build/card.sh "$LINK" "$DESCRIPTION" "$FULL_NAME" "$STARS" "$FORKS" "$ISSUES" "$LICENSE" >> TOP.md
+  ./build/card.sh "$COUNTER" "$LINK" "$DESCRIPTION" "$FULL_NAME" "$STARS" "$FORKS" "$ISSUES" "$LICENSE" >> TOP.md
+  ((COUNTER++))
 done < sorted

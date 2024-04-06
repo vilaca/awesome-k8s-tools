@@ -3,7 +3,7 @@ set -eou pipefail
 
 sort -nr index | cut -d' ' -f2- > sorted
 
-COUNTER=1
+COUNTER=0
 
 while IFS="" read -r JSON || [ -n "$JSON" ]
 do

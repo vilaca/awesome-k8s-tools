@@ -30,6 +30,5 @@ do
   then
     DESCRIPTION="No description in repo."
   fi
-  ./build/card.sh "$LINK" "$DESCRIPTION" "$FULL_NAME" "$STARS" "$FORKS" "$ISSUES" "$LICENSE" >> TOP.md
-  ((COUNTER++))
+  ./build/card.sh "$LINK" "$DESCRIPTION" "$FULL_NAME" "$STARS" "$FORKS" "$ISSUES" "$LICENSE" "$((++COUNTER))" >> TOP.md
 done < sorted

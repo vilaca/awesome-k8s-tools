@@ -271,7 +271,7 @@
 ### [Falco](https://github.com/falcosecurity/falco) [⭐️](https://github.com/falcosecurity/falco/stargazers) 6.8K [🚀](https://github.com/falcosecurity/falco/network/members) 858 [💥](https://github.com/falcosecurity/falco/issues) 105 🪪  Apache License 2.0
 *Cloud Native Runtime Security*
 
-### [Coder](https://github.com/coder/coder) [⭐️](https://github.com/coder/coder/stargazers) 6.7K [🚀](https://github.com/coder/coder/network/members) 545 [💥](https://github.com/coder/coder/issues) 481 🪪  GNU Affero General Public License v3.0
+### [Coder](https://github.com/coder/coder) [⭐️](https://github.com/coder/coder/stargazers) 6.7K [🚀](https://github.com/coder/coder/network/members) 545 [💥](https://github.com/coder/coder/issues) 480 🪪  GNU Affero General Public License v3.0
 *Provision remote development environments via Terraform*
 
 ### [Reloader](https://github.com/stakater/Reloader) [⭐️](https://github.com/stakater/Reloader/stargazers) 6.6K [🚀](https://github.com/stakater/Reloader/network/members) 449 [💥](https://github.com/stakater/Reloader/issues) 86 🪪  Apache License 2.0
@@ -313,7 +313,7 @@
 ### [K3sup](https://github.com/alexellis/k3sup) [⭐️](https://github.com/alexellis/k3sup/stargazers) 5.8K [🚀](https://github.com/alexellis/k3sup/network/members) 364 [💥](https://github.com/alexellis/k3sup/issues) 18 🪪  Other
 *bootstrap K3s over SSH in < 60s 🚀*
 
-### [Karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) [⭐️](https://github.com/aws/karpenter-provider-aws/stargazers) 5.8K [🚀](https://github.com/aws/karpenter-provider-aws/network/members) 781 [💥](https://github.com/aws/karpenter-provider-aws/issues) 269 🪪  Apache License 2.0
+### [Karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) [⭐️](https://github.com/aws/karpenter-provider-aws/stargazers) 5.8K [🚀](https://github.com/aws/karpenter-provider-aws/network/members) 781 [💥](https://github.com/aws/karpenter-provider-aws/issues) 268 🪪  Apache License 2.0
 *Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.*
 
 ### [Fn](https://github.com/fnproject/fn) [⭐️](https://github.com/fnproject/fn/stargazers) 5.6K [🚀](https://github.com/fnproject/fn/network/members) 401 [💥](https://github.com/fnproject/fn/issues) 157 🪪  Apache License 2.0
@@ -448,7 +448,7 @@
 ### [Kiali](https://github.com/kiali/kiali) [⭐️](https://github.com/kiali/kiali/stargazers) 3.3K [🚀](https://github.com/kiali/kiali/network/members) 472 [💥](https://github.com/kiali/kiali/issues) 136 🪪  Apache License 2.0
 *Kiali project, observability for the Istio service mesh*
 
-### [Hubble](https://github.com/cilium/hubble) [⭐️](https://github.com/cilium/hubble/stargazers) 3.2K [🚀](https://github.com/cilium/hubble/network/members) 235 [💥](https://github.com/cilium/hubble/issues) 35 🪪  Apache License 2.0
+### [Hubble](https://github.com/cilium/hubble) [⭐️](https://github.com/cilium/hubble/stargazers) 3.2K [🚀](https://github.com/cilium/hubble/network/members) 235 [💥](https://github.com/cilium/hubble/issues) 36 🪪  Apache License 2.0
 *Hubble - Network, Service & Security Observability for Kubernetes using eBPF*
 
 ### [Kubetail](https://github.com/johanhaleby/kubetail) [⭐️](https://github.com/johanhaleby/kubetail/stargazers) 3.2K [🚀](https://github.com/johanhaleby/kubetail/network/members) 291 [💥](https://github.com/johanhaleby/kubetail/issues) 35 🪪  Apache License 2.0
@@ -1260,6 +1260,9 @@
 
 ### [Kubernetes-sec-alert](https://github.com/mostafahussein/kubernetes-sec-alert) [⭐️](https://github.com/mostafahussein/kubernetes-sec-alert/stargazers) 8 [🚀](https://github.com/mostafahussein/kubernetes-sec-alert/network/members) 0 [💥](https://github.com/mostafahussein/kubernetes-sec-alert/issues) 47 🪪  N.A.
 *Track Kubernetes CVEs by native GitHub notifications!*
+
+### [Kubectl](https://github.com/clastix/kubectl) [⭐️](https://github.com/clastix/kubectl/stargazers) 7 [🚀](https://github.com/clastix/kubectl/network/members) 2 [💥](https://github.com/clastix/kubectl/issues) 2 🪪  Apache License 2.0
+*Kubernetes CLI running in a container. ARM supported.*
 
 ### [Kubectl-plugin-pvc](https://github.com/fabiand/kubectl-plugin-pvc) [⭐️](https://github.com/fabiand/kubectl-plugin-pvc/stargazers) 6 [🚀](https://github.com/fabiand/kubectl-plugin-pvc/network/members) 1 [💥](https://github.com/fabiand/kubectl-plugin-pvc/issues) 3 🪪  Apache License 2.0
 *A simple kubectl binary plugin for PVC operations*

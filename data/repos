@@ -3,6 +3,7 @@ https://github.com/abahmed/kwatch
 https://github.com/abiosoft/colima
 https://github.com/acorn-io/runtime
 https://github.com/adrienverge/yamllint
+https://github.com/aenix-io/cozystack
 https://github.com/aenix-io/kubefarm
 https://github.com/ahmetb/kubectl-tree
 https://github.com/ahmetb/kubectx
@@ -179,6 +180,7 @@ https://github.com/itaysk/kubectl-neat
 https://github.com/jacksontj/promxy
 https://github.com/jaegertracing/jaeger
 https://github.com/JamesTGrant/kubectl-debug
+https://github.com/jangraefen/hcloud-pricing-exporter
 https://github.com/jimmidyson/configmap-reload
 https://github.com/jodevsa/wireguard-operator
 https://github.com/johanhaleby/kubetail
@@ -297,6 +299,7 @@ https://github.com/mrahbar/k8s-testsuite
 https://github.com/MuhammedKalkan/OpenLens
 https://github.com/netdata/netdata
 https://github.com/NexClipper/NexClipper
+https://github.com/ngine-io/chaotic
 https://github.com/nicolaka/netshoot
 https://github.com/nikolaydubina/jsonl-graph
 https://github.com/nimakaviani/knative-inspect
@@ -421,6 +424,7 @@ https://github.com/weaveworks/weave-gitops-enterprise
 https://github.com/werf/werf
 https://github.com/wI2L/kubectl-vpa-recommendation
 https://github.com/winglang/wing
+https://github.com/xetys/hetzner-kube
 https://github.com/yannh/kubeconform
 https://github.com/yashbhutwala/kubectl-df-pv
 https://github.com/yuyicai/kubei

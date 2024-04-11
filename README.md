@@ -280,7 +280,7 @@
 ### [Kube-bench](https://github.com/aquasecurity/kube-bench) [⭐️](https://github.com/aquasecurity/kube-bench/stargazers) 6.6K [🚀](https://github.com/aquasecurity/kube-bench/network/members) 1.1K [💥](https://github.com/aquasecurity/kube-bench/issues) 58 🪪  Apache License 2.0
 *Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark*
 
-### [Metallb](https://github.com/metallb/metallb) [⭐️](https://github.com/metallb/metallb/stargazers) 6.5K [🚀](https://github.com/metallb/metallb/network/members) 868 [💥](https://github.com/metallb/metallb/issues) 96 🪪  Apache License 2.0
+### [Metallb](https://github.com/metallb/metallb) [⭐️](https://github.com/metallb/metallb/stargazers) 6.5K [🚀](https://github.com/metallb/metallb/network/members) 868 [💥](https://github.com/metallb/metallb/issues) 97 🪪  Apache License 2.0
 *A network load-balancer implementation for Kubernetes using standard routing protocols*
 
 ### [Checkov](https://github.com/bridgecrewio/checkov) [⭐️](https://github.com/bridgecrewio/checkov/stargazers) 6.4K [🚀](https://github.com/bridgecrewio/checkov/network/members) 1.0K [💥](https://github.com/bridgecrewio/checkov/issues) 186 🪪  Apache License 2.0
@@ -349,7 +349,7 @@
 ### [K3d](https://github.com/k3d-io/k3d) [⭐️](https://github.com/k3d-io/k3d/stargazers) 5.0K [🚀](https://github.com/k3d-io/k3d/network/members) 445 [💥](https://github.com/k3d-io/k3d/issues) 198 🪪  MIT License
 *Little helper to run CNCF's k3s in Docker*
 
-### [Kubevirt](https://github.com/kubevirt/kubevirt) [⭐️](https://github.com/kubevirt/kubevirt/stargazers) 5.0K [🚀](https://github.com/kubevirt/kubevirt/network/members) 1.2K [💥](https://github.com/kubevirt/kubevirt/issues) 392 🪪  Apache License 2.0
+### [Kubevirt](https://github.com/kubevirt/kubevirt) [⭐️](https://github.com/kubevirt/kubevirt/stargazers) 5.0K [🚀](https://github.com/kubevirt/kubevirt/network/members) 1.2K [💥](https://github.com/kubevirt/kubevirt/issues) 393 🪪  Apache License 2.0
 *Kubernetes Virtualization API and runtime in order to define and manage virtual machines.*
 
 ### [Cri-o](https://github.com/cri-o/cri-o) [⭐️](https://github.com/cri-o/cri-o/stargazers) 5.0K [🚀](https://github.com/cri-o/cri-o/network/members) 1.0K [💥](https://github.com/cri-o/cri-o/issues) 139 🪪  Apache License 2.0
@@ -652,7 +652,7 @@
 ### [Kubevious](https://github.com/kubevious/kubevious) [⭐️](https://github.com/kubevious/kubevious/stargazers) 1.5K [🚀](https://github.com/kubevious/kubevious/network/members) 89 [💥](https://github.com/kubevious/kubevious/issues) 11 🪪  Apache License 2.0
 *Kubevious - Kubernetes without disasters*
 
-### [Cluster-template](https://github.com/onedr0p/cluster-template) [⭐️](https://github.com/onedr0p/cluster-template/stargazers) 1.5K [🚀](https://github.com/onedr0p/cluster-template/network/members) 234 [💥](https://github.com/onedr0p/cluster-template/issues) 4 🪪  MIT License
+### [Cluster-template](https://github.com/onedr0p/cluster-template) [⭐️](https://github.com/onedr0p/cluster-template/stargazers) 1.5K [🚀](https://github.com/onedr0p/cluster-template/network/members) 234 [💥](https://github.com/onedr0p/cluster-template/issues) 3 🪪  MIT License
 *A template for deploying a Kubernetes cluster with k3s or Talos*
 
 ### [Kubelogin](https://github.com/int128/kubelogin) [⭐️](https://github.com/int128/kubelogin/stargazers) 1.5K [🚀](https://github.com/int128/kubelogin/network/members) 183 [💥](https://github.com/int128/kubelogin/issues) 88 🪪  Apache License 2.0
@@ -910,7 +910,7 @@
 ### [Kluctl](https://github.com/kluctl/kluctl) [⭐️](https://github.com/kluctl/kluctl/stargazers) 441 [🚀](https://github.com/kluctl/kluctl/network/members) 32 [💥](https://github.com/kluctl/kluctl/issues) 56 🪪  Apache License 2.0
 *The missing glue to put together large Kubernetes deployments, composed of multiple smaller parts (Helm/Kustomize/...) in a manageable and unified way.*
 
-### [Cost-analyzer-helm-chart](https://github.com/kubecost/cost-analyzer-helm-chart) [⭐️](https://github.com/kubecost/cost-analyzer-helm-chart/stargazers) 437 [🚀](https://github.com/kubecost/cost-analyzer-helm-chart/network/members) 402 [💥](https://github.com/kubecost/cost-analyzer-helm-chart/issues) 153 🪪  Apache License 2.0
+### [Cost-analyzer-helm-chart](https://github.com/kubecost/cost-analyzer-helm-chart) [⭐️](https://github.com/kubecost/cost-analyzer-helm-chart/stargazers) 437 [🚀](https://github.com/kubecost/cost-analyzer-helm-chart/network/members) 402 [💥](https://github.com/kubecost/cost-analyzer-helm-chart/issues) 152 🪪  Apache License 2.0
 *Kubecost helm chart*
 
 ### [Kalm](https://github.com/kalmhq/kalm) [⭐️](https://github.com/kalmhq/kalm/stargazers) 430 [🚀](https://github.com/kalmhq/kalm/network/members) 27 [💥](https://github.com/kalmhq/kalm/issues) 14 🪪  Apache License 2.0
@@ -957,6 +957,9 @@
 
 ### [K0smotron](https://github.com/k0sproject/k0smotron) [⭐️](https://github.com/k0sproject/k0smotron/stargazers) 357 [🚀](https://github.com/k0sproject/k0smotron/network/members) 31 [💥](https://github.com/k0sproject/k0smotron/issues) 28 🪪  Other
 *k0smotron*
+
+### [Helm-controller](https://github.com/k3s-io/helm-controller) [⭐️](https://github.com/k3s-io/helm-controller/stargazers) 348 [🚀](https://github.com/k3s-io/helm-controller/network/members) 78 [💥](https://github.com/k3s-io/helm-controller/issues) 45 🪪  Apache License 2.0
+*No description in repo.*
 
 ### [Predictive-horizontal-pod-autoscaler](https://github.com/jthomperoo/predictive-horizontal-pod-autoscaler) [⭐️](https://github.com/jthomperoo/predictive-horizontal-pod-autoscaler/stargazers) 326 [🚀](https://github.com/jthomperoo/predictive-horizontal-pod-autoscaler/network/members) 29 [💥](https://github.com/jthomperoo/predictive-horizontal-pod-autoscaler/issues) 4 🪪  Apache License 2.0
 *Horizontal Pod Autoscaler built with predictive abilities using statistical models*

@@ -183,6 +183,7 @@ https://github.com/jacksontj/promxy
 https://github.com/jaegertracing/jaeger
 https://github.com/JamesTGrant/kubectl-debug
 https://github.com/jangraefen/hcloud-pricing-exporter
+https://github.com/jenkins-x/jx
 https://github.com/jimmidyson/configmap-reload
 https://github.com/jodevsa/wireguard-operator
 https://github.com/johanhaleby/kubetail
@@ -389,6 +390,7 @@ https://github.com/SparebankenVest/azure-key-vault-to-kubernetes
 https://github.com/squat/kilo
 https://github.com/stackrox/kube-linter
 https://github.com/stakater/Reloader
+https://github.com/stashed/stash
 https://github.com/stern/stern
 https://github.com/sukeesh/k8s-job-notify
 https://github.com/superbrothers/ksort
@@ -401,6 +403,7 @@ https://github.com/thanos-io/thanos
 https://github.com/tilt-dev/tilt
 https://github.com/tinkerbell/tink
 https://github.com/toboshii/hajimari
+https://github.com/traefik/mesh
 https://github.com/traefik/traefik
 https://github.com/Trendyol/kink
 https://github.com/trufflesecurity/trufflehog

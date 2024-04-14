@@ -40,8 +40,8 @@ https://github.com/axivo/k3s-cluster
 https://github.com/azure/draft
 https://github.com/benc-uk/kubeview
 https://github.com/berops/claudie
-https://github.com/bitnami/charts-syncer
 https://github.com/bitnami-labs/sealed-secrets
+https://github.com/bitnami/charts-syncer
 https://github.com/blendle/kns
 https://github.com/bloomberg/goldpinger
 https://github.com/bmuschko/gradle-kubernetes-plugin
@@ -132,8 +132,8 @@ https://github.com/fabiand/kubectl-plugin-pvc
 https://github.com/fabiolb/fabio
 https://github.com/FairwindsOps/gemini
 https://github.com/FairwindsOps/goldilocks
-https://github.com/FairwindsOps/polaris
 https://github.com/FairwindsOps/pluto
+https://github.com/FairwindsOps/polaris
 https://github.com/falcosecurity/falco
 https://github.com/farmotive/kpoof
 https://github.com/fbrubbo/kubectl-snapshot
@@ -219,8 +219,8 @@ https://github.com/k8spacket/k8spacket
 https://github.com/k8spin/k8spin-operator
 https://github.com/kalmhq/kalm
 https://github.com/kanisterio/kanister
-https://github.com/kayrus/kuttle
 https://github.com/kata-containers/kata-containers
+https://github.com/kayrus/kuttle
 https://github.com/kbst/terraform-kubestack
 https://github.com/kcp-dev/kcp
 https://github.com/kedacore/keda
@@ -428,10 +428,10 @@ https://github.com/similarweb/finala
 https://github.com/SimonTheLeg/konf-go
 https://github.com/skooner-k8s/skooner
 https://github.com/slimtoolkit/slim
-https://github.com/soraro/kurt
 https://github.com/solo-io/gloo
 https://github.com/solo-io/squash
 https://github.com/Soluto/kamus
+https://github.com/soraro/kurt
 https://github.com/sorintlab/stolon
 https://github.com/SparebankenVest/azure-key-vault-to-kubernetes
 https://github.com/squat/kilo
@@ -447,8 +447,8 @@ https://github.com/superedge/superedge
 https://github.com/teamcode-inc/kubeorbit
 https://github.com/tektoncd/pipeline
 https://github.com/telepresenceio/telepresence
-https://github.com/terraform-linters/tflint
 https://github.com/tenable/terrascan
+https://github.com/terraform-linters/tflint
 https://github.com/thanos-io/thanos
 https://github.com/tilt-dev/tilt
 https://github.com/tinkerbell/tink

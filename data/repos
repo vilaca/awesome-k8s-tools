@@ -64,6 +64,7 @@ https://github.com/clastix/kubectl
 https://github.com/Clivern/Peanut
 https://github.com/cloud-ark/kubeplus
 https://github.com/cloudboss/keights
+https://github.com/cloudnative-pg/cloudnative-pg
 https://github.com/cloudnativelabs/kube-shell
 https://github.com/coder/coder
 https://github.com/common-fate/iamzero
@@ -318,6 +319,7 @@ https://github.com/octarinesec/kube-scan
 https://github.com/okteto/okteto
 https://github.com/omrikiei/ktunnel
 https://github.com/onedr0p/cluster-template
+https://github.com/ongres/stackgres
 https://github.com/open-policy-agent/gatekeeper
 https://github.com/open-policy-agent/opa
 https://github.com/openclarity/kubeclarity
@@ -388,6 +390,7 @@ https://github.com/SimonTheLeg/konf-go
 https://github.com/skooner-k8s/skooner
 https://github.com/slimtoolkit/slim
 https://github.com/solo-io/squash
+https://github.com/sorintlab/stolon
 https://github.com/SparebankenVest/azure-key-vault-to-kubernetes
 https://github.com/squat/kilo
 https://github.com/stackrox/kube-linter

@@ -1,4 +1,4 @@
-# Awesome index of Open Source K8s and container tools
+# Awesome Open Source K8s And Container Tools
 
 #### *Every night at 1:00 AM GMT, the repositories in the index are scanned and organized based on the number of stars they've received from users. If you know a repository that should be included, please add it to the [index](data/repos) and submit a pull request.*
 ### 1 - [Kubernetes](https://github.com/kubernetes/kubernetes) [⭐️](https://github.com/kubernetes/kubernetes/stargazers) 106.5K [🚀](https://github.com/kubernetes/kubernetes/network/members) 38.3K [💥](https://github.com/kubernetes/kubernetes/issues) 2.6K 🪪  Apache License 2.0
@@ -184,7 +184,7 @@
 ### 61 - [Cert-manager](https://github.com/cert-manager/cert-manager) [⭐️](https://github.com/cert-manager/cert-manager/stargazers) 11.4K [🚀](https://github.com/cert-manager/cert-manager/network/members) 2.0K [💥](https://github.com/cert-manager/cert-manager/issues) 220 🪪  Apache License 2.0
 *Automatically provision and manage TLS certificates in Kubernetes*
 
-### 62 - [Kustomize](https://github.com/kubernetes-sigs/kustomize) [⭐️](https://github.com/kubernetes-sigs/kustomize/stargazers) 10.5K [🚀](https://github.com/kubernetes-sigs/kustomize/network/members) 2.2K [💥](https://github.com/kubernetes-sigs/kustomize/issues) 260 🪪  Apache License 2.0
+### 62 - [Kustomize](https://github.com/kubernetes-sigs/kustomize) [⭐️](https://github.com/kubernetes-sigs/kustomize/stargazers) 10.5K [🚀](https://github.com/kubernetes-sigs/kustomize/network/members) 2.2K [💥](https://github.com/kubernetes-sigs/kustomize/issues) 259 🪪  Apache License 2.0
 *Customization of kubernetes YAML configurations*
 
 ### 63 - [Kubeshark](https://github.com/kubeshark/kubeshark) [⭐️](https://github.com/kubeshark/kubeshark/stargazers) 10.5K [🚀](https://github.com/kubeshark/kubeshark/network/members) 434 [💥](https://github.com/kubeshark/kubeshark/issues) 137 🪪  Apache License 2.0
@@ -937,7 +937,7 @@
 ### 312 - [Krane](https://github.com/appvia/krane) [⭐️](https://github.com/appvia/krane/stargazers) 658 [🚀](https://github.com/appvia/krane/network/members) 34 [💥](https://github.com/appvia/krane/issues) 49 🪪  Apache License 2.0
 *Kubernetes RBAC static analysis & visualisation tool*
 
-### 313 - [Consul-k8s](https://github.com/hashicorp/consul-k8s) [⭐️](https://github.com/hashicorp/consul-k8s/stargazers) 650 [🚀](https://github.com/hashicorp/consul-k8s/network/members) 311 [💥](https://github.com/hashicorp/consul-k8s/issues) 207 🪪  Mozilla Public License 2.0
+### 313 - [Consul-k8s](https://github.com/hashicorp/consul-k8s) [⭐️](https://github.com/hashicorp/consul-k8s/stargazers) 650 [🚀](https://github.com/hashicorp/consul-k8s/network/members) 311 [💥](https://github.com/hashicorp/consul-k8s/issues) 206 🪪  Mozilla Public License 2.0
 *First-class support for Consul Service Mesh on Kubernetes*
 
 ### 314 - [Ketall](https://github.com/corneliusweig/ketall) [⭐️](https://github.com/corneliusweig/ketall/stargazers) 649 [🚀](https://github.com/corneliusweig/ketall/network/members) 27 [💥](https://github.com/corneliusweig/ketall/issues) 13 🪪  Apache License 2.0

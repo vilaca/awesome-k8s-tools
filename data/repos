@@ -227,7 +227,6 @@ https://github.com/kcp-dev/kcp
 https://github.com/kedacore/keda
 https://github.com/keel-hq/keel
 https://github.com/keisku/kubectl-explore
-https://github.com/odigos-io/odigos
 https://github.com/kiali/kiali
 https://github.com/kislyuk/yq
 https://github.com/kj187/k8s-http-monitoring
@@ -349,6 +348,7 @@ https://github.com/NVIDIA/gpu-operator
 https://github.com/NVIDIA/k8s-device-plugin
 https://github.com/oam-dev/spec
 https://github.com/octarinesec/kube-scan
+https://github.com/odigos-io/odigos
 https://github.com/okteto/okteto
 https://github.com/omrikiei/ktunnel
 https://github.com/onedr0p/cluster-template

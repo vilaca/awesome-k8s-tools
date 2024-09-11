@@ -186,6 +186,7 @@ https://github.com/helm-unittest/helm-unittest
 https://github.com/helm/helm
 https://github.com/helmfile/helmfile
 https://github.com/helmwave/helmwave
+https://github.com/hetznercloud/hcloud-cloud-controller-manager
 https://github.com/hjacobs/kube-web-view
 https://github.com/hyscale/hyscale
 https://github.com/ibm/kone
@@ -222,6 +223,7 @@ https://github.com/k3s-io/helm-controller
 https://github.com/k3s-io/k3s
 https://github.com/k3s-io/kine
 https://github.com/k3s-io/klipper-lb
+https://github.com/k8gb-io/k8gb
 https://github.com/k8spacket/k8spacket
 https://github.com/k8spin/k8spin-operator
 https://github.com/k8spin/prometheus-multi-tenant-proxy
@@ -447,6 +449,7 @@ https://github.com/sorintlab/stolon
 https://github.com/SparebankenVest/azure-key-vault-to-kubernetes
 https://github.com/squat/kilo
 https://github.com/stackrox/kube-linter
+https://github.com/stakater/IngressMonitorController
 https://github.com/stakater/Reloader
 https://github.com/stashed/stash
 https://github.com/stefanprodan/kustomizer

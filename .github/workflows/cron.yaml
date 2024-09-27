@@ -15,7 +15,6 @@ jobs:
       shell: bash
       run: |
         export FILENAME=$(./build/today.sh)
-        go run build/extract.go
         go run build/extract.go | sort -nr > archive/$FILENAME
         (go run build/rank.go < archive/$FILENAME) > README.md
 

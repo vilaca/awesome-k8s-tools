@@ -14,9 +14,9 @@ jobs:
     - name: Build
       shell: bash
       run: |
-        export FILENAME=$(./src/today.sh)
-        go run src/extract.go | sort -nr > archive/$FILENAME
-        (go run src/rank.go < archive/$FILENAME) > README.md
+        export FILENAME=$(./build/today.sh)
+        go run build/extract.go | sort -nr > archive/$FILENAME
+        (go run build/rank.go < archive/$FILENAME) > README.md
 
     - name: Extract branch name
       shell: bash

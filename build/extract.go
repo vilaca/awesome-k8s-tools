@@ -68,8 +68,7 @@ func main() {
 		if repo == "" || owner == "" {
 			continue
 		}
-		fmt.Printf("%s/%s\n", owner, repo)
-		info, err := getRepoInfo(repo, token)
+		info, err := getRepoInfo(fmt.Sprintf("%s/%s", owner, repo), token)
 		if err != nil {
 			fmt.Printf("Error fetching repo %s: %v\n", repo, err)
 			continue

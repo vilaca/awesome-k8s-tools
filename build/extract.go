@@ -64,7 +64,7 @@ func main() {
 	for scanner.Scan() {
 		fields := strings.Split(scanner.Text(), "/")
 		owner := strings.TrimSpace(fields[3])
-		repo := strings.TrimSpace(fields[3])
+		repo := strings.TrimSpace(fields[4])
 		if repo == "" || owner == "" {
 			continue
 		}

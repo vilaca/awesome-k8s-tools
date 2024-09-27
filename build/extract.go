@@ -17,7 +17,7 @@ type RepoInfo struct {
 
 func getRepoInfo(repo string, token string) (RepoInfo, error) {
 	url := fmt.Sprintf("https://api.github.com/repos/%s", repo)
-
+	fmt.Println(url)
 	client := &http.Client{}
 	req, err := http.NewRequest("GET", url, nil)
 	if err != nil {

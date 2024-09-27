@@ -63,11 +63,12 @@ func main() {
 	scanner := bufio.NewScanner(file)
 	for scanner.Scan() {
 		fields := strings.Split(scanner.Text(), "/")
+		owner := strings.TrimSpace(fields[3])
 		repo := strings.TrimSpace(fields[3])
-		if repo == "" {
+		if repo == "" || owner == "" {
 			continue
 		}
-		fmt.Printf("%s\n", repo)
+		fmt.Printf("%s/%s\n", owner, repo)
 		info, err := getRepoInfo(repo, token)
 		if err != nil {
 			fmt.Printf("Error fetching repo %s: %v\n", repo, err)

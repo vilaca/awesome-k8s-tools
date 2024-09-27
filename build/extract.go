@@ -24,7 +24,7 @@ func getRepoInfo(repo string, token string) (RepoInfo, error) {
 		return RepoInfo{}, err
 	}
 
-	req.Header.Set("Authorization", "token "+token)
+	req.Header.Set("Authorization", "Bearer "+token)
 	resp, err := client.Do(req)
 	if err != nil {
 		return RepoInfo{}, err

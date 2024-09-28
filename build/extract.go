@@ -70,7 +70,7 @@ func main() {
 		}
 		info, err := getRepoInfo(fmt.Sprintf("%s/%s", owner, repo), token)
 		if err != nil {
-			fmt.Printf("Error fetching repo %s: %v\n", repo, err)
+			fmt.Printf("Error fetching repo: %v\n", err)
 			continue
 		}
 

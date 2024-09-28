@@ -12,6 +12,8 @@ jobs:
         persist-credentials: false
         fetch-depth: 0
     - name: Build
+      env:
+        PAT: ${{ secrets.PAT }}
       shell: bash
       run: |
         export FILENAME=$(./build/today.sh)

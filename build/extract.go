@@ -52,6 +52,7 @@ func getRepoInfo(repo string, token string) (RepoInfo, error) {
 func main() {
 
 	token := os.Getenv("PAT")
+	fmt.Println("PAT len: %d", len(token))
 
 	file, err := os.Open("data/repos")
 	if err != nil {

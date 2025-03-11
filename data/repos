@@ -4,9 +4,7 @@ https://github.com/abahmed/kwatch
 https://github.com/abiosoft/colima
 https://github.com/acorn-io/runtime
 https://github.com/adrienverge/yamllint
-https://github.com/cozystack/cozystack
 https://github.com/aenix-io/kubefarm
-https://github.com/cozystack/talm
 https://github.com/ahmetb/kubectl-tree
 https://github.com/ahmetb/kubectx
 https://github.com/airwallex/k8s-pod-restart-info-collector
@@ -92,6 +90,8 @@ https://github.com/coredns/coredns
 https://github.com/corneliusweig/ketall
 https://github.com/corneliusweig/rakkess
 https://github.com/cosmo-workspace/cosmo
+https://github.com/cozystack/cozystack
+https://github.com/cozystack/talm
 https://github.com/cri-o/cri-o
 https://github.com/crossplane/crossplane
 https://github.com/ctk-hq/ctk
@@ -183,7 +183,6 @@ https://github.com/hashicorp/packer
 https://github.com/haxsaw/hikaru
 https://github.com/hcavarsan/kftray
 https://github.com/headlamp-k8s/headlamp
-https://github.com/kubewall/kubewall
 https://github.com/helm-unittest/helm-unittest
 https://github.com/helm/helm
 https://github.com/helmfile/helmfile
@@ -309,6 +308,7 @@ https://github.com/kubetail-org/kubetail
 https://github.com/kubetoolsca/krs
 https://github.com/kubevious/kubevious
 https://github.com/kubevirt/kubevirt
+https://github.com/kubewall/kubewall
 https://github.com/kubewharf/kubegateway
 https://github.com/kudobuilder/kudo
 https://github.com/KusionStack/karpor
@@ -390,6 +390,7 @@ https://github.com/oslabs-beta/Palaemon
 https://github.com/otterize/intents-operator
 https://github.com/otterize/network-mapper
 https://github.com/patrickdappollonio/kubectl-slice
+https://github.com/philippemerle/KubeDiagrams
 https://github.com/pixie-io/pixie
 https://github.com/PlayFab/thundernetes
 https://github.com/polverio/kubelift-cli
@@ -517,4 +518,3 @@ https://github.com/Yelp/clusterman
 https://github.com/yuyicai/kubei
 https://github.com/zabbix/zabbix
 https://github.com/zegl/kube-score
-https://github.com/philippemerle/KubeDiagrams

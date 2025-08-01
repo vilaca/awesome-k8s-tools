@@ -277,6 +277,7 @@ https://github.com/kubermatic/kubecarrier
 https://github.com/kubermatic/kubeone
 https://github.com/kubernauts/bonsai
 https://github.com/kubernauts/tk8
+https://github.com/kubernetes-retired/kui
 https://github.com/kubernetes-sigs/cluster-api
 https://github.com/kubernetes-sigs/descheduler
 https://github.com/kubernetes-sigs/headlamp/
@@ -285,7 +286,6 @@ https://github.com/kubernetes-sigs/kind
 https://github.com/kubernetes-sigs/krew
 https://github.com/kubernetes-sigs/kubebuilder
 https://github.com/kubernetes-sigs/kubespray
-https://github.com/kubernetes-retired/kui
 https://github.com/kubernetes-sigs/kustomize
 https://github.com/kubernetes/autoscaler
 https://github.com/kubernetes/dashboard

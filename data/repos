@@ -261,7 +261,7 @@ https://github.com/kubearmor/KubeArmor
 https://github.com/kubebn/talos-proxmox-kaas
 https://github.com/kubecd/kubecd
 https://github.com/kubecost/cluster-turndown
-https://github.com/kubecost/cost-analyzer-helm-chart
+https://github.com/kubecost/kubecost
 https://github.com/kubecost/kubectl-cost
 https://github.com/kubeedge/kubeedge
 https://github.com/kubeflow/kubeflow
@@ -277,6 +277,7 @@ https://github.com/kubermatic/kubecarrier
 https://github.com/kubermatic/kubeone
 https://github.com/kubernauts/bonsai
 https://github.com/kubernauts/tk8
+https://github.com/kubernetes-retired/kui
 https://github.com/kubernetes-sigs/cluster-api
 https://github.com/kubernetes-sigs/descheduler
 https://github.com/kubernetes-sigs/headlamp/
@@ -285,7 +286,6 @@ https://github.com/kubernetes-sigs/kind
 https://github.com/kubernetes-sigs/krew
 https://github.com/kubernetes-sigs/kubebuilder
 https://github.com/kubernetes-sigs/kubespray
-https://github.com/kubernetes-sigs/kui
 https://github.com/kubernetes-sigs/kustomize
 https://github.com/kubernetes/autoscaler
 https://github.com/kubernetes/dashboard
@@ -469,7 +469,6 @@ https://github.com/sukeesh/k8s-job-notify
 https://github.com/superbrothers/ksort
 https://github.com/superedge/superedge
 https://github.com/syself/cluster-api-provider-hetzner
-https://github.com/tcosolutions/betterscan
 https://github.com/teamcode-inc/kubeorbit
 https://github.com/tektoncd/pipeline
 https://github.com/telepresenceio/telepresence

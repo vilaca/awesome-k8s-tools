@@ -211,7 +211,6 @@ https://github.com/jenkins-x/jx
 https://github.com/jesseduffield/lazydocker
 https://github.com/jimmidyson/configmap-reload
 https://github.com/jlesquembre/kubeprompt
-https://github.com/jodevsa/wireguard-operator
 https://github.com/johanhaleby/kubetail
 https://github.com/jonmosco/kube-ps1
 https://github.com/JovianX/helm-release-plugin
@@ -518,3 +517,4 @@ https://github.com/Yelp/clusterman
 https://github.com/yuyicai/kubei
 https://github.com/zabbix/zabbix
 https://github.com/zegl/kube-score
+https://github.com/k8s-essentials/wireguard-operator

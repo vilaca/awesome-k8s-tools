@@ -109,6 +109,7 @@ https://github.com/Dentrax/kubesql
 https://github.com/derailed/k9s
 https://github.com/derailed/popeye
 https://github.com/devfile/api
+https://github.com/devops-land/wireguard-operator
 https://github.com/devspace-sh/devspace
 https://github.com/devtron-labs/devtron
 https://github.com/devtron-labs/silver-surfer
@@ -224,7 +225,6 @@ https://github.com/k3s-io/k3s
 https://github.com/k3s-io/kine
 https://github.com/k3s-io/klipper-lb
 https://github.com/k8gb-io/k8gb
-https://github.com/devops-land/wireguard-operator
 https://github.com/k8spacket/k8spacket
 https://github.com/k8spin/k8spin-operator
 https://github.com/k8spin/prometheus-multi-tenant-proxy

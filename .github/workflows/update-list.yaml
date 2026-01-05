@@ -1,0 +1,71 @@
+name: Update awesome list
+
+on:
+  # Trigger on push to any branch
+  push:
+    branches: ["*"]
+    paths:
+      - 'data/repos'
+      - 'build/**'
+      - 'resources/**'
+      - '.github/workflows/**'
+
+  # Scheduled daily update at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      skip_validation:
+        description: 'Skip validation step'
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        persist-credentials: true
+        fetch-depth: 0
+
+    - name: Validate repository list
+      if: github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && !inputs.skip_validation)
+      run: ./build/validate.sh
+
+    - name: Build awesome list
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: ./build/build.sh
+
+    - name: Configure git
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+
+    - name: Commit and push changes
+      run: |
+        git add -A
+        if git diff --staged --quiet; then
+          echo "✅ No changes to commit"
+        else
+          TRIGGER="${{ github.event_name }}"
+          if [ "$TRIGGER" = "schedule" ]; then
+            MSG="chore: autopublish $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          elif [ "$TRIGGER" = "workflow_dispatch" ]; then
+            MSG="chore: manual update $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          else
+            MSG="chore: update list $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          fi
+          git commit -m "$MSG"
+          git push
+          echo "✅ Changes committed and pushed"
+        fi

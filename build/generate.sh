@@ -1,9 +1,15 @@
 #!/usr/bin/env bash
 set -eou pipefail
 
+# Clean up old sorted file
+rm -f sorted
+
 # Sort by stars (numeric reverse), keep the rest of the line
 # Using ASCII Unit Separator (0x1F) as delimiter
 sort -t$'\x1F' -k1 -nr index > sorted
+
+# Initialize TOP.md (ensure it exists even if no valid entries)
+> TOP.md
 
 COUNTER=0
 

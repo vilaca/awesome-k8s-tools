@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 set -eou pipefail
 
+# Clean up old intermediate files to ensure fresh start
+rm -f tmp index
+
 # Check if GITHUB_TOKEN is set
 if [ -z "${GITHUB_TOKEN:-}" ]; then
   echo "❌ Error: GITHUB_TOKEN environment variable is not set"
@@ -145,8 +148,8 @@ do
     continue
   fi
 
-  # Store stars, JSON, and comment separated by |
-  printf '%s|%s|%s\n' "$STARS" "${JSON//[$'\t\r\n']}" "$comment" >> index
+  # Store stars, JSON, and comment separated by ASCII Unit Separator (0x1F)
+  printf '%s\x1F%s\x1F%s\n' "$STARS" "${JSON//[$'\t\r\n']}" "$comment" >> index
 
   # Progress indicator
   if [ $((processed % 100)) -eq 0 ]; then

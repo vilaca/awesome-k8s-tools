@@ -90,13 +90,32 @@ echo "🔍 Checking GitHub API rate limit..."
 check_rate_limit
 
 sort -fo data/repos data/repos
-cut -d'/' -f4-5 data/repos > tmp
+
+# Extract URLs and comments
+# Format: owner/repo|comment (comment is optional)
+awk '{
+  # Split by # to separate URL from comment
+  url = $1
+  comment = ""
+  hash_pos = index($0, "#")
+  if (hash_pos > 0) {
+    comment = substr($0, hash_pos + 1)
+    # Trim leading/trailing whitespace from comment
+    gsub(/^[ \t]+|[ \t]+$/, "", comment)
+  }
+  # Extract owner/repo from URL (after github.com/)
+  # Remove https://github.com/ prefix
+  gsub(/^https?:\/\/github\.com\//, "", url)
+  # Remove any trailing slashes
+  gsub(/\/$/, "", url)
+  printf "%s|%s\n", url, comment
+}' data/repos > tmp
 
 echo "📥 Fetching data for $(wc -l < tmp | tr -d ' ') repositories..."
 processed=0
 failed=0
 
-while IFS="" read -r p || [ -n "$p" ]
+while IFS="|" read -r p comment || [ -n "$p" ]
 do
   processed=$((processed + 1))
 
@@ -119,7 +138,8 @@ do
     continue
   fi
 
-  printf '%s %s\n' "$STARS" "${JSON//[$'\t\r\n']}" >> index
+  # Store stars, JSON, and comment separated by |
+  printf '%s|%s|%s\n' "$STARS" "${JSON//[$'\t\r\n']}" "$comment" >> index
 
   # Progress indicator
   if [ $((processed % 100)) -eq 0 ]; then

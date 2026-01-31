@@ -15,6 +15,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 - 🚀 **Forks** - Number of forks (community engagement)
 - 💥 **Issues** - Open issues count (activity and maintenance)
 - 🪪 **License** - Software license
+- ☠️ **Status** - Archived, deprecated, or inactive projects (kept for reference)
 
 ## The List
 

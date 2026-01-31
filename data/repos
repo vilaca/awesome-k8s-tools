@@ -4,22 +4,34 @@ https://github.com/abahmed/kwatch
 https://github.com/abiosoft/colima
 https://github.com/acorn-io/runtime
 https://github.com/adrienverge/yamllint
+https://github.com/1Panel-dev/webkubectl
 https://github.com/aenix-io/kubefarm
+https://github.com/99designs/aws-vault
 https://github.com/ahmetb/kubectl-tree
+https://github.com/abahmed/kwatch
 https://github.com/ahmetb/kubectx
+https://github.com/abiosoft/colima
 https://github.com/airwallex/k8s-pod-restart-info-collector
+https://github.com/acorn-io/runtime
 https://github.com/alcideio/advisor
+https://github.com/adrienverge/yamllint
 https://github.com/alcideio/rbac-tool
+https://github.com/aenix-io/kubefarm
 https://github.com/alcideio/skan
+https://github.com/ahmetb/kubectl-tree
 https://github.com/alexellis/k3sup
+https://github.com/ahmetb/kubectx
 https://github.com/alibaba/nacos
+https://github.com/airwallex/k8s-pod-restart-info-collector
 https://github.com/alikhil/kubectl-find
 https://github.com/andreazorzetto/yh
 https://github.com/andrew-waters/linkerd2-mixin
 https://github.com/AndrewGuenther/cdk-fck-nat
 https://github.com/apache/apisix
 https://github.com/apache/openwhisk
+https://github.com/1Panel-dev/webkubectl
 https://github.com/apptainer/apptainer
+https://github.com/99designs/aws-vault
 https://github.com/appvia/krane
 https://github.com/aquasecurity/defsec
 https://github.com/aquasecurity/kube-bench
@@ -101,7 +113,7 @@ https://github.com/cyclops-ui/cyclops
 https://github.com/dalehenries/kubecp
 https://github.com/danielfoehrKn/kubeswitch
 https://github.com/dapr/dapr
-https://github.com/darkbitio/mkit
+https://github.com/darkbitio/mkit # 💀 Archived
 https://github.com/davidmdm/yoke
 https://github.com/deepfence/YaraHunter
 https://github.com/deggja/chaossnake
@@ -110,7 +122,7 @@ https://github.com/Dentrax/kubesql
 https://github.com/derailed/k9s
 https://github.com/derailed/popeye
 https://github.com/devfile/api
-https://github.com/devops-land/wireguard-operator
+https://github.com/devops-land/wireguard-operator # 💀 Archived
 https://github.com/devspace-sh/devspace
 https://github.com/devtron-labs/devtron
 https://github.com/devtron-labs/silver-surfer
@@ -121,7 +133,7 @@ https://github.com/docker/buildx
 https://github.com/docker/compose
 https://github.com/doitintl/kube-no-trouble
 https://github.com/dokku/dokku
-https://github.com/dpeckett/pangolin
+https://github.com/dpeckett/pangolin # 💀 Archived
 https://github.com/duo-labs/parliament
 https://github.com/eclipse-che/che
 https://github.com/eclipse-jkube/jkube
@@ -151,7 +163,7 @@ https://github.com/fluxcd/flux2
 https://github.com/fnproject/fn
 https://github.com/freegroup/kube-s3
 https://github.com/freelensapp/freelens
-https://github.com/funktionio/funktion
+https://github.com/funktionio/funktion # 💀 Abandoned
 https://github.com/gaganyaan2/kubernetes-kn-kx-bash
 https://github.com/gardener/gardener
 https://github.com/gefyrahq/gefyra
@@ -167,14 +179,14 @@ https://github.com/google/cadvisor
 https://github.com/google/gke-policy-automation
 https://github.com/google/gvisor
 https://github.com/GoogleContainerTools/jib
-https://github.com/GoogleContainerTools/kaniko
+https://github.com/GoogleContainerTools/kaniko # 💀 Archived
 https://github.com/GoogleContainerTools/skaffold
 https://github.com/grafana/grafana
 https://github.com/grafana/k6
 https://github.com/grafana/loki
 https://github.com/grafana/mimir
 https://github.com/grafana/tanka
-https://github.com/gravitational/gravity
+https://github.com/gravitational/gravity # 💀 Deprecated
 https://github.com/gravitational/teleport
 https://github.com/groundcover-com/caretta
 https://github.com/groundcover-com/murre
@@ -190,18 +202,18 @@ https://github.com/helm/helm
 https://github.com/helmfile/helmfile
 https://github.com/helmwave/helmwave
 https://github.com/hetznercloud/hcloud-cloud-controller-manager
-https://github.com/hjacobs/kube-web-view
+https://github.com/hjacobs/kube-web-view # 💀 Archived
 https://github.com/hyscale/hyscale
 https://github.com/ibm/kone
 https://github.com/identiops/terraform-hcloud-k3s
 https://github.com/Infisical/infisical
 https://github.com/infracost/infracost
 https://github.com/inguardians/peirates
-https://github.com/inovex/illuminatio
-https://github.com/instrumenta/kubeval
+https://github.com/inovex/illuminatio # 💀 Archived
+https://github.com/instrumenta/kubeval # 💀 Deprecated (use kubeconform)
 https://github.com/int128/kubelogin
 https://github.com/iovisor/kubectl-trace
-https://github.com/iron-io/functions
+https://github.com/iron-io/functions # 💀 Abandoned
 https://github.com/ishantanu/kubectl-unbound-pvc
 https://github.com/istio/istio
 https://github.com/itaysk/kubectl-neat
@@ -229,7 +241,7 @@ https://github.com/k8gb-io/k8gb
 https://github.com/k8spacket/k8spacket
 https://github.com/k8spin/k8spin-operator
 https://github.com/k8spin/prometheus-multi-tenant-proxy
-https://github.com/kalmhq/kalm
+https://github.com/kalmhq/kalm # 💀 Abandoned
 https://github.com/kanisterio/kanister
 https://github.com/kata-containers/kata-containers
 https://github.com/kayrus/kuttle
@@ -250,11 +262,11 @@ https://github.com/komodorio/validkube
 https://github.com/konstructio/kubefirst
 https://github.com/kptdev/kpt
 https://github.com/krisnova/kaar
-https://github.com/krustlet/krustlet
-https://github.com/ksync/ksync
-https://github.com/kube-aws/kube-aws
+https://github.com/krustlet/krustlet # 💀 Inactive
+https://github.com/ksync/ksync # 💀 Superseded
+https://github.com/kube-aws/kube-aws # 💀 Deprecated
 https://github.com/kube-green/kube-green
-https://github.com/kube-ns-suspender/kube-ns-suspender
+https://github.com/kube-ns-suspender/kube-ns-suspender # 💀 Archived
 https://github.com/kube-vip/kube-vip
 https://github.com/kubealex/k8s-mediaserver-operator
 https://github.com/kubean-io/kubean
@@ -274,11 +286,11 @@ https://github.com/kubepug/kubepug
 https://github.com/kubereboot/kured
 https://github.com/kuberhealthy/kuberhealthy
 https://github.com/kubermatic/fubectl
-https://github.com/kubermatic/kubecarrier
+https://github.com/kubermatic/kubecarrier # 💀 Discontinued
 https://github.com/kubermatic/kubeone
 https://github.com/kubernauts/bonsai
 https://github.com/kubernauts/tk8
-https://github.com/kubernetes-retired/kui
+https://github.com/kubernetes-retired/kui # 💀 Officially retired
 https://github.com/kubernetes-sigs/cluster-api
 https://github.com/kubernetes-sigs/descheduler
 https://github.com/kubernetes-sigs/headlamp/
@@ -289,7 +301,7 @@ https://github.com/kubernetes-sigs/kubebuilder
 https://github.com/kubernetes-sigs/kubespray
 https://github.com/kubernetes-sigs/kustomize
 https://github.com/kubernetes/autoscaler
-https://github.com/kubernetes/dashboard
+https://github.com/kubernetes-retired/dashboard
 https://github.com/kubernetes/ingress-nginx
 https://github.com/kubernetes/kops
 https://github.com/kubernetes/kube-state-metrics
@@ -321,14 +333,14 @@ https://github.com/kyverno/kyverno
 https://github.com/Ladicle/kubectl-rolesum
 https://github.com/LeanerCloud/AutoSpotting
 https://github.com/learnk8s/xlskubectl
-https://github.com/lensapp/lens
+https://github.com/lensapp/lens # 💀 Closed source (use freelensapp/freelens)
 https://github.com/linkerd/linkerd2
 https://github.com/linki/chaoskube
 https://github.com/linode/apl-core/
 https://github.com/liqotech/liqo
 https://github.com/litmuschaos/litmus
 https://github.com/localstack/localstack
-https://github.com/loft-sh/kiosk
+https://github.com/loft-sh/kiosk # 💀 Archived
 https://github.com/loft-sh/loft
 https://github.com/loft-sh/vcluster
 https://github.com/longhorn/longhorn
@@ -336,7 +348,6 @@ https://github.com/louislam/dockge
 https://github.com/loxilb-io/loxilb
 https://github.com/lsdopen/ahoy
 https://github.com/lucky-sideburn/KubeInvaders
-https://github.com/lucky-sideburn/kubeinvaders
 https://github.com/madhuakula/kubernetes-goat
 https://github.com/makocchi-git/kubectl-dfi
 https://github.com/marvasgit/kubernetes-multicooker
@@ -365,7 +376,7 @@ https://github.com/nuclio/nuclio
 https://github.com/NVIDIA/gpu-operator
 https://github.com/NVIDIA/k8s-device-plugin
 https://github.com/oam-dev/spec
-https://github.com/octarinesec/kube-scan
+https://github.com/octarinesec/kube-scan # 💀 Deprecated
 https://github.com/odigos-io/odigos
 https://github.com/okteto/okteto
 https://github.com/omrikiei/ktunnel
@@ -375,7 +386,7 @@ https://github.com/open-policy-agent/conftest
 https://github.com/open-policy-agent/gatekeeper
 https://github.com/open-policy-agent/opa
 https://github.com/openbao/openbao
-https://github.com/openclarity/kubeclarity
+https://github.com/openclarity/kubeclarity # 💀 Archived
 https://github.com/openebs/lvm-localpv
 https://github.com/openebs/openebs
 https://github.com/openfaas/faas
@@ -419,7 +430,7 @@ https://github.com/rancher/fleet
 https://github.com/rancher/rancher
 https://github.com/rancher/rke2
 https://github.com/ReallyLiri/kubescout
-https://github.com/rebuy-de/aws-nuke
+https://github.com/rebuy-de/aws-nuke # 💀 Archived
 https://github.com/reddec/keycloak-ext-operator
 https://github.com/replicatedhq/kots
 https://github.com/replicatedhq/outdated
@@ -439,10 +450,10 @@ https://github.com/scality/metalk8s
 https://github.com/scholzj/terraform-aws-kubernetes
 https://github.com/score-spec/spec
 https://github.com/sealerio/sealer
-https://github.com/searchlight/searchlight
+https://github.com/searchlight/searchlight # 💀 Inactive
 https://github.com/sharadregoti/devops-cli
 https://github.com/shini4i/kd
-https://github.com/Shopify/kubeaudit
+https://github.com/Shopify/kubeaudit # 💀 Archived
 https://github.com/siderolabs/sidero
 https://github.com/siderolabs/talos
 https://github.com/sighupio/permission-manager
@@ -499,7 +510,7 @@ https://github.com/vitessio/vitess
 https://github.com/vitobotta/hetzner-k3s
 https://github.com/vivekagate/yakiapp
 https://github.com/vlad17/aws-magic
-https://github.com/vmware-archive/octant
+https://github.com/vmware-archive/octant # 💀 Officially archived
 https://github.com/vmware-tanzu/velero
 https://github.com/vmware/kube-fluentd-operator
 https://github.com/vmware/weathervane

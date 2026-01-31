@@ -2,11 +2,12 @@
 set -eou pipefail
 
 # Sort by stars (numeric reverse), keep the rest of the line
-sort -t'|' -k1 -nr index > sorted
+# Using ASCII Unit Separator (0x1F) as delimiter
+sort -t$'\x1F' -k1 -nr index > sorted
 
 COUNTER=0
 
-while IFS="|" read -r STARS JSON COMMENT || [ -n "$JSON" ]
+while IFS=$'\x1F' read -r STARS JSON COMMENT || [ -n "$JSON" ]
 do
   # Validate JSON before processing
   if ! echo "$JSON" | jq -e . >/dev/null 2>&1; then

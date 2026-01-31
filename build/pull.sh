@@ -131,6 +131,13 @@ do
     continue
   fi
 
+  # Validate JSON is well-formed
+  if ! echo "$JSON" | jq -e . >/dev/null 2>&1; then
+    echo "⚠️  Warning: Invalid JSON received for $p, skipping"
+    failed=$((failed + 1))
+    continue
+  fi
+
   STARS="$(echo "$JSON" | jq -r .stargazers_count)"
   if [ "${STARS}" = "null" ] || [ -z "${STARS}" ]; then
     echo "⚠️  Warning: Could not get star count for $p, skipping"

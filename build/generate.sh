@@ -8,6 +8,12 @@ COUNTER=0
 
 while IFS="|" read -r STARS JSON COMMENT || [ -n "$JSON" ]
 do
+  # Validate JSON before processing
+  if ! echo "$JSON" | jq -e . >/dev/null 2>&1; then
+    echo "⚠️  Warning: Invalid JSON at line $((COUNTER+1)), skipping" >&2
+    continue
+  fi
+
   NAME="$(echo "$JSON" | jq -r .name)"
   FULL_NAME="$(echo "$JSON" | jq -r .full_name)"
   STARS_VAL="$(echo "$JSON" | jq .stargazers_count)"

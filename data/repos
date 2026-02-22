@@ -54,6 +54,7 @@ https://github.com/brigadecore/brigade
 https://github.com/buildpacks-community/kpack
 https://github.com/buildpacks/pack
 https://github.com/caldito/soup
+https://github.com/canonical/lxd
 https://github.com/canonical/microk8s
 https://github.com/carvel-dev/kapp
 https://github.com/carvel-dev/ytt
@@ -312,6 +313,7 @@ https://github.com/kubevious/kubevious
 https://github.com/kubevirt/kubevirt
 https://github.com/kubewall/kubewall
 https://github.com/kubewharf/kubegateway
+https://github.com/kubie-org/kubie
 https://github.com/kudobuilder/kudo
 https://github.com/KusionStack/karpor
 https://github.com/KusionStack/kuperator
@@ -435,7 +437,6 @@ https://github.com/rtvkiz/minimal
 https://github.com/runfinch/finch
 https://github.com/ruoshan/autoportforward
 https://github.com/ryane/kfilt
-https://github.com/kubie-org/kubie
 https://github.com/scality/metalk8s
 https://github.com/scholzj/terraform-aws-kubernetes
 https://github.com/score-spec/spec
@@ -521,4 +522,3 @@ https://github.com/YelpArchive/clusterman # 💀 Officially archived
 https://github.com/yuyicai/kubei
 https://github.com/zabbix/zabbix
 https://github.com/zegl/kube-score
-https://github.com/canonical/lxd

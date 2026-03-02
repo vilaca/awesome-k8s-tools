@@ -71,6 +71,9 @@ fetch_repo_data() {
     elif [ "$http_code" = "401" ]; then
       echo "❌ Error: Authentication failed (401). Check GITHUB_TOKEN validity." >&2
       exit 1
+    elif [[ "$http_code" =~ ^3 ]]; then
+      echo "⚠️  Warning: Redirect $http_code for $repo" >&2
+      return 1
     else
       echo "⚠️  Warning: HTTP $http_code for $repo" >&2
       if [ $attempt -lt $max_retries ]; then

@@ -18,6 +18,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 - ☠️ **Status** - Archived, deprecated, or inactive projects (kept for reference)
 
 ## The List
+- [Panopticum](https://github.com/theSharque/panopticum) - Dev/QA web tool for DB operations in Kubernetes with MCP interface
 
 ### 1 - [Kubernetes](https://github.com/kubernetes/kubernetes) [⭐️](https://github.com/kubernetes/kubernetes/stargazers) 121.1K [🚀](https://github.com/kubernetes/kubernetes/network/members) 42.6K [💥](https://github.com/kubernetes/kubernetes/issues) 2.6K 🪪  Apache License 2.0
 *Production-Grade Container Scheduling and Management*

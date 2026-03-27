@@ -12,7 +12,6 @@ https://github.com/alcideio/advisor
 https://github.com/alcideio/rbac-tool
 https://github.com/alcideio/skan
 https://github.com/alexellis/k3sup
-https://github.com/sympozium-ai/sympozium
 https://github.com/alibaba/nacos
 https://github.com/alikhil/kubectl-find
 https://github.com/andreazorzetto/yh
@@ -480,19 +479,21 @@ https://github.com/steveteuber/kubectl-graph
 https://github.com/sukeesh/k8s-job-notify
 https://github.com/superbrothers/ksort
 https://github.com/superedge/superedge
+https://github.com/sympozium-ai/sympozium
 https://github.com/syself/cluster-api-provider-hetzner
 https://github.com/teamcode-inc/kubeorbit
 https://github.com/tektoncd/pipeline
 https://github.com/telepresenceio/telepresence
 https://github.com/tenable/terrascan
+https://github.com/tepea-code/yaml-schema-router
 https://github.com/terraform-linters/tflint
 https://github.com/thanos-io/thanos
+https://github.com/theSharque/panopticum
 https://github.com/tilt-dev/tilt
 https://github.com/tinkerbell/tink
 https://github.com/toboshii/hajimari
 https://github.com/traefik/mesh
 https://github.com/traefik/traefik
-https://github.com/tepea-code/yaml-schema-router
 https://github.com/Trendyol/kink
 https://github.com/Trolley-MGMT/trolleymgmt
 https://github.com/trufflesecurity/trufflehog
@@ -531,4 +532,3 @@ https://github.com/YelpArchive/clusterman # 💀 Officially archived
 https://github.com/yuyicai/kubei
 https://github.com/zabbix/zabbix
 https://github.com/zegl/kube-score
-https://github.com/theSharque/panopticum

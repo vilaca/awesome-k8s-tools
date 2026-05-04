@@ -7,6 +7,9 @@
 
 ## About
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw. Tracks Gateway status, sessions, token usage & trends with Vue 3 + ECharts.
+
+
 This list tracks the most popular open source tools in the Kubernetes and container ecosystem. Tools are automatically ranked by GitHub stars and updated **every night at midnight UTC**.
 
 ### Legend

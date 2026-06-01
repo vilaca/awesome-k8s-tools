@@ -81,7 +81,7 @@ https://github.com/coder/coder
 https://github.com/common-fate/iamzero
 https://github.com/confidential-containers/operator
 https://github.com/containerd/containerd
-https://github.com/containers/buildah
+https://github.com/podman-container-tools/buildah
 https://github.com/containers/podman
 https://github.com/containers/podman-compose
 https://github.com/containers/skopeo

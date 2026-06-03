@@ -1636,6 +1636,9 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 539 - [Portal](https://github.com/vilaca/portal) [⭐️](https://github.com/vilaca/portal/stargazers) 0 [🚀](https://github.com/vilaca/portal/network/members) 0 [💥](https://github.com/vilaca/portal/issues) 0 🪪  Apache License 2.0
 *Kubernetes admission webhook, audit loop, and NetworkPolicy analyser. Rules are boolean expressions (expr-lang/expr) — no DSL.*
 
+### 540 - [K8Studio](https://k8studio.io) [⭐️](https://github.com/guiqui/k8Studio/stargazers) 921 🪪  Proprietary
+*Cross-platform desktop IDE for Kubernetes cluster management (macOS/Windows/Linux). Features CloudMaps™ cluster visualization, AI Copilot, multi-cluster management, RBAC management, Helm GUI, advanced log viewer, and air-gapped/offline support. Agent-free architecture.*
+
 ## Contributing
 
 Know an awesome K8s/container tool that's missing? Contributions are welcome!

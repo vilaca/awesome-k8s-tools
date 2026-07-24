@@ -19,10 +19,10 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 
 ## The List
 
-### 1 - [Kubernetes](https://github.com/kubernetes/kubernetes) [⭐️](https://github.com/kubernetes/kubernetes/stargazers) 123.8K [🚀](https://github.com/kubernetes/kubernetes/network/members) 43.7K [💥](https://github.com/kubernetes/kubernetes/issues) 2.6K 🪪  Apache License 2.0
+### 1 - [Kubernetes](https://github.com/kubernetes/kubernetes) [⭐️](https://github.com/kubernetes/kubernetes/stargazers) 123.9K [🚀](https://github.com/kubernetes/kubernetes/network/members) 43.5K [💥](https://github.com/kubernetes/kubernetes/issues) 2.6K 🪪  Apache License 2.0
 *Production-Grade Container Scheduling and Management*
 
-### 2 - [Netdata](https://github.com/netdata/netdata) [⭐️](https://github.com/netdata/netdata/stargazers) 79.8K [🚀](https://github.com/netdata/netdata/network/members) 6.5K [💥](https://github.com/netdata/netdata/issues) 373 🪪  GNU General Public License v3.0
+### 2 - [Netdata](https://github.com/netdata/netdata) [⭐️](https://github.com/netdata/netdata/stargazers) 79.8K [🚀](https://github.com/netdata/netdata/network/members) 6.5K [💥](https://github.com/netdata/netdata/issues) 369 🪪  GNU General Public License v3.0
 *The fastest path to AI-powered full stack observability, even for lean teams.*
 
 ### 3 - [Grafana](https://github.com/grafana/grafana) [⭐️](https://github.com/grafana/grafana/stargazers) 75.7K [🚀](https://github.com/grafana/grafana/network/members) 14.3K [💥](https://github.com/grafana/grafana/issues) 3.4K 🪪  GNU Affero General Public License v3.0
@@ -31,7 +31,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 4 - [Act](https://github.com/nektos/act) [⭐️](https://github.com/nektos/act/stargazers) 71.1K [🚀](https://github.com/nektos/act/network/members) 1.9K [💥](https://github.com/nektos/act/issues) 346 🪪  MIT License
 *Run your GitHub Actions locally 🚀*
 
-### 5 - [Prometheus](https://github.com/prometheus/prometheus) [⭐️](https://github.com/prometheus/prometheus/stargazers) 65.2K [🚀](https://github.com/prometheus/prometheus/network/members) 10.6K [💥](https://github.com/prometheus/prometheus/issues) 875 🪪  Apache License 2.0
+### 5 - [Prometheus](https://github.com/prometheus/prometheus) [⭐️](https://github.com/prometheus/prometheus/stargazers) 65.2K [🚀](https://github.com/prometheus/prometheus/network/members) 10.6K [💥](https://github.com/prometheus/prometheus/issues) 881 🪪  Apache License 2.0
 *The Prometheus monitoring system and time series database.*
 
 ### 6 - [Localstack](https://github.com/localstack/localstack) [⭐️](https://github.com/localstack/localstack/stargazers) 65.1K [🚀](https://github.com/localstack/localstack/network/members) 4.7K [💥](https://github.com/localstack/localstack/issues) 0 🪪  Other
@@ -49,73 +49,73 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 10 - [Lazydocker](https://github.com/jesseduffield/lazydocker) [⭐️](https://github.com/jesseduffield/lazydocker/stargazers) 52.1K [🚀](https://github.com/jesseduffield/lazydocker/network/members) 1.6K [💥](https://github.com/jesseduffield/lazydocker/issues) 284 🪪  MIT License
 *The lazier way to manage everything docker*
 
-### 11 - [Etcd](https://github.com/etcd-io/etcd) [⭐️](https://github.com/etcd-io/etcd/stargazers) 52.0K [🚀](https://github.com/etcd-io/etcd/network/members) 10.4K [💥](https://github.com/etcd-io/etcd/issues) 279 🪪  Apache License 2.0
+### 11 - [Etcd](https://github.com/etcd-io/etcd) [⭐️](https://github.com/etcd-io/etcd/stargazers) 52.0K [🚀](https://github.com/etcd-io/etcd/network/members) 10.4K [💥](https://github.com/etcd-io/etcd/issues) 289 🪪  Apache License 2.0
 *Distributed reliable key-value store for the most critical data of a distributed system*
 
-### 12 - [Istio](https://github.com/istio/istio) [⭐️](https://github.com/istio/istio/stargazers) 38.2K [🚀](https://github.com/istio/istio/network/members) 8.3K [💥](https://github.com/istio/istio/issues) 469 🪪  Apache License 2.0
+### 12 - [Istio](https://github.com/istio/istio) [⭐️](https://github.com/istio/istio/stargazers) 38.2K [🚀](https://github.com/istio/istio/network/members) 8.3K [💥](https://github.com/istio/istio/issues) 474 🪪  Apache License 2.0
 *Connect, secure, control, and observe services.*
 
 ### 13 - [Portainer](https://github.com/portainer/portainer) [⭐️](https://github.com/portainer/portainer/stargazers) 38.0K [🚀](https://github.com/portainer/portainer/network/members) 2.8K [💥](https://github.com/portainer/portainer/issues) 740 🪪  zlib License
 *Making Docker and Kubernetes management easy.*
 
-### 14 - [Compose](https://github.com/docker/compose) [⭐️](https://github.com/docker/compose/stargazers) 37.8K [🚀](https://github.com/docker/compose/network/members) 5.9K [💥](https://github.com/docker/compose/issues) 97 🪪  Apache License 2.0
+### 14 - [Compose](https://github.com/docker/compose) [⭐️](https://github.com/docker/compose/stargazers) 37.8K [🚀](https://github.com/docker/compose/network/members) 5.7K [💥](https://github.com/docker/compose/issues) 99 🪪  Apache License 2.0
 *Define and run multi-container applications with Docker*
 
-### 15 - [Trivy](https://github.com/aquasecurity/trivy) [⭐️](https://github.com/aquasecurity/trivy/stargazers) 37.0K [🚀](https://github.com/aquasecurity/trivy/network/members) 550 [💥](https://github.com/aquasecurity/trivy/issues) 239 🪪  Apache License 2.0
+### 15 - [Trivy](https://github.com/aquasecurity/trivy) [⭐️](https://github.com/aquasecurity/trivy/stargazers) 37.0K [🚀](https://github.com/aquasecurity/trivy/network/members) 552 [💥](https://github.com/aquasecurity/trivy/issues) 239 🪪  Apache License 2.0
 *Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more*
 
 ### 16 - [K9s](https://github.com/derailed/k9s) [⭐️](https://github.com/derailed/k9s/stargazers) 34.1K [🚀](https://github.com/derailed/k9s/network/members) 2.2K [💥](https://github.com/derailed/k9s/issues) 135 🪪  Apache License 2.0
 *🐶 Kubernetes CLI To Manage Your Clusters In Style!*
 
-### 17 - [K3s](https://github.com/k3s-io/k3s) [⭐️](https://github.com/k3s-io/k3s/stargazers) 33.5K [🚀](https://github.com/k3s-io/k3s/network/members) 2.6K [💥](https://github.com/k3s-io/k3s/issues) 88 🪪  Apache License 2.0
+### 17 - [K3s](https://github.com/k3s-io/k3s) [⭐️](https://github.com/k3s-io/k3s/stargazers) 33.5K [🚀](https://github.com/k3s-io/k3s/network/members) 2.6K [💥](https://github.com/k3s-io/k3s/issues) 84 🪪  Apache License 2.0
 *Lightweight Kubernetes*
 
-### 18 - [Nacos](https://github.com/alibaba/nacos) [⭐️](https://github.com/alibaba/nacos/stargazers) 33.1K [🚀](https://github.com/alibaba/nacos/network/members) 13.2K [💥](https://github.com/alibaba/nacos/issues) 192 🪪  Apache License 2.0
+### 18 - [Nacos](https://github.com/alibaba/nacos) [⭐️](https://github.com/alibaba/nacos/stargazers) 33.2K [🚀](https://github.com/alibaba/nacos/network/members) 13.2K [💥](https://github.com/alibaba/nacos/issues) 193 🪪  Apache License 2.0
 *an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.*
 
 ### 19 - [Podman](https://github.com/podman-container-tools/podman) [⭐️](https://github.com/podman-container-tools/podman/stargazers) 32.3K [🚀](https://github.com/podman-container-tools/podman/network/members) 3.2K [💥](https://github.com/podman-container-tools/podman/issues) 1.0K 🪪  Apache License 2.0
 *Podman: A tool for managing OCI containers and pods.*
 
-### 20 - [Dokku](https://github.com/dokku/dokku) [⭐️](https://github.com/dokku/dokku/stargazers) 32.0K [🚀](https://github.com/dokku/dokku/network/members) 2.0K [💥](https://github.com/dokku/dokku/issues) 26 🪪  MIT License
+### 20 - [Dokku](https://github.com/dokku/dokku) [⭐️](https://github.com/dokku/dokku/stargazers) 32.0K [🚀](https://github.com/dokku/dokku/network/members) 2.0K [💥](https://github.com/dokku/dokku/issues) 25 🪪  MIT License
 *A docker-powered PaaS that helps you build and manage the lifecycle of applications*
 
-### 21 - [Minikube](https://github.com/kubernetes/minikube) [⭐️](https://github.com/kubernetes/minikube/stargazers) 31.9K [🚀](https://github.com/kubernetes/minikube/network/members) 5.2K [💥](https://github.com/kubernetes/minikube/issues) 535 🪪  Apache License 2.0
+### 21 - [Minikube](https://github.com/kubernetes/minikube) [⭐️](https://github.com/kubernetes/minikube/stargazers) 31.9K [🚀](https://github.com/kubernetes/minikube/network/members) 5.2K [💥](https://github.com/kubernetes/minikube/issues) 533 🪪  Apache License 2.0
 *Run Kubernetes locally*
 
-### 22 - [K6](https://github.com/grafana/k6) [⭐️](https://github.com/grafana/k6/stargazers) 31.0K [🚀](https://github.com/grafana/k6/network/members) 1.5K [💥](https://github.com/grafana/k6/issues) 786 🪪  GNU Affero General Public License v3.0
+### 22 - [K6](https://github.com/grafana/k6) [⭐️](https://github.com/grafana/k6/stargazers) 31.1K [🚀](https://github.com/grafana/k6/network/members) 1.5K [💥](https://github.com/grafana/k6/issues) 781 🪪  GNU Affero General Public License v3.0
 *A modern load testing tool, using Go and JavaScript*
 
 ### 23 - [Colima](https://github.com/abiosoft/colima) [⭐️](https://github.com/abiosoft/colima/stargazers) 30.0K [🚀](https://github.com/abiosoft/colima/network/members) 593 [💥](https://github.com/abiosoft/colima/issues) 374 🪪  MIT License
 *Container runtimes on macOS (and Linux) with minimal setup*
 
-### 24 - [Helm](https://github.com/helm/helm) [⭐️](https://github.com/helm/helm/stargazers) 30.0K [🚀](https://github.com/helm/helm/network/members) 7.7K [💥](https://github.com/helm/helm/issues) 428 🪪  Apache License 2.0
+### 24 - [Helm](https://github.com/helm/helm) [⭐️](https://github.com/helm/helm/stargazers) 30.0K [🚀](https://github.com/helm/helm/network/members) 7.7K [💥](https://github.com/helm/helm/issues) 435 🪪  Apache License 2.0
 *The Kubernetes Package Manager*
 
 ### 25 - [Consul](https://github.com/hashicorp/consul) [⭐️](https://github.com/hashicorp/consul/stargazers) 30.0K [🚀](https://github.com/hashicorp/consul/network/members) 4.6K [💥](https://github.com/hashicorp/consul/issues) 1.3K 🪪  Other
 *Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.*
 
-### 26 - [Opentofu](https://github.com/opentofu/opentofu) [⭐️](https://github.com/opentofu/opentofu/stargazers) 29.5K [🚀](https://github.com/opentofu/opentofu/network/members) 1.3K [💥](https://github.com/opentofu/opentofu/issues) 329 🪪  Mozilla Public License 2.0
+### 26 - [Opentofu](https://github.com/opentofu/opentofu) [⭐️](https://github.com/opentofu/opentofu/stargazers) 29.5K [🚀](https://github.com/opentofu/opentofu/network/members) 1.3K [💥](https://github.com/opentofu/opentofu/issues) 330 🪪  Mozilla Public License 2.0
 *OpenTofu lets you declaratively manage your cloud infrastructure.*
 
-### 27 - [Harbor](https://github.com/goharbor/harbor) [⭐️](https://github.com/goharbor/harbor/stargazers) 28.9K [🚀](https://github.com/goharbor/harbor/network/members) 5.2K [💥](https://github.com/goharbor/harbor/issues) 843 🪪  Apache License 2.0
+### 27 - [Harbor](https://github.com/goharbor/harbor) [⭐️](https://github.com/goharbor/harbor/stargazers) 29.0K [🚀](https://github.com/goharbor/harbor/network/members) 5.2K [💥](https://github.com/goharbor/harbor/issues) 843 🪪  Apache License 2.0
 *An open source trusted cloud native registry project that stores, signs, and scans content.*
 
 ### 28 - [Envoy](https://github.com/envoyproxy/envoy) [⭐️](https://github.com/envoyproxy/envoy/stargazers) 28.6K [🚀](https://github.com/envoyproxy/envoy/network/members) 5.5K [💥](https://github.com/envoyproxy/envoy/issues) 1.8K 🪪  Apache License 2.0
 *Cloud-native high-performance edge/middle/service proxy*
 
-### 29 - [Loki](https://github.com/grafana/loki) [⭐️](https://github.com/grafana/loki/stargazers) 28.6K [🚀](https://github.com/grafana/loki/network/members) 4.0K [💥](https://github.com/grafana/loki/issues) 1.7K 🪪  GNU Affero General Public License v3.0
+### 29 - [Loki](https://github.com/grafana/loki) [⭐️](https://github.com/grafana/loki/stargazers) 28.6K [🚀](https://github.com/grafana/loki/network/members) 4.0K [💥](https://github.com/grafana/loki/issues) 1.8K 🪪  GNU Affero General Public License v3.0
 *Like Prometheus, but for logs.*
 
-### 30 - [Infisical](https://github.com/Infisical/infisical) [⭐️](https://github.com/Infisical/infisical/stargazers) 28.3K [🚀](https://github.com/Infisical/infisical/network/members) 2.1K [💥](https://github.com/Infisical/infisical/issues) 665 🪪  Other
+### 30 - [Infisical](https://github.com/Infisical/infisical) [⭐️](https://github.com/Infisical/infisical/stargazers) 28.3K [🚀](https://github.com/Infisical/infisical/network/members) 2.1K [💥](https://github.com/Infisical/infisical/issues) 664 🪪  Other
 *Infisical is the open-source platform for secrets, certificates, and privileged access management.*
 
-### 31 - [Trufflehog](https://github.com/trufflesecurity/trufflehog) [⭐️](https://github.com/trufflesecurity/trufflehog/stargazers) 27.1K [🚀](https://github.com/trufflesecurity/trufflehog/network/members) 2.5K [💥](https://github.com/trufflesecurity/trufflehog/issues) 505 🪪  GNU Affero General Public License v3.0
+### 31 - [Trufflehog](https://github.com/trufflesecurity/trufflehog) [⭐️](https://github.com/trufflesecurity/trufflehog/stargazers) 27.1K [🚀](https://github.com/trufflesecurity/trufflehog/network/members) 2.5K [💥](https://github.com/trufflesecurity/trufflehog/issues) 506 🪪  GNU Affero General Public License v3.0
 *Find, verify, and analyze leaked credentials*
 
 ### 32 - [Faas](https://github.com/openfaas/faas) [⭐️](https://github.com/openfaas/faas/stargazers) 26.2K [🚀](https://github.com/openfaas/faas/network/members) 1.9K [💥](https://github.com/openfaas/faas/issues) 31 🪪  Other
 *OpenFaaS - Serverless Functions Made Simple*
 
-### 33 - [Dapr](https://github.com/dapr/dapr) [⭐️](https://github.com/dapr/dapr/stargazers) 25.9K [🚀](https://github.com/dapr/dapr/network/members) 2.1K [💥](https://github.com/dapr/dapr/issues) 408 🪪  Apache License 2.0
+### 33 - [Dapr](https://github.com/dapr/dapr) [⭐️](https://github.com/dapr/dapr/stargazers) 25.9K [🚀](https://github.com/dapr/dapr/network/members) 2.1K [💥](https://github.com/dapr/dapr/issues) 407 🪪  Apache License 2.0
 *Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.*
 
 ### 34 - [Rancher](https://github.com/rancher/rancher) [⭐️](https://github.com/rancher/rancher/stargazers) 25.7K [🚀](https://github.com/rancher/rancher/network/members) 3.2K [💥](https://github.com/rancher/rancher/issues) 3.3K 🪪  Apache License 2.0
@@ -127,31 +127,31 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 36 - [Cilium](https://github.com/cilium/cilium) [⭐️](https://github.com/cilium/cilium/stargazers) 24.7K [🚀](https://github.com/cilium/cilium/network/members) 3.9K [💥](https://github.com/cilium/cilium/issues) 1.0K 🪪  Apache License 2.0
 *eBPF-based Networking, Security, and Observability*
 
-### 37 - [Dockge](https://github.com/louislam/dockge) [⭐️](https://github.com/louislam/dockge/stargazers) 23.8K [🚀](https://github.com/louislam/dockge/network/members) 791 [💥](https://github.com/louislam/dockge/issues) 162 🪪  MIT License
+### 37 - [Dockge](https://github.com/louislam/dockge) [⭐️](https://github.com/louislam/dockge/stargazers) 23.8K [🚀](https://github.com/louislam/dockge/network/members) 793 [💥](https://github.com/louislam/dockge/issues) 163 🪪  MIT License
 *A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager*
 
-### 38 - [Argo-cd](https://github.com/argoproj/argo-cd) [⭐️](https://github.com/argoproj/argo-cd/stargazers) 23.6K [🚀](https://github.com/argoproj/argo-cd/network/members) 7.5K [💥](https://github.com/argoproj/argo-cd/issues) 4.2K 🪪  Apache License 2.0
+### 38 - [Argo-cd](https://github.com/argoproj/argo-cd) [⭐️](https://github.com/argoproj/argo-cd/stargazers) 23.7K [🚀](https://github.com/argoproj/argo-cd/network/members) 7.5K [💥](https://github.com/argoproj/argo-cd/issues) 4.2K 🪪  Apache License 2.0
 *Declarative Continuous Deployment for Kubernetes*
 
-### 39 - [Slim](https://github.com/slimtoolkit/slim) [⭐️](https://github.com/slimtoolkit/slim/stargazers) 23.3K [🚀](https://github.com/slimtoolkit/slim/network/members) 838 [💥](https://github.com/slimtoolkit/slim/issues) 209 🪪  Apache License 2.0
+### 39 - [Slim](https://github.com/slimtoolkit/slim) [⭐️](https://github.com/slimtoolkit/slim/stargazers) 23.3K [🚀](https://github.com/slimtoolkit/slim/network/members) 839 [💥](https://github.com/slimtoolkit/slim/issues) 209 🪪  Apache License 2.0
 *Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)*
 
 ### 40 - [Lens](https://github.com/lensapp/lens) [⭐️](https://github.com/lensapp/lens/stargazers) 23.1K [🚀](https://github.com/lensapp/lens/network/members) 1.4K [💥](https://github.com/lensapp/lens/issues) 1.1K 🪪  MIT License 💀 Closed source (use freelensapp/freelens)
 *Lens - The way the world runs Kubernetes*
 
-### 41 - [Jaeger](https://github.com/jaegertracing/jaeger) [⭐️](https://github.com/jaegertracing/jaeger/stargazers) 23.0K [🚀](https://github.com/jaegertracing/jaeger/network/members) 3.0K [💥](https://github.com/jaegertracing/jaeger/issues) 485 🪪  Apache License 2.0
+### 41 - [Jaeger](https://github.com/jaegertracing/jaeger) [⭐️](https://github.com/jaegertracing/jaeger/stargazers) 23.0K [🚀](https://github.com/jaegertracing/jaeger/network/members) 3.0K [💥](https://github.com/jaegertracing/jaeger/issues) 488 🪪  Apache License 2.0
 *CNCF Jaeger, a Distributed Tracing Platform*
 
-### 42 - [Sops](https://github.com/getsops/sops) [⭐️](https://github.com/getsops/sops/stargazers) 22.5K [🚀](https://github.com/getsops/sops/network/members) 1.0K [💥](https://github.com/getsops/sops/issues) 435 🪪  Mozilla Public License 2.0
+### 42 - [Sops](https://github.com/getsops/sops) [⭐️](https://github.com/getsops/sops/stargazers) 22.5K [🚀](https://github.com/getsops/sops/network/members) 1.0K [💥](https://github.com/getsops/sops/issues) 432 🪪  Mozilla Public License 2.0
 *Simple and flexible tool for managing secrets*
 
 ### 43 - [Vitess](https://github.com/vitessio/vitess) [⭐️](https://github.com/vitessio/vitess/stargazers) 21.1K [🚀](https://github.com/vitessio/vitess/network/members) 2.3K [💥](https://github.com/vitessio/vitess/issues) 1.0K 🪪  Apache License 2.0
 *Vitess is a database clustering system for horizontal scaling of MySQL.*
 
-### 44 - [Containerd](https://github.com/containerd/containerd) [⭐️](https://github.com/containerd/containerd/stargazers) 21.0K [🚀](https://github.com/containerd/containerd/network/members) 4.0K [💥](https://github.com/containerd/containerd/issues) 622 🪪  Apache License 2.0
+### 44 - [Containerd](https://github.com/containerd/containerd) [⭐️](https://github.com/containerd/containerd/stargazers) 21.0K [🚀](https://github.com/containerd/containerd/network/members) 4.0K [💥](https://github.com/containerd/containerd/issues) 617 🪪  Apache License 2.0
 *An open and reliable container runtime*
 
-### 45 - [Teleport](https://github.com/gravitational/teleport) [⭐️](https://github.com/gravitational/teleport/stargazers) 20.6K [🚀](https://github.com/gravitational/teleport/network/members) 2.1K [💥](https://github.com/gravitational/teleport/issues) 3.4K 🪪  GNU Affero General Public License v3.0
+### 45 - [Teleport](https://github.com/gravitational/teleport) [⭐️](https://github.com/gravitational/teleport/stargazers) 20.6K [🚀](https://github.com/gravitational/teleport/network/members) 2.1K [💥](https://github.com/gravitational/teleport/issues) 3.5K 🪪  GNU Affero General Public License v3.0
 *The easiest, and most secure way to access and protect all of your infrastructure.*
 
 ### 46 - [Kubectx](https://github.com/ahmetb/kubectx) [⭐️](https://github.com/ahmetb/kubectx/stargazers) 19.9K [🚀](https://github.com/ahmetb/kubectx/network/members) 1.3K [💥](https://github.com/ahmetb/kubectx/issues) 38 🪪  Apache License 2.0
@@ -163,28 +163,28 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 48 - [Cadvisor](https://github.com/google/cadvisor) [⭐️](https://github.com/google/cadvisor/stargazers) 19.3K [🚀](https://github.com/google/cadvisor/network/members) 2.4K [💥](https://github.com/google/cadvisor/issues) 64 🪪  Other
 *Analyzes resource usage and performance characteristics of running containers.*
 
-### 49 - [Gvisor](https://github.com/google/gvisor) [⭐️](https://github.com/google/gvisor/stargazers) 18.8K [🚀](https://github.com/google/gvisor/network/members) 1.7K [💥](https://github.com/google/gvisor/issues) 722 🪪  Apache License 2.0
+### 49 - [Gvisor](https://github.com/google/gvisor) [⭐️](https://github.com/google/gvisor/stargazers) 18.8K [🚀](https://github.com/google/gvisor/network/members) 1.7K [💥](https://github.com/google/gvisor/issues) 728 🪪  Apache License 2.0
 *Application Kernel for Containers*
 
-### 50 - [Kubespray](https://github.com/kubernetes-sigs/kubespray) [⭐️](https://github.com/kubernetes-sigs/kubespray/stargazers) 18.6K [🚀](https://github.com/kubernetes-sigs/kubespray/network/members) 6.9K [💥](https://github.com/kubernetes-sigs/kubespray/issues) 200 🪪  Apache License 2.0
+### 50 - [Kubespray](https://github.com/kubernetes-sigs/kubespray) [⭐️](https://github.com/kubernetes-sigs/kubespray/stargazers) 18.6K [🚀](https://github.com/kubernetes-sigs/kubespray/network/members) 6.9K [💥](https://github.com/kubernetes-sigs/kubespray/issues) 202 🪪  Apache License 2.0
 *Deploy a Production Ready Kubernetes Cluster*
 
-### 51 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) [⭐️](https://github.com/VictoriaMetrics/VictoriaMetrics/stargazers) 17.3K [🚀](https://github.com/VictoriaMetrics/VictoriaMetrics/network/members) 1.6K [💥](https://github.com/VictoriaMetrics/VictoriaMetrics/issues) 736 🪪  Apache License 2.0
+### 51 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) [⭐️](https://github.com/VictoriaMetrics/VictoriaMetrics/stargazers) 17.3K [🚀](https://github.com/VictoriaMetrics/VictoriaMetrics/network/members) 1.7K [💥](https://github.com/VictoriaMetrics/VictoriaMetrics/issues) 736 🪪  Apache License 2.0
 *VictoriaMetrics: fast, cost-effective monitoring solution and time series database*
 
 ### 52 - [Kubesphere](https://github.com/kubesphere/kubesphere) [⭐️](https://github.com/kubesphere/kubesphere/stargazers) 17.0K [🚀](https://github.com/kubesphere/kubesphere/network/members) 2.7K [💥](https://github.com/kubesphere/kubesphere/issues) 352 🪪  Other
 *The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️*
 
-### 53 - [Apisix](https://github.com/apache/apisix) [⭐️](https://github.com/apache/apisix/stargazers) 16.8K [🚀](https://github.com/apache/apisix/network/members) 2.8K [💥](https://github.com/apache/apisix/issues) 226 🪪  Apache License 2.0
+### 53 - [Apisix](https://github.com/apache/apisix) [⭐️](https://github.com/apache/apisix/stargazers) 16.9K [🚀](https://github.com/apache/apisix/network/members) 2.8K [💥](https://github.com/apache/apisix/issues) 230 🪪  Apache License 2.0
 *The Cloud-Native API Gateway and AI Gateway*
 
 ### 54 - [Argo-workflows](https://github.com/argoproj/argo-workflows) [⭐️](https://github.com/argoproj/argo-workflows/stargazers) 16.8K [🚀](https://github.com/argoproj/argo-workflows/network/members) 3.5K [💥](https://github.com/argoproj/argo-workflows/issues) 1.4K 🪪  Apache License 2.0
 *Workflow Engine for Kubernetes*
 
-### 55 - [Kops](https://github.com/kubernetes/kops) [⭐️](https://github.com/kubernetes/kops/stargazers) 16.6K [🚀](https://github.com/kubernetes/kops/network/members) 4.7K [💥](https://github.com/kubernetes/kops/issues) 147 🪪  Apache License 2.0
+### 55 - [Kops](https://github.com/kubernetes/kops) [⭐️](https://github.com/kubernetes/kops/stargazers) 16.6K [🚀](https://github.com/kubernetes/kops/network/members) 4.7K [💥](https://github.com/kubernetes/kops/issues) 148 🪪  Apache License 2.0
 *Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management*
 
-### 56 - [Skaffold](https://github.com/GoogleContainerTools/skaffold) [⭐️](https://github.com/GoogleContainerTools/skaffold/stargazers) 15.8K [🚀](https://github.com/GoogleContainerTools/skaffold/network/members) 1.7K [💥](https://github.com/GoogleContainerTools/skaffold/issues) 898 🪪  Apache License 2.0
+### 56 - [Skaffold](https://github.com/GoogleContainerTools/skaffold) [⭐️](https://github.com/GoogleContainerTools/skaffold/stargazers) 15.8K [🚀](https://github.com/GoogleContainerTools/skaffold/network/members) 1.7K [💥](https://github.com/GoogleContainerTools/skaffold/issues) 900 🪪  Apache License 2.0
 *Easy and Repeatable Kubernetes Development*
 
 ### 57 - [Kubeflow](https://github.com/kubeflow/kubeflow) [⭐️](https://github.com/kubeflow/kubeflow/stargazers) 15.7K [🚀](https://github.com/kubeflow/kubeflow/network/members) 2.6K [💥](https://github.com/kubeflow/kubeflow/issues) 0 🪪  Apache License 2.0
@@ -202,28 +202,28 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 61 - [Kind](https://github.com/kubernetes-sigs/kind) [⭐️](https://github.com/kubernetes-sigs/kind/stargazers) 15.3K [🚀](https://github.com/kubernetes-sigs/kind/network/members) 1.7K [💥](https://github.com/kubernetes-sigs/kind/issues) 233 🪪  Apache License 2.0
 *Kubernetes IN Docker - local clusters for testing Kubernetes*
 
-### 62 - [Jib](https://github.com/GoogleContainerTools/jib) [⭐️](https://github.com/GoogleContainerTools/jib/stargazers) 14.4K [🚀](https://github.com/GoogleContainerTools/jib/network/members) 1.4K [💥](https://github.com/GoogleContainerTools/jib/issues) 250 🪪  Apache License 2.0
+### 62 - [Jib](https://github.com/GoogleContainerTools/jib) [⭐️](https://github.com/GoogleContainerTools/jib/stargazers) 14.4K [🚀](https://github.com/GoogleContainerTools/jib/network/members) 1.4K [💥](https://github.com/GoogleContainerTools/jib/issues) 251 🪪  Apache License 2.0
 *🏗 Build container images for your Java applications.*
 
-### 63 - [Coredns](https://github.com/coredns/coredns) [⭐️](https://github.com/coredns/coredns/stargazers) 14.1K [🚀](https://github.com/coredns/coredns/network/members) 2.4K [💥](https://github.com/coredns/coredns/issues) 297 🪪  Apache License 2.0
+### 63 - [Coredns](https://github.com/coredns/coredns) [⭐️](https://github.com/coredns/coredns/stargazers) 14.1K [🚀](https://github.com/coredns/coredns/network/members) 2.4K [💥](https://github.com/coredns/coredns/issues) 298 🪪  Apache License 2.0
 *CoreDNS is a DNS server that chains plugins*
 
-### 64 - [Thanos](https://github.com/thanos-io/thanos) [⭐️](https://github.com/thanos-io/thanos/stargazers) 14.1K [🚀](https://github.com/thanos-io/thanos/network/members) 2.3K [💥](https://github.com/thanos-io/thanos/issues) 875 🪪  Apache License 2.0
+### 64 - [Thanos](https://github.com/thanos-io/thanos) [⭐️](https://github.com/thanos-io/thanos/stargazers) 14.1K [🚀](https://github.com/thanos-io/thanos/network/members) 2.3K [💥](https://github.com/thanos-io/thanos/issues) 874 🪪  Apache License 2.0
 *Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.*
 
-### 65 - [Cert-manager](https://github.com/cert-manager/cert-manager) [⭐️](https://github.com/cert-manager/cert-manager/stargazers) 13.9K [🚀](https://github.com/cert-manager/cert-manager/network/members) 2.4K [💥](https://github.com/cert-manager/cert-manager/issues) 240 🪪  Apache License 2.0
+### 65 - [Cert-manager](https://github.com/cert-manager/cert-manager) [⭐️](https://github.com/cert-manager/cert-manager/stargazers) 13.9K [🚀](https://github.com/cert-manager/cert-manager/network/members) 2.4K [💥](https://github.com/cert-manager/cert-manager/issues) 239 🪪  Apache License 2.0
 *Automatically provision and manage TLS certificates in Kubernetes*
 
-### 66 - [Coder](https://github.com/coder/coder) [⭐️](https://github.com/coder/coder/stargazers) 13.9K [🚀](https://github.com/coder/coder/network/members) 1.3K [💥](https://github.com/coder/coder/issues) 938 🪪  GNU Affero General Public License v3.0
+### 66 - [Coder](https://github.com/coder/coder) [⭐️](https://github.com/coder/coder/stargazers) 13.9K [🚀](https://github.com/coder/coder/network/members) 1.3K [💥](https://github.com/coder/coder/issues) 934 🪪  GNU Affero General Public License v3.0
 *Secure environments for developers and their agents*
 
-### 67 - [Node_exporter](https://github.com/prometheus/node_exporter) [⭐️](https://github.com/prometheus/node_exporter/stargazers) 13.6K [🚀](https://github.com/prometheus/node_exporter/network/members) 2.6K [💥](https://github.com/prometheus/node_exporter/issues) 299 🪪  Apache License 2.0
+### 67 - [Node_exporter](https://github.com/prometheus/node_exporter) [⭐️](https://github.com/prometheus/node_exporter/stargazers) 13.6K [🚀](https://github.com/prometheus/node_exporter/network/members) 2.6K [💥](https://github.com/prometheus/node_exporter/issues) 302 🪪  Apache License 2.0
 *Exporter for machine metrics*
 
-### 68 - [Rook](https://github.com/rook/rook) [⭐️](https://github.com/rook/rook/stargazers) 13.5K [🚀](https://github.com/rook/rook/network/members) 2.8K [💥](https://github.com/rook/rook/issues) 124 🪪  Apache License 2.0
+### 68 - [Rook](https://github.com/rook/rook) [⭐️](https://github.com/rook/rook/stargazers) 13.5K [🚀](https://github.com/rook/rook/network/members) 2.8K [💥](https://github.com/rook/rook/issues) 129 🪪  Apache License 2.0
 *Storage Orchestration for Kubernetes*
 
-### 69 - [Infracost](https://github.com/infracost/infracost) [⭐️](https://github.com/infracost/infracost/stargazers) 12.4K [🚀](https://github.com/infracost/infracost/network/members) 679 [💥](https://github.com/infracost/infracost/issues) 25 🪪  Apache License 2.0
+### 69 - [Infracost](https://github.com/infracost/infracost) [⭐️](https://github.com/infracost/infracost/stargazers) 12.4K [🚀](https://github.com/infracost/infracost/network/members) 679 [💥](https://github.com/infracost/infracost/issues) 23 🪪  Apache License 2.0
 *Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!*
 
 ### 70 - [Hadolint](https://github.com/hadolint/hadolint) [⭐️](https://github.com/hadolint/hadolint/stargazers) 12.3K [🚀](https://github.com/hadolint/hadolint/network/members) 498 [💥](https://github.com/hadolint/hadolint/issues) 226 🪪  GNU General Public License v3.0
@@ -232,19 +232,19 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 71 - [Kustomize](https://github.com/kubernetes-sigs/kustomize) [⭐️](https://github.com/kubernetes-sigs/kustomize/stargazers) 12.1K [🚀](https://github.com/kubernetes-sigs/kustomize/network/members) 2.4K [💥](https://github.com/kubernetes-sigs/kustomize/issues) 175 🪪  Apache License 2.0
 *Customization of kubernetes YAML configurations*
 
-### 72 - [Opa](https://github.com/open-policy-agent/opa) [⭐️](https://github.com/open-policy-agent/opa/stargazers) 12.0K [🚀](https://github.com/open-policy-agent/opa/network/members) 1.6K [💥](https://github.com/open-policy-agent/opa/issues) 357 🪪  Apache License 2.0
+### 72 - [Opa](https://github.com/open-policy-agent/opa) [⭐️](https://github.com/open-policy-agent/opa/stargazers) 12.0K [🚀](https://github.com/open-policy-agent/opa/network/members) 1.6K [💥](https://github.com/open-policy-agent/opa/issues) 358 🪪  Apache License 2.0
 *Open Policy Agent (OPA) is an open source, general-purpose policy engine.*
 
 ### 73 - [Kubeshark](https://github.com/kubeshark/kubeshark) [⭐️](https://github.com/kubeshark/kubeshark/stargazers) 12.0K [🚀](https://github.com/kubeshark/kubeshark/network/members) 542 [💥](https://github.com/kubeshark/kubeshark/issues) 141 🪪  Apache License 2.0
 *eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.*
 
-### 74 - [Crossplane](https://github.com/crossplane/crossplane) [⭐️](https://github.com/crossplane/crossplane/stargazers) 11.8K [🚀](https://github.com/crossplane/crossplane/network/members) 1.2K [💥](https://github.com/crossplane/crossplane/issues) 180 🪪  Apache License 2.0
+### 74 - [Crossplane](https://github.com/crossplane/crossplane) [⭐️](https://github.com/crossplane/crossplane/stargazers) 11.8K [🚀](https://github.com/crossplane/crossplane/network/members) 1.2K [💥](https://github.com/crossplane/crossplane/issues) 179 🪪  Apache License 2.0
 *The Cloud Native Control Plane*
 
-### 75 - [Kubescape](https://github.com/kubescape/kubescape) [⭐️](https://github.com/kubescape/kubescape/stargazers) 11.5K [🚀](https://github.com/kubescape/kubescape/network/members) 957 [💥](https://github.com/kubescape/kubescape/issues) 62 🪪  Apache License 2.0
+### 75 - [Kubescape](https://github.com/kubescape/kubescape) [⭐️](https://github.com/kubescape/kubescape/stargazers) 11.5K [🚀](https://github.com/kubescape/kubescape/network/members) 958 [💥](https://github.com/kubescape/kubescape/issues) 68 🪪  Apache License 2.0
 *Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.*
 
-### 76 - [Linkerd2](https://github.com/linkerd/linkerd2) [⭐️](https://github.com/linkerd/linkerd2/stargazers) 11.4K [🚀](https://github.com/linkerd/linkerd2/network/members) 1.3K [💥](https://github.com/linkerd/linkerd2/issues) 211 🪪  Apache License 2.0
+### 76 - [Linkerd2](https://github.com/linkerd/linkerd2) [⭐️](https://github.com/linkerd/linkerd2/stargazers) 11.4K [🚀](https://github.com/linkerd/linkerd2/network/members) 1.3K [💥](https://github.com/linkerd/linkerd2/issues) 205 🪪  Apache License 2.0
 *Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.*
 
 ### 77 - [Meshery](https://github.com/meshery/meshery) [⭐️](https://github.com/meshery/meshery/stargazers) 11.3K [🚀](https://github.com/meshery/meshery/network/members) 3.5K [💥](https://github.com/meshery/meshery/issues) 1.6K 🪪  Apache License 2.0
@@ -256,67 +256,67 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 79 - [Skopeo](https://github.com/podman-container-tools/skopeo) [⭐️](https://github.com/podman-container-tools/skopeo/stargazers) 11.0K [🚀](https://github.com/podman-container-tools/skopeo/network/members) 941 [💥](https://github.com/podman-container-tools/skopeo/issues) 86 🪪  Apache License 2.0
 *Work with remote images registries - retrieving information, images, signing content*
 
-### 80 - [Dex](https://github.com/dexidp/dex) [⭐️](https://github.com/dexidp/dex/stargazers) 10.9K [🚀](https://github.com/dexidp/dex/network/members) 1.9K [💥](https://github.com/dexidp/dex/issues) 514 🪪  Apache License 2.0
+### 80 - [Dex](https://github.com/dexidp/dex) [⭐️](https://github.com/dexidp/dex/stargazers) 10.9K [🚀](https://github.com/dexidp/dex/network/members) 1.9K [💥](https://github.com/dexidp/dex/issues) 513 🪪  Apache License 2.0
 *OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors*
 
 ### 81 - [Netshoot](https://github.com/nicolaka/netshoot) [⭐️](https://github.com/nicolaka/netshoot/stargazers) 10.8K [🚀](https://github.com/nicolaka/netshoot/network/members) 1.0K [💥](https://github.com/nicolaka/netshoot/issues) 41 🪪  Apache License 2.0
 *a Docker + Kubernetes network trouble-shooting swiss-army container*
 
-### 82 - [Talos](https://github.com/siderolabs/talos) [⭐️](https://github.com/siderolabs/talos/stargazers) 10.8K [🚀](https://github.com/siderolabs/talos/network/members) 860 [💥](https://github.com/siderolabs/talos/issues) 201 🪪  Mozilla Public License 2.0
+### 82 - [Talos](https://github.com/siderolabs/talos) [⭐️](https://github.com/siderolabs/talos/stargazers) 10.8K [🚀](https://github.com/siderolabs/talos/network/members) 861 [💥](https://github.com/siderolabs/talos/issues) 219 🪪  Mozilla Public License 2.0
 *Talos Linux is a modern Linux distribution built for Kubernetes.*
 
-### 83 - [Distribution](https://github.com/distribution/distribution) [⭐️](https://github.com/distribution/distribution/stargazers) 10.5K [🚀](https://github.com/distribution/distribution/network/members) 2.7K [💥](https://github.com/distribution/distribution/issues) 506 🪪  Apache License 2.0
+### 83 - [Distribution](https://github.com/distribution/distribution) [⭐️](https://github.com/distribution/distribution/stargazers) 10.5K [🚀](https://github.com/distribution/distribution/network/members) 2.7K [💥](https://github.com/distribution/distribution/issues) 503 🪪  Apache License 2.0
 *The toolkit to pack, ship, store, and deliver container content*
 
-### 84 - [Keda](https://github.com/kedacore/keda) [⭐️](https://github.com/kedacore/keda/stargazers) 10.3K [🚀](https://github.com/kedacore/keda/network/members) 1.4K [💥](https://github.com/kedacore/keda/issues) 251 🪪  Apache License 2.0
+### 84 - [Keda](https://github.com/kedacore/keda) [⭐️](https://github.com/kedacore/keda/stargazers) 10.3K [🚀](https://github.com/kedacore/keda/network/members) 1.4K [💥](https://github.com/kedacore/keda/issues) 254 🪪  Apache License 2.0
 *KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes*
 
-### 85 - [Reloader](https://github.com/stakater/Reloader) [⭐️](https://github.com/stakater/Reloader/stargazers) 10.2K [🚀](https://github.com/stakater/Reloader/network/members) 657 [💥](https://github.com/stakater/Reloader/issues) 164 🪪  Apache License 2.0
+### 85 - [Reloader](https://github.com/stakater/Reloader) [⭐️](https://github.com/stakater/Reloader/stargazers) 10.2K [🚀](https://github.com/stakater/Reloader/network/members) 657 [💥](https://github.com/stakater/Reloader/issues) 165 🪪  Apache License 2.0
 *A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!*
 
-### 86 - [Velero](https://github.com/velero-io/velero) [⭐️](https://github.com/velero-io/velero/stargazers) 10.1K [🚀](https://github.com/velero-io/velero/network/members) 1.5K [💥](https://github.com/velero-io/velero/issues) 768 🪪  Apache License 2.0
+### 86 - [Velero](https://github.com/velero-io/velero) [⭐️](https://github.com/velero-io/velero/stargazers) 10.1K [🚀](https://github.com/velero-io/velero/network/members) 1.5K [💥](https://github.com/velero-io/velero/issues) 760 🪪  Apache License 2.0
 *Backup and migrate Kubernetes applications and their persistent volumes*
 
-### 87 - [Prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) [⭐️](https://github.com/prometheus-operator/prometheus-operator/stargazers) 9.9K [🚀](https://github.com/prometheus-operator/prometheus-operator/network/members) 3.8K [💥](https://github.com/prometheus-operator/prometheus-operator/issues) 294 🪪  Apache License 2.0
+### 87 - [Prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) [⭐️](https://github.com/prometheus-operator/prometheus-operator/stargazers) 9.9K [🚀](https://github.com/prometheus-operator/prometheus-operator/network/members) 3.8K [💥](https://github.com/prometheus-operator/prometheus-operator/issues) 297 🪪  Apache License 2.0
 *Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes*
 
 ### 88 - [Tilt](https://github.com/tilt-dev/tilt) [⭐️](https://github.com/tilt-dev/tilt/stargazers) 9.9K [🚀](https://github.com/tilt-dev/tilt/network/members) 408 [💥](https://github.com/tilt-dev/tilt/issues) 507 🪪  Apache License 2.0
 *Define your dev environment as code. For microservice apps on Kubernetes.*
 
-### 89 - [Openebs](https://github.com/openebs/openebs) [⭐️](https://github.com/openebs/openebs/stargazers) 9.7K [🚀](https://github.com/openebs/openebs/network/members) 986 [💥](https://github.com/openebs/openebs/issues) 36 🪪  Apache License 2.0
+### 89 - [Openebs](https://github.com/openebs/openebs) [⭐️](https://github.com/openebs/openebs/stargazers) 9.7K [🚀](https://github.com/openebs/openebs/network/members) 986 [💥](https://github.com/openebs/openebs/issues) 35 🪪  Apache License 2.0
 *A popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.*
 
-### 90 - [Microk8s](https://github.com/canonical/microk8s) [⭐️](https://github.com/canonical/microk8s/stargazers) 9.3K [🚀](https://github.com/canonical/microk8s/network/members) 830 [💥](https://github.com/canonical/microk8s/issues) 173 🪪  Apache License 2.0
+### 90 - [Microk8s](https://github.com/canonical/microk8s) [⭐️](https://github.com/canonical/microk8s/stargazers) 9.3K [🚀](https://github.com/canonical/microk8s/network/members) 830 [💥](https://github.com/canonical/microk8s/issues) 172 🪪  Apache License 2.0
 *MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.*
 
-### 91 - [Kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) [⭐️](https://github.com/kubernetes-sigs/kubebuilder/stargazers) 9.2K [🚀](https://github.com/kubernetes-sigs/kubebuilder/network/members) 1.6K [💥](https://github.com/kubernetes-sigs/kubebuilder/issues) 57 🪪  Apache License 2.0
+### 91 - [Kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) [⭐️](https://github.com/kubernetes-sigs/kubebuilder/stargazers) 9.2K [🚀](https://github.com/kubernetes-sigs/kubebuilder/network/members) 1.6K [💥](https://github.com/kubernetes-sigs/kubebuilder/issues) 55 🪪  Apache License 2.0
 *Kubebuilder - SDK for building Kubernetes APIs using CRDs*
 
-### 92 - [Sealed-secrets](https://github.com/bitnami/sealed-secrets) [⭐️](https://github.com/bitnami/sealed-secrets/stargazers) 9.2K [🚀](https://github.com/bitnami/sealed-secrets/network/members) 771 [💥](https://github.com/bitnami/sealed-secrets/issues) 70 🪪  Apache License 2.0
+### 92 - [Sealed-secrets](https://github.com/bitnami/sealed-secrets) [⭐️](https://github.com/bitnami/sealed-secrets/stargazers) 9.2K [🚀](https://github.com/bitnami/sealed-secrets/network/members) 770 [💥](https://github.com/bitnami/sealed-secrets/issues) 70 🪪  Apache License 2.0
 *A Kubernetes controller and tool for one-way encrypted Secrets*
 
-### 93 - [Falco](https://github.com/falcosecurity/falco) [⭐️](https://github.com/falcosecurity/falco/stargazers) 9.1K [🚀](https://github.com/falcosecurity/falco/network/members) 1.0K [💥](https://github.com/falcosecurity/falco/issues) 70 🪪  Apache License 2.0
+### 93 - [Falco](https://github.com/falcosecurity/falco) [⭐️](https://github.com/falcosecurity/falco/stargazers) 9.1K [🚀](https://github.com/falcosecurity/falco/network/members) 1.0K [💥](https://github.com/falcosecurity/falco/issues) 69 🪪  Apache License 2.0
 *Cloud Native Runtime Security*
 
-### 94 - [Cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) [⭐️](https://github.com/cloudnative-pg/cloudnative-pg/stargazers) 9.0K [🚀](https://github.com/cloudnative-pg/cloudnative-pg/network/members) 727 [💥](https://github.com/cloudnative-pg/cloudnative-pg/issues) 413 🪪  Apache License 2.0
+### 94 - [Cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) [⭐️](https://github.com/cloudnative-pg/cloudnative-pg/stargazers) 9.0K [🚀](https://github.com/cloudnative-pg/cloudnative-pg/network/members) 728 [💥](https://github.com/cloudnative-pg/cloudnative-pg/issues) 414 🪪  Apache License 2.0
 *CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance*
 
-### 95 - [Pipeline](https://github.com/tektoncd/pipeline) [⭐️](https://github.com/tektoncd/pipeline/stargazers) 9.0K [🚀](https://github.com/tektoncd/pipeline/network/members) 1.9K [💥](https://github.com/tektoncd/pipeline/issues) 540 🪪  Apache License 2.0
+### 95 - [Pipeline](https://github.com/tektoncd/pipeline) [⭐️](https://github.com/tektoncd/pipeline/stargazers) 9.0K [🚀](https://github.com/tektoncd/pipeline/network/members) 1.9K [💥](https://github.com/tektoncd/pipeline/issues) 545 🪪  Apache License 2.0
 *A cloud-native Pipeline resource.*
 
 ### 96 - [Aws-vault](https://github.com/99designs/aws-vault) [⭐️](https://github.com/99designs/aws-vault/stargazers) 8.9K [🚀](https://github.com/99designs/aws-vault/network/members) 834 [💥](https://github.com/99designs/aws-vault/issues) 1 🪪  MIT License
 *A vault for securely storing and accessing AWS credentials in development environments*
 
-### 97 - [Buildah](https://github.com/podman-container-tools/buildah) [⭐️](https://github.com/podman-container-tools/buildah/stargazers) 8.9K [🚀](https://github.com/podman-container-tools/buildah/network/members) 916 [💥](https://github.com/podman-container-tools/buildah/issues) 259 🪪  Apache License 2.0
+### 97 - [Buildah](https://github.com/podman-container-tools/buildah) [⭐️](https://github.com/podman-container-tools/buildah/stargazers) 8.9K [🚀](https://github.com/podman-container-tools/buildah/network/members) 916 [💥](https://github.com/podman-container-tools/buildah/issues) 257 🪪  Apache License 2.0
 *A tool that facilitates building OCI images.*
 
-### 98 - [Autoscaler](https://github.com/kubernetes/autoscaler) [⭐️](https://github.com/kubernetes/autoscaler/stargazers) 8.9K [🚀](https://github.com/kubernetes/autoscaler/network/members) 4.4K [💥](https://github.com/kubernetes/autoscaler/issues) 290 🪪  Apache License 2.0
+### 98 - [Autoscaler](https://github.com/kubernetes/autoscaler) [⭐️](https://github.com/kubernetes/autoscaler/stargazers) 8.9K [🚀](https://github.com/kubernetes/autoscaler/network/members) 4.4K [💥](https://github.com/kubernetes/autoscaler/issues) 291 🪪  Apache License 2.0
 *Autoscaling components for Kubernetes*
 
 ### 99 - [Checkov](https://github.com/bridgecrewio/checkov) [⭐️](https://github.com/bridgecrewio/checkov/stargazers) 8.8K [🚀](https://github.com/bridgecrewio/checkov/network/members) 1.3K [💥](https://github.com/bridgecrewio/checkov/issues) 145 🪪  Apache License 2.0
 *Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.*
 
-### 100 - [Fission](https://github.com/fission/fission) [⭐️](https://github.com/fission/fission/stargazers) 8.8K [🚀](https://github.com/fission/fission/network/members) 789 [💥](https://github.com/fission/fission/issues) 75 🪪  Apache License 2.0
+### 100 - [Fission](https://github.com/fission/fission) [⭐️](https://github.com/fission/fission/stargazers) 8.8K [🚀](https://github.com/fission/fission/network/members) 789 [💥](https://github.com/fission/fission/issues) 76 🪪  Apache License 2.0
 *Fast and Simple Serverless Functions for Kubernetes*
 
 ### 101 - [Alertmanager](https://github.com/prometheus/alertmanager) [⭐️](https://github.com/prometheus/alertmanager/stargazers) 8.5K [🚀](https://github.com/prometheus/alertmanager/network/members) 2.4K [💥](https://github.com/prometheus/alertmanager/issues) 434 🪪  Apache License 2.0
@@ -328,11 +328,11 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 103 - [Kata-containers](https://github.com/kata-containers/kata-containers) [⭐️](https://github.com/kata-containers/kata-containers/stargazers) 8.3K [🚀](https://github.com/kata-containers/kata-containers/network/members) 1.4K [💥](https://github.com/kata-containers/kata-containers/issues) 1.6K 🪪  Apache License 2.0
 *Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/*
 
-### 104 - [Flux2](https://github.com/fluxcd/flux2) [⭐️](https://github.com/fluxcd/flux2/stargazers) 8.2K [🚀](https://github.com/fluxcd/flux2/network/members) 775 [💥](https://github.com/fluxcd/flux2/issues) 239 🪪  Apache License 2.0
-*Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.*
-
-### 105 - [Metallb](https://github.com/metallb/metallb) [⭐️](https://github.com/metallb/metallb/stargazers) 8.2K [🚀](https://github.com/metallb/metallb/network/members) 1.0K [💥](https://github.com/metallb/metallb/issues) 103 🪪  Apache License 2.0
+### 104 - [Metallb](https://github.com/metallb/metallb) [⭐️](https://github.com/metallb/metallb/stargazers) 8.2K [🚀](https://github.com/metallb/metallb/network/members) 1.0K [💥](https://github.com/metallb/metallb/issues) 103 🪪  Apache License 2.0
 *A network load-balancer implementation for Kubernetes using standard routing protocols*
+
+### 105 - [Flux2](https://github.com/fluxcd/flux2) [⭐️](https://github.com/fluxcd/flux2/stargazers) 8.2K [🚀](https://github.com/fluxcd/flux2/network/members) 775 [💥](https://github.com/fluxcd/flux2/issues) 239 🪪  Apache License 2.0
+*Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.*
 
 ### 106 - [Kube-bench](https://github.com/aquasecurity/kube-bench) [⭐️](https://github.com/aquasecurity/kube-bench/stargazers) 8.1K [🚀](https://github.com/aquasecurity/kube-bench/network/members) 1.3K [💥](https://github.com/aquasecurity/kube-bench/issues) 96 🪪  Apache License 2.0
 *Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark*
@@ -340,64 +340,64 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 107 - [Spec](https://github.com/score-spec/spec) [⭐️](https://github.com/score-spec/spec/stargazers) 8.0K [🚀](https://github.com/score-spec/spec/network/members) 2.1K [💥](https://github.com/score-spec/spec/issues) 11 🪪  Apache License 2.0
 *The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments.*
 
-### 108 - [Kyverno](https://github.com/kyverno/kyverno) [⭐️](https://github.com/kyverno/kyverno/stargazers) 7.9K [🚀](https://github.com/kyverno/kyverno/network/members) 1.4K [💥](https://github.com/kyverno/kyverno/issues) 503 🪪  Apache License 2.0
+### 108 - [Kyverno](https://github.com/kyverno/kyverno) [⭐️](https://github.com/kyverno/kyverno/stargazers) 7.9K [🚀](https://github.com/kyverno/kyverno/network/members) 1.4K [💥](https://github.com/kyverno/kyverno/issues) 492 🪪  Apache License 2.0
 *Unified Policy as Code*
 
 ### 109 - [Steampipe](https://github.com/turbot/steampipe) [⭐️](https://github.com/turbot/steampipe/stargazers) 7.8K [🚀](https://github.com/turbot/steampipe/network/members) 339 [💥](https://github.com/turbot/steampipe/issues) 18 🪪  GNU Affero General Public License v3.0
 *Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.*
 
-### 110 - [Longhorn](https://github.com/longhorn/longhorn) [⭐️](https://github.com/longhorn/longhorn/stargazers) 7.8K [🚀](https://github.com/longhorn/longhorn/network/members) 720 [💥](https://github.com/longhorn/longhorn/issues) 1.8K 🪪  Apache License 2.0
+### 110 - [Longhorn](https://github.com/longhorn/longhorn) [⭐️](https://github.com/longhorn/longhorn/stargazers) 7.8K [🚀](https://github.com/longhorn/longhorn/network/members) 721 [💥](https://github.com/longhorn/longhorn/issues) 1.7K 🪪  Apache License 2.0
 *Cloud-Native distributed storage built on and for Kubernetes*
 
 ### 111 - [Chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) [⭐️](https://github.com/chaos-mesh/chaos-mesh/stargazers) 7.8K [🚀](https://github.com/chaos-mesh/chaos-mesh/network/members) 1.0K [💥](https://github.com/chaos-mesh/chaos-mesh/issues) 554 🪪  Apache License 2.0
 *A Chaos Engineering Platform for Kubernetes.*
 
-### 112 - [Karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) [⭐️](https://github.com/aws/karpenter-provider-aws/stargazers) 7.6K [🚀](https://github.com/aws/karpenter-provider-aws/network/members) 1.3K [💥](https://github.com/aws/karpenter-provider-aws/issues) 497 🪪  Apache License 2.0
+### 112 - [Karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) [⭐️](https://github.com/aws/karpenter-provider-aws/stargazers) 7.6K [🚀](https://github.com/aws/karpenter-provider-aws/network/members) 1.3K [💥](https://github.com/aws/karpenter-provider-aws/issues) 496 🪪  Apache License 2.0
 *Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.*
 
 ### 113 - [Kubeedge](https://github.com/kubeedge/kubeedge) [⭐️](https://github.com/kubeedge/kubeedge/stargazers) 7.5K [🚀](https://github.com/kubeedge/kubeedge/network/members) 1.9K [💥](https://github.com/kubeedge/kubeedge/issues) 1.1K 🪪  Apache License 2.0
 *Kubernetes Native Edge Computing Framework (project under CNCF)*
 
-### 114 - [K3sup](https://github.com/alexellis/k3sup) [⭐️](https://github.com/alexellis/k3sup/stargazers) 7.4K [🚀](https://github.com/alexellis/k3sup/network/members) 432 [💥](https://github.com/alexellis/k3sup/issues) 29 🪪  Other
+### 114 - [K3sup](https://github.com/alexellis/k3sup) [⭐️](https://github.com/alexellis/k3sup/stargazers) 7.4K [🚀](https://github.com/alexellis/k3sup/network/members) 432 [💥](https://github.com/alexellis/k3sup/issues) 31 🪪  Other
 *bootstrap K3s over SSH in < 60s 🚀*
 
-### 115 - [Fabio](https://github.com/fabiolb/fabio) [⭐️](https://github.com/fabiolb/fabio/stargazers) 7.3K [🚀](https://github.com/fabiolb/fabio/network/members) 622 [💥](https://github.com/fabiolb/fabio/issues) 239 🪪  MIT License
+### 115 - [Fabio](https://github.com/fabiolb/fabio) [⭐️](https://github.com/fabiolb/fabio/stargazers) 7.3K [🚀](https://github.com/fabiolb/fabio/network/members) 622 [💥](https://github.com/fabiolb/fabio/issues) 238 🪪  MIT License
 *Consul Load-Balancing made simple*
 
-### 116 - [Calico](https://github.com/projectcalico/calico) [⭐️](https://github.com/projectcalico/calico/stargazers) 7.2K [🚀](https://github.com/projectcalico/calico/network/members) 1.5K [💥](https://github.com/projectcalico/calico/issues) 248 🪪  Apache License 2.0
+### 116 - [Calico](https://github.com/projectcalico/calico) [⭐️](https://github.com/projectcalico/calico/stargazers) 7.2K [🚀](https://github.com/projectcalico/calico/network/members) 1.5K [💥](https://github.com/projectcalico/calico/issues) 254 🪪  Apache License 2.0
 *Cloud native networking and network security*
 
 ### 117 - [Telepresence](https://github.com/telepresenceio/telepresence) [⭐️](https://github.com/telepresenceio/telepresence/stargazers) 7.2K [🚀](https://github.com/telepresenceio/telepresence/network/members) 575 [💥](https://github.com/telepresenceio/telepresence/issues) 10 🪪  Apache License 2.0
 *Local development against a remote Kubernetes or OpenShift cluster*
 
-### 118 - [Che](https://github.com/eclipse-che/che) [⭐️](https://github.com/eclipse-che/che/stargazers) 7.1K [🚀](https://github.com/eclipse-che/che/network/members) 1.2K [💥](https://github.com/eclipse-che/che/issues) 258 🪪  Eclipse Public License 2.0
+### 118 - [Che](https://github.com/eclipse-che/che) [⭐️](https://github.com/eclipse-che/che/stargazers) 7.1K [🚀](https://github.com/eclipse-che/che/network/members) 1.2K [💥](https://github.com/eclipse-che/che/issues) 257 🪪  Eclipse Public License 2.0
 *Kubernetes based Cloud Development Environments for Enterprise Teams*
 
 ### 119 - [Krew](https://github.com/kubernetes-sigs/krew) [⭐️](https://github.com/kubernetes-sigs/krew/stargazers) 7.0K [🚀](https://github.com/kubernetes-sigs/krew/network/members) 410 [💥](https://github.com/kubernetes-sigs/krew/issues) 20 🪪  Apache License 2.0
 *📦 Find and install kubectl plugins*
 
-### 120 - [Kubevirt](https://github.com/kubevirt/kubevirt) [⭐️](https://github.com/kubevirt/kubevirt/stargazers) 6.9K [🚀](https://github.com/kubevirt/kubevirt/network/members) 1.7K [💥](https://github.com/kubevirt/kubevirt/issues) 554 🪪  Apache License 2.0
+### 120 - [Kubevirt](https://github.com/kubevirt/kubevirt) [⭐️](https://github.com/kubevirt/kubevirt/stargazers) 6.9K [🚀](https://github.com/kubevirt/kubevirt/network/members) 1.7K [💥](https://github.com/kubevirt/kubevirt/issues) 546 🪪  Apache License 2.0
 *Kubernetes Virtualization API and runtime in order to define and manage virtual machines.*
 
-### 121 - [Headlamp](https://github.com/kubernetes-sigs/headlamp) [⭐️](https://github.com/kubernetes-sigs/headlamp/stargazers) 6.9K [🚀](https://github.com/kubernetes-sigs/headlamp/network/members) 946 [💥](https://github.com/kubernetes-sigs/headlamp/issues) 834 🪪  Apache License 2.0
+### 121 - [Headlamp](https://github.com/kubernetes-sigs/headlamp) [⭐️](https://github.com/kubernetes-sigs/headlamp/stargazers) 6.9K [🚀](https://github.com/kubernetes-sigs/headlamp/network/members) 949 [💥](https://github.com/kubernetes-sigs/headlamp/issues) 839 🪪  Apache License 2.0
 *A Kubernetes web UI that is fully-featured, user-friendly and extensible*
 
 ### 122 - [Openwhisk](https://github.com/apache/openwhisk) [⭐️](https://github.com/apache/openwhisk/stargazers) 6.7K [🚀](https://github.com/apache/openwhisk/network/members) 1.1K [💥](https://github.com/apache/openwhisk/issues) 431 🪪  Apache License 2.0
 *Apache OpenWhisk is an open source serverless cloud platform*
 
-### 123 - [Openbao](https://github.com/openbao/openbao) [⭐️](https://github.com/openbao/openbao/stargazers) 6.7K [🚀](https://github.com/openbao/openbao/network/members) 499 [💥](https://github.com/openbao/openbao/issues) 273 🪪  Mozilla Public License 2.0
+### 123 - [Openbao](https://github.com/openbao/openbao) [⭐️](https://github.com/openbao/openbao/stargazers) 6.7K [🚀](https://github.com/openbao/openbao/network/members) 501 [💥](https://github.com/openbao/openbao/issues) 274 🪪  Mozilla Public License 2.0
 *OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.*
 
-### 124 - [External-secrets](https://github.com/external-secrets/external-secrets) [⭐️](https://github.com/external-secrets/external-secrets/stargazers) 6.7K [🚀](https://github.com/external-secrets/external-secrets/network/members) 1.3K [💥](https://github.com/external-secrets/external-secrets/issues) 223 🪪  Apache License 2.0
+### 124 - [External-secrets](https://github.com/external-secrets/external-secrets) [⭐️](https://github.com/external-secrets/external-secrets/stargazers) 6.7K [🚀](https://github.com/external-secrets/external-secrets/network/members) 1.3K [💥](https://github.com/external-secrets/external-secrets/issues) 227 🪪  Apache License 2.0
 *External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.*
 
-### 125 - [Pixie](https://github.com/pixie-io/pixie) [⭐️](https://github.com/pixie-io/pixie/stargazers) 6.4K [🚀](https://github.com/pixie-io/pixie/network/members) 498 [💥](https://github.com/pixie-io/pixie/issues) 392 🪪  Apache License 2.0
+### 125 - [Pixie](https://github.com/pixie-io/pixie) [⭐️](https://github.com/pixie-io/pixie/stargazers) 6.5K [🚀](https://github.com/pixie-io/pixie/network/members) 498 [💥](https://github.com/pixie-io/pixie/issues) 392 🪪  Apache License 2.0
 *Instant Kubernetes-Native Application Observability*
 
-### 126 - [K3d](https://github.com/k3d-io/k3d) [⭐️](https://github.com/k3d-io/k3d/stargazers) 6.4K [🚀](https://github.com/k3d-io/k3d/network/members) 534 [💥](https://github.com/k3d-io/k3d/issues) 284 🪪  MIT License
+### 126 - [K3d](https://github.com/k3d-io/k3d) [⭐️](https://github.com/k3d-io/k3d/stargazers) 6.5K [🚀](https://github.com/k3d-io/k3d/network/members) 534 [💥](https://github.com/k3d-io/k3d/issues) 284 🪪  MIT License
 *Little helper to run CNCF's k3s in Docker*
 
-### 127 - [K0s](https://github.com/k0sproject/k0s) [⭐️](https://github.com/k0sproject/k0s/stargazers) 6.3K [🚀](https://github.com/k0sproject/k0s/network/members) 521 [💥](https://github.com/k0sproject/k0s/issues) 216 🪪  Other
+### 127 - [K0s](https://github.com/k0sproject/k0s) [⭐️](https://github.com/k0sproject/k0s/stargazers) 6.3K [🚀](https://github.com/k0sproject/k0s/network/members) 521 [💥](https://github.com/k0sproject/k0s/issues) 206 🪪  Other
 *k0s - The Zero Friction Kubernetes*
 
 ### 128 - [Popeye](https://github.com/derailed/popeye) [⭐️](https://github.com/derailed/popeye/stargazers) 6.3K [🚀](https://github.com/derailed/popeye/network/members) 342 [💥](https://github.com/derailed/popeye/issues) 66 🪪  Other
@@ -406,7 +406,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 129 - [Octant](https://github.com/vmware-archive/octant) [⭐️](https://github.com/vmware-archive/octant/stargazers) 6.2K [🚀](https://github.com/vmware-archive/octant/network/members) 484 [💥](https://github.com/vmware-archive/octant/issues) 286 🪪  Apache License 2.0 💀 Officially archived
 *Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.*
 
-### 130 - [Podman-compose](https://github.com/containers/podman-compose) [⭐️](https://github.com/containers/podman-compose/stargazers) 6.1K [🚀](https://github.com/containers/podman-compose/network/members) 610 [💥](https://github.com/containers/podman-compose/issues) 353 🪪  GNU General Public License v2.0
+### 130 - [Podman-compose](https://github.com/containers/podman-compose) [⭐️](https://github.com/containers/podman-compose/stargazers) 6.1K [🚀](https://github.com/containers/podman-compose/network/members) 610 [💥](https://github.com/containers/podman-compose/issues) 352 🪪  GNU General Public License v2.0
 *a script to run docker-compose.yml using podman*
 
 ### 131 - [Kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) [⭐️](https://github.com/kubernetes/kube-state-metrics/stargazers) 6.1K [🚀](https://github.com/kubernetes/kube-state-metrics/network/members) 2.1K [💥](https://github.com/kubernetes/kube-state-metrics/issues) 110 🪪  Apache License 2.0
@@ -427,19 +427,19 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 136 - [Scope](https://github.com/weaveworks/scope) [⭐️](https://github.com/weaveworks/scope/stargazers) 5.9K [🚀](https://github.com/weaveworks/scope/network/members) 722 [💥](https://github.com/weaveworks/scope/issues) 454 🪪  Apache License 2.0
 *Monitoring, visualisation & management for Docker & Kubernetes*
 
-### 137 - [Volcano](https://github.com/volcano-sh/volcano) [⭐️](https://github.com/volcano-sh/volcano/stargazers) 5.7K [🚀](https://github.com/volcano-sh/volcano/network/members) 1.4K [💥](https://github.com/volcano-sh/volcano/issues) 719 🪪  Apache License 2.0
+### 137 - [Volcano](https://github.com/volcano-sh/volcano) [⭐️](https://github.com/volcano-sh/volcano/stargazers) 5.8K [🚀](https://github.com/volcano-sh/volcano/network/members) 1.4K [💥](https://github.com/volcano-sh/volcano/issues) 721 🪪  Apache License 2.0
 *A Cloud Native Batch System (Project under CNCF)*
 
 ### 138 - [Aws-nuke](https://github.com/rebuy-de/aws-nuke) [⭐️](https://github.com/rebuy-de/aws-nuke/stargazers) 5.7K [🚀](https://github.com/rebuy-de/aws-nuke/network/members) 716 [💥](https://github.com/rebuy-de/aws-nuke/issues) 0 🪪  MIT License 💀 Archived
 *Nuke a whole AWS account and delete all its resources.*
 
-### 139 - [Blackbox_exporter](https://github.com/prometheus/blackbox_exporter) [⭐️](https://github.com/prometheus/blackbox_exporter/stargazers) 5.7K [🚀](https://github.com/prometheus/blackbox_exporter/network/members) 1.2K [💥](https://github.com/prometheus/blackbox_exporter/issues) 166 🪪  Apache License 2.0
+### 139 - [Blackbox_exporter](https://github.com/prometheus/blackbox_exporter) [⭐️](https://github.com/prometheus/blackbox_exporter/stargazers) 5.7K [🚀](https://github.com/prometheus/blackbox_exporter/network/members) 1.2K [💥](https://github.com/prometheus/blackbox_exporter/issues) 165 🪪  Apache License 2.0
 *Blackbox prober exporter*
 
-### 140 - [Tflint](https://github.com/terraform-linters/tflint) [⭐️](https://github.com/terraform-linters/tflint/stargazers) 5.7K [🚀](https://github.com/terraform-linters/tflint/network/members) 402 [💥](https://github.com/terraform-linters/tflint/issues) 30 🪪  Mozilla Public License 2.0
+### 140 - [Tflint](https://github.com/terraform-linters/tflint) [⭐️](https://github.com/terraform-linters/tflint/stargazers) 5.7K [🚀](https://github.com/terraform-linters/tflint/network/members) 402 [💥](https://github.com/terraform-linters/tflint/issues) 28 🪪  Mozilla Public License 2.0
 *A Pluggable Terraform Linter*
 
-### 141 - [Nuclio](https://github.com/nuclio/nuclio) [⭐️](https://github.com/nuclio/nuclio/stargazers) 5.7K [🚀](https://github.com/nuclio/nuclio/network/members) 566 [💥](https://github.com/nuclio/nuclio/issues) 119 🪪  Apache License 2.0
+### 141 - [Nuclio](https://github.com/nuclio/nuclio) [⭐️](https://github.com/nuclio/nuclio/stargazers) 5.7K [🚀](https://github.com/nuclio/nuclio/network/members) 567 [💥](https://github.com/nuclio/nuclio/issues) 120 🪪  Apache License 2.0
 *High-Performance Serverless event and data processing platform*
 
 ### 142 - [Helm-dashboard](https://github.com/komodorio/helm-dashboard) [⭐️](https://github.com/komodorio/helm-dashboard/stargazers) 5.7K [🚀](https://github.com/komodorio/helm-dashboard/network/members) 359 [💥](https://github.com/komodorio/helm-dashboard/issues) 24 🪪  Apache License 2.0
@@ -448,13 +448,13 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 143 - [Kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) [⭐️](https://github.com/madhuakula/kubernetes-goat/stargazers) 5.7K [🚀](https://github.com/madhuakula/kubernetes-goat/network/members) 1.0K [💥](https://github.com/madhuakula/kubernetes-goat/issues) 28 🪪  MIT License
 *Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀*
 
-### 144 - [Cri-o](https://github.com/cri-o/cri-o) [⭐️](https://github.com/cri-o/cri-o/stargazers) 5.6K [🚀](https://github.com/cri-o/cri-o/network/members) 1.1K [💥](https://github.com/cri-o/cri-o/issues) 142 🪪  Apache License 2.0
+### 144 - [Cri-o](https://github.com/cri-o/cri-o) [⭐️](https://github.com/cri-o/cri-o/stargazers) 5.6K [🚀](https://github.com/cri-o/cri-o/network/members) 1.1K [💥](https://github.com/cri-o/cri-o/issues) 144 🪪  Apache License 2.0
 *Open Container Initiative-based implementation of Kubernetes Container Runtime Interface*
 
-### 145 - [Devtron](https://github.com/devtron-labs/devtron) [⭐️](https://github.com/devtron-labs/devtron/stargazers) 5.5K [🚀](https://github.com/devtron-labs/devtron/network/members) 581 [💥](https://github.com/devtron-labs/devtron/issues) 756 🪪  Apache License 2.0
+### 145 - [Devtron](https://github.com/devtron-labs/devtron) [⭐️](https://github.com/devtron-labs/devtron/stargazers) 5.5K [🚀](https://github.com/devtron-labs/devtron/network/members) 581 [💥](https://github.com/devtron-labs/devtron/issues) 757 🪪  Apache License 2.0
 *The only Kubernetes dashboard you need*
 
-### 146 - [Litmus](https://github.com/litmuschaos/litmus) [⭐️](https://github.com/litmuschaos/litmus/stargazers) 5.5K [🚀](https://github.com/litmuschaos/litmus/network/members) 886 [💥](https://github.com/litmuschaos/litmus/issues) 410 🪪  Apache License 2.0
+### 146 - [Litmus](https://github.com/litmuschaos/litmus) [⭐️](https://github.com/litmuschaos/litmus/stargazers) 5.5K [🚀](https://github.com/litmuschaos/litmus/network/members) 886 [💥](https://github.com/litmuschaos/litmus/issues) 411 🪪  Apache License 2.0
 *Litmus helps SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q*
 
 ### 147 - [Descheduler](https://github.com/kubernetes-sigs/descheduler) [⭐️](https://github.com/kubernetes-sigs/descheduler/stargazers) 5.4K [🚀](https://github.com/kubernetes-sigs/descheduler/network/members) 803 [💥](https://github.com/kubernetes-sigs/descheduler/issues) 58 🪪  Apache License 2.0
@@ -463,16 +463,16 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 148 - [Wing](https://github.com/winglang/wing) [⭐️](https://github.com/winglang/wing/stargazers) 5.3K [🚀](https://github.com/winglang/wing/network/members) 213 [💥](https://github.com/winglang/wing/issues) 898 🪪  Other
 *A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡*
 
-### 149 - [Flagger](https://github.com/fluxcd/flagger) [⭐️](https://github.com/fluxcd/flagger/stargazers) 5.3K [🚀](https://github.com/fluxcd/flagger/network/members) 803 [💥](https://github.com/fluxcd/flagger/issues) 383 🪪  Apache License 2.0
+### 149 - [Flagger](https://github.com/fluxcd/flagger) [⭐️](https://github.com/fluxcd/flagger/stargazers) 5.3K [🚀](https://github.com/fluxcd/flagger/network/members) 804 [💥](https://github.com/fluxcd/flagger/issues) 383 🪪  Apache License 2.0
 *Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)*
 
-### 150 - [Freelens](https://github.com/freelensapp/freelens) [⭐️](https://github.com/freelensapp/freelens/stargazers) 5.3K [🚀](https://github.com/freelensapp/freelens/network/members) 301 [💥](https://github.com/freelensapp/freelens/issues) 190 🪪  MIT License
+### 150 - [Freelens](https://github.com/freelensapp/freelens) [⭐️](https://github.com/freelensapp/freelens/stargazers) 5.3K [🚀](https://github.com/freelensapp/freelens/network/members) 302 [💥](https://github.com/freelensapp/freelens/issues) 186 🪪  MIT License
 *Free IDE for Kubernetes*
 
-### 151 - [Kruise](https://github.com/openkruise/kruise) [⭐️](https://github.com/openkruise/kruise/stargazers) 5.2K [🚀](https://github.com/openkruise/kruise/network/members) 904 [💥](https://github.com/openkruise/kruise/issues) 93 🪪  Other
+### 151 - [Kruise](https://github.com/openkruise/kruise) [⭐️](https://github.com/openkruise/kruise/stargazers) 5.2K [🚀](https://github.com/openkruise/kruise/network/members) 903 [💥](https://github.com/openkruise/kruise/issues) 94 🪪  Other
 *Automated management of large-scale applications on Kubernetes (incubating project under CNCF)*
 
-### 152 - [Mirrord](https://github.com/metalbear-co/mirrord) [⭐️](https://github.com/metalbear-co/mirrord/stargazers) 5.2K [🚀](https://github.com/metalbear-co/mirrord/network/members) 204 [💥](https://github.com/metalbear-co/mirrord/issues) 90 🪪  MIT License
+### 152 - [Mirrord](https://github.com/metalbear-co/mirrord) [⭐️](https://github.com/metalbear-co/mirrord/stargazers) 5.2K [🚀](https://github.com/metalbear-co/mirrord/network/members) 204 [💥](https://github.com/metalbear-co/mirrord/issues) 88 🪪  MIT License
 *Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.*
 
 ### 153 - [Terrascan](https://github.com/tenable/terrascan) [⭐️](https://github.com/tenable/terrascan/stargazers) 5.2K [🚀](https://github.com/tenable/terrascan/network/members) 556 [💥](https://github.com/tenable/terrascan/issues) 0 🪪  Apache License 2.0
@@ -481,7 +481,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 154 - [Eksctl](https://github.com/eksctl-io/eksctl) [⭐️](https://github.com/eksctl-io/eksctl/stargazers) 5.2K [🚀](https://github.com/eksctl-io/eksctl/network/members) 1.4K [💥](https://github.com/eksctl-io/eksctl/issues) 128 🪪  Other
 *The official CLI for Amazon EKS*
 
-### 155 - [Mimir](https://github.com/grafana/mimir) [⭐️](https://github.com/grafana/mimir/stargazers) 5.1K [🚀](https://github.com/grafana/mimir/network/members) 810 [💥](https://github.com/grafana/mimir/issues) 809 🪪  GNU Affero General Public License v3.0
+### 155 - [Mimir](https://github.com/grafana/mimir) [⭐️](https://github.com/grafana/mimir/stargazers) 5.1K [🚀](https://github.com/grafana/mimir/network/members) 812 [💥](https://github.com/grafana/mimir/issues) 811 🪪  GNU Affero General Public License v3.0
 *Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.*
 
 ### 156 - [Helmfile](https://github.com/helmfile/helmfile) [⭐️](https://github.com/helmfile/helmfile/stargazers) 5.1K [🚀](https://github.com/helmfile/helmfile/network/members) 354 [💥](https://github.com/helmfile/helmfile/issues) 26 🪪  MIT License
@@ -502,13 +502,13 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 161 - [Stern](https://github.com/stern/stern) [⭐️](https://github.com/stern/stern/stargazers) 4.8K [🚀](https://github.com/stern/stern/network/members) 171 [💥](https://github.com/stern/stern/issues) 35 🪪  Apache License 2.0
 *⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern*
 
-### 162 - [Lxd](https://github.com/canonical/lxd) [⭐️](https://github.com/canonical/lxd/stargazers) 4.8K [🚀](https://github.com/canonical/lxd/network/members) 1.0K [💥](https://github.com/canonical/lxd/issues) 404 🪪  GNU Affero General Public License v3.0
+### 162 - [Lxd](https://github.com/canonical/lxd) [⭐️](https://github.com/canonical/lxd/stargazers) 4.8K [🚀](https://github.com/canonical/lxd/network/members) 1.0K [💥](https://github.com/canonical/lxd/issues) 403 🪪  GNU Affero General Public License v3.0
 *Powerful system container and virtual machine manager*
 
-### 163 - [Werf](https://github.com/werf/werf) [⭐️](https://github.com/werf/werf/stargazers) 4.7K [🚀](https://github.com/werf/werf/network/members) 236 [💥](https://github.com/werf/werf/issues) 146 🪪  Apache License 2.0
+### 163 - [Werf](https://github.com/werf/werf) [⭐️](https://github.com/werf/werf/stargazers) 4.7K [🚀](https://github.com/werf/werf/network/members) 236 [💥](https://github.com/werf/werf/issues) 145 🪪  Apache License 2.0
 *A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.*
 
-### 164 - [Jx](https://github.com/jenkins-x/jx) [⭐️](https://github.com/jenkins-x/jx/stargazers) 4.6K [🚀](https://github.com/jenkins-x/jx/network/members) 794 [💥](https://github.com/jenkins-x/jx/issues) 149 🪪  Apache License 2.0
+### 164 - [Jx](https://github.com/jenkins-x/jx) [⭐️](https://github.com/jenkins-x/jx/stargazers) 4.6K [🚀](https://github.com/jenkins-x/jx/network/members) 794 [💥](https://github.com/jenkins-x/jx/issues) 144 🪪  Apache License 2.0
 *Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton*
 
 ### 165 - [Virtual-kubelet](https://github.com/virtual-kubelet/virtual-kubelet) [⭐️](https://github.com/virtual-kubelet/virtual-kubelet/stargazers) 4.5K [🚀](https://github.com/virtual-kubelet/virtual-kubelet/network/members) 664 [💥](https://github.com/virtual-kubelet/virtual-kubelet/issues) 84 🪪  Apache License 2.0
@@ -520,7 +520,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 167 - [OpenLens](https://github.com/MuhammedKalkan/OpenLens) [⭐️](https://github.com/MuhammedKalkan/OpenLens/stargazers) 4.4K [🚀](https://github.com/MuhammedKalkan/OpenLens/network/members) 322 [💥](https://github.com/MuhammedKalkan/OpenLens/issues) 9 🪪  N.A.
 *OpenLens Binary Build Repository*
 
-### 168 - [Cluster-api](https://github.com/kubernetes-sigs/cluster-api) [⭐️](https://github.com/kubernetes-sigs/cluster-api/stargazers) 4.2K [🚀](https://github.com/kubernetes-sigs/cluster-api/network/members) 1.5K [💥](https://github.com/kubernetes-sigs/cluster-api/issues) 201 🪪  Apache License 2.0
+### 168 - [Cluster-api](https://github.com/kubernetes-sigs/cluster-api) [⭐️](https://github.com/kubernetes-sigs/cluster-api/stargazers) 4.2K [🚀](https://github.com/kubernetes-sigs/cluster-api/network/members) 1.5K [💥](https://github.com/kubernetes-sigs/cluster-api/issues) 204 🪪  Apache License 2.0
 *Home for Cluster API, a subproject of sig-cluster-lifecycle*
 
 ### 169 - [Hubble](https://github.com/cilium/hubble) [⭐️](https://github.com/cilium/hubble/stargazers) 4.2K [🚀](https://github.com/cilium/hubble/network/members) 291 [💥](https://github.com/cilium/hubble/issues) 44 🪪  Apache License 2.0
@@ -535,16 +535,16 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 172 - [Finch](https://github.com/runfinch/finch) [⭐️](https://github.com/runfinch/finch/stargazers) 4.0K [🚀](https://github.com/runfinch/finch/network/members) 113 [💥](https://github.com/runfinch/finch/issues) 93 🪪  Apache License 2.0
 *The Finch CLI is an open source client for container development*
 
-### 173 - [Test-infra](https://github.com/kubernetes/test-infra) [⭐️](https://github.com/kubernetes/test-infra/stargazers) 4.0K [🚀](https://github.com/kubernetes/test-infra/network/members) 2.9K [💥](https://github.com/kubernetes/test-infra/issues) 108 🪪  Apache License 2.0
+### 173 - [Test-infra](https://github.com/kubernetes/test-infra) [⭐️](https://github.com/kubernetes/test-infra/stargazers) 4.0K [🚀](https://github.com/kubernetes/test-infra/network/members) 2.9K [💥](https://github.com/kubernetes/test-infra/issues) 110 🪪  Apache License 2.0
 *Test infrastructure for the Kubernetes project.*
 
 ### 174 - [Contour](https://github.com/projectcontour/contour) [⭐️](https://github.com/projectcontour/contour/stargazers) 3.9K [🚀](https://github.com/projectcontour/contour/network/members) 722 [💥](https://github.com/projectcontour/contour/issues) 135 🪪  Apache License 2.0
 *Contour is a Kubernetes ingress controller using Envoy proxy.*
 
-### 175 - [Terraform-hcloud-kube-hetzner](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner) [⭐️](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner/stargazers) 3.8K [🚀](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner/network/members) 554 [💥](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner/issues) 4 🪪  MIT License
+### 175 - [Terraform-hcloud-kube-hetzner](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner) [⭐️](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner/stargazers) 3.8K [🚀](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner/network/members) 554 [💥](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner/issues) 7 🪪  MIT License
 *Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!*
 
-### 176 - [K8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) [⭐️](https://github.com/NVIDIA/k8s-device-plugin/stargazers) 3.8K [🚀](https://github.com/NVIDIA/k8s-device-plugin/network/members) 844 [💥](https://github.com/NVIDIA/k8s-device-plugin/issues) 64 🪪  Apache License 2.0
+### 176 - [K8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) [⭐️](https://github.com/NVIDIA/k8s-device-plugin/stargazers) 3.8K [🚀](https://github.com/NVIDIA/k8s-device-plugin/network/members) 845 [💥](https://github.com/NVIDIA/k8s-device-plugin/issues) 65 🪪  Apache License 2.0
 *NVIDIA device plugin for Kubernetes*
 
 ### 177 - [Kube-ps1](https://github.com/jonmosco/kube-ps1) [⭐️](https://github.com/jonmosco/kube-ps1/stargazers) 3.8K [🚀](https://github.com/jonmosco/kube-ps1/network/members) 365 [💥](https://github.com/jonmosco/kube-ps1/issues) 5 🪪  Apache License 2.0
@@ -556,19 +556,19 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 179 - [Kube-no-trouble](https://github.com/doitintl/kube-no-trouble) [⭐️](https://github.com/doitintl/kube-no-trouble/stargazers) 3.6K [🚀](https://github.com/doitintl/kube-no-trouble/network/members) 169 [💥](https://github.com/doitintl/kube-no-trouble/issues) 33 🪪  MIT License
 *Easily check your clusters for use of deprecated APIs*
 
-### 180 - [Odigos](https://github.com/odigos-io/odigos) [⭐️](https://github.com/odigos-io/odigos/stargazers) 3.6K [🚀](https://github.com/odigos-io/odigos/network/members) 254 [💥](https://github.com/odigos-io/odigos/issues) 88 🪪  Apache License 2.0
+### 180 - [Odigos](https://github.com/odigos-io/odigos) [⭐️](https://github.com/odigos-io/odigos/stargazers) 3.6K [🚀](https://github.com/odigos-io/odigos/network/members) 254 [💥](https://github.com/odigos-io/odigos/issues) 91 🪪  Apache License 2.0
 *Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF*
 
 ### 181 - [Hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) [⭐️](https://github.com/vitobotta/hetzner-k3s/stargazers) 3.6K [🚀](https://github.com/vitobotta/hetzner-k3s/network/members) 228 [💥](https://github.com/vitobotta/hetzner-k3s/issues) 31 🪪  MIT License
 *The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud*
 
-### 182 - [Kiali](https://github.com/kiali/kiali) [⭐️](https://github.com/kiali/kiali/stargazers) 3.6K [🚀](https://github.com/kiali/kiali/network/members) 565 [💥](https://github.com/kiali/kiali/issues) 112 🪪  Apache License 2.0
+### 182 - [Kiali](https://github.com/kiali/kiali) [⭐️](https://github.com/kiali/kiali/stargazers) 3.6K [🚀](https://github.com/kiali/kiali/network/members) 566 [💥](https://github.com/kiali/kiali/issues) 114 🪪  Apache License 2.0
 *Kiali project, observability for the Istio service mesh*
 
 ### 183 - [Krustlet](https://github.com/krustlet/krustlet) [⭐️](https://github.com/krustlet/krustlet/stargazers) 3.6K [🚀](https://github.com/krustlet/krustlet/network/members) 221 [💥](https://github.com/krustlet/krustlet/issues) 135 🪪  Apache License 2.0 💀 Inactive
 *Kubernetes Rust Kubelet*
 
-### 184 - [Okteto](https://github.com/okteto/okteto) [⭐️](https://github.com/okteto/okteto/stargazers) 3.5K [🚀](https://github.com/okteto/okteto/network/members) 316 [💥](https://github.com/okteto/okteto/issues) 36 🪪  Apache License 2.0
+### 184 - [Okteto](https://github.com/okteto/okteto) [⭐️](https://github.com/okteto/okteto/stargazers) 3.5K [🚀](https://github.com/okteto/okteto/network/members) 316 [💥](https://github.com/okteto/okteto/issues) 37 🪪  Apache License 2.0
 *Develop your applications directly in your Kubernetes Cluster*
 
 ### 185 - [Glasskube](https://github.com/glasskube/glasskube) [⭐️](https://github.com/glasskube/glasskube/stargazers) 3.4K [🚀](https://github.com/glasskube/glasskube/network/members) 199 [💥](https://github.com/glasskube/glasskube/issues) 16 🪪  Apache License 2.0
@@ -583,22 +583,22 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 188 - [Ksniff](https://github.com/eldadru/ksniff) [⭐️](https://github.com/eldadru/ksniff/stargazers) 3.4K [🚀](https://github.com/eldadru/ksniff/network/members) 212 [💥](https://github.com/eldadru/ksniff/issues) 67 🪪  Apache License 2.0
 *Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark*
 
-### 189 - [Node-problem-detector](https://github.com/kubernetes/node-problem-detector) [⭐️](https://github.com/kubernetes/node-problem-detector/stargazers) 3.4K [🚀](https://github.com/kubernetes/node-problem-detector/network/members) 697 [💥](https://github.com/kubernetes/node-problem-detector/issues) 21 🪪  Apache License 2.0
+### 189 - [Node-problem-detector](https://github.com/kubernetes/node-problem-detector) [⭐️](https://github.com/kubernetes/node-problem-detector/stargazers) 3.4K [🚀](https://github.com/kubernetes/node-problem-detector/network/members) 697 [💥](https://github.com/kubernetes/node-problem-detector/issues) 23 🪪  Apache License 2.0
 *This is a place for various problem detectors running on the Kubernetes nodes.*
 
 ### 190 - [Yamllint](https://github.com/adrienverge/yamllint) [⭐️](https://github.com/adrienverge/yamllint/stargazers) 3.4K [🚀](https://github.com/adrienverge/yamllint/network/members) 318 [💥](https://github.com/adrienverge/yamllint/issues) 157 🪪  GNU General Public License v3.0
 *A linter for YAML files.*
 
-### 191 - [Gardener](https://github.com/gardener/gardener) [⭐️](https://github.com/gardener/gardener/stargazers) 3.4K [🚀](https://github.com/gardener/gardener/network/members) 583 [💥](https://github.com/gardener/gardener/issues) 195 🪪  Apache License 2.0
+### 191 - [Gardener](https://github.com/gardener/gardener) [⭐️](https://github.com/gardener/gardener/stargazers) 3.4K [🚀](https://github.com/gardener/gardener/network/members) 583 [💥](https://github.com/gardener/gardener/issues) 196 🪪  Apache License 2.0
 *Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.*
 
 ### 192 - [Kubectl-tree](https://github.com/ahmetb/kubectl-tree) [⭐️](https://github.com/ahmetb/kubectl-tree/stargazers) 3.4K [🚀](https://github.com/ahmetb/kubectl-tree/network/members) 136 [💥](https://github.com/ahmetb/kubectl-tree/issues) 16 🪪  Apache License 2.0
 *kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)*
 
-### 193 - [Polaris](https://github.com/FairwindsOps/polaris) [⭐️](https://github.com/FairwindsOps/polaris/stargazers) 3.3K [🚀](https://github.com/FairwindsOps/polaris/network/members) 228 [💥](https://github.com/FairwindsOps/polaris/issues) 19 🪪  Apache License 2.0
+### 193 - [Polaris](https://github.com/FairwindsOps/polaris) [⭐️](https://github.com/FairwindsOps/polaris/stargazers) 3.3K [🚀](https://github.com/FairwindsOps/polaris/network/members) 229 [💥](https://github.com/FairwindsOps/polaris/issues) 20 🪪  Apache License 2.0
 *Validation of best practices in your Kubernetes clusters*
 
-### 194 - [Cyclops](https://github.com/cyclops-ui/cyclops) [⭐️](https://github.com/cyclops-ui/cyclops/stargazers) 3.3K [🚀](https://github.com/cyclops-ui/cyclops/network/members) 759 [💥](https://github.com/cyclops-ui/cyclops/issues) 85 🪪  Apache License 2.0
+### 194 - [Cyclops](https://github.com/cyclops-ui/cyclops) [⭐️](https://github.com/cyclops-ui/cyclops/stargazers) 3.3K [🚀](https://github.com/cyclops-ui/cyclops/network/members) 758 [💥](https://github.com/cyclops-ui/cyclops/issues) 85 🪪  Apache License 2.0
 *Developer Friendly Kubernetes 👁️*
 
 ### 195 - [Goldilocks](https://github.com/FairwindsOps/goldilocks) [⭐️](https://github.com/FairwindsOps/goldilocks/stargazers) 3.2K [🚀](https://github.com/FairwindsOps/goldilocks/network/members) 175 [💥](https://github.com/FairwindsOps/goldilocks/issues) 16 🪪  Apache License 2.0
@@ -607,7 +607,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 196 - [Kubeval](https://github.com/instrumenta/kubeval) [⭐️](https://github.com/instrumenta/kubeval/stargazers) 3.2K [🚀](https://github.com/instrumenta/kubeval/network/members) 229 [💥](https://github.com/instrumenta/kubeval/issues) 105 🪪  Other 💀 Deprecated (use kubeconform)
 *Validate your Kubernetes configuration files, supports multiple Kubernetes versions*
 
-### 197 - [Conftest](https://github.com/open-policy-agent/conftest) [⭐️](https://github.com/open-policy-agent/conftest/stargazers) 3.2K [🚀](https://github.com/open-policy-agent/conftest/network/members) 347 [💥](https://github.com/open-policy-agent/conftest/issues) 61 🪪  Other
+### 197 - [Conftest](https://github.com/open-policy-agent/conftest) [⭐️](https://github.com/open-policy-agent/conftest/stargazers) 3.2K [🚀](https://github.com/open-policy-agent/conftest/network/members) 348 [💥](https://github.com/open-policy-agent/conftest/issues) 62 🪪  Other
 *Write tests against structured configuration data using the Open Policy Agent Rego query language*
 
 ### 198 - [Functions](https://github.com/iron-io/functions) [⭐️](https://github.com/iron-io/functions/stargazers) 3.2K [🚀](https://github.com/iron-io/functions/network/members) 222 [💥](https://github.com/iron-io/functions/issues) 94 🪪  Apache License 2.0 💀 Abandoned
@@ -616,7 +616,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 199 - [Spec](https://github.com/oam-dev/spec) [⭐️](https://github.com/oam-dev/spec/stargazers) 3.1K [🚀](https://github.com/oam-dev/spec/network/members) 251 [💥](https://github.com/oam-dev/spec/issues) 114 🪪  Other
 *Open Application Model (OAM).*
 
-### 200 - [Kubeconform](https://github.com/yannh/kubeconform) [⭐️](https://github.com/yannh/kubeconform/stargazers) 3.1K [🚀](https://github.com/yannh/kubeconform/network/members) 170 [💥](https://github.com/yannh/kubeconform/issues) 84 🪪  Apache License 2.0
+### 200 - [Kubeconform](https://github.com/yannh/kubeconform) [⭐️](https://github.com/yannh/kubeconform/stargazers) 3.1K [🚀](https://github.com/yannh/kubeconform/network/members) 170 [💥](https://github.com/yannh/kubeconform/issues) 85 🪪  Apache License 2.0
 *A FAST Kubernetes manifests validator, with support for Custom Resources!*
 
 ### 201 - [Kube-score](https://github.com/zegl/kube-score) [⭐️](https://github.com/zegl/kube-score/stargazers) 3.0K [🚀](https://github.com/zegl/kube-score/network/members) 197 [💥](https://github.com/zegl/kube-score/issues) 49 🪪  MIT License
@@ -625,11 +625,11 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 202 - [Kubespy](https://github.com/pulumi/kubespy) [⭐️](https://github.com/pulumi/kubespy/stargazers) 3.0K [🚀](https://github.com/pulumi/kubespy/network/members) 94 [💥](https://github.com/pulumi/kubespy/issues) 18 🪪  Apache License 2.0
 *Tools for observing Kubernetes resources in real time, powered by Pulumi.*
 
-### 203 - [Kube-monkey](https://github.com/asobti/kube-monkey) [⭐️](https://github.com/asobti/kube-monkey/stargazers) 3.0K [🚀](https://github.com/asobti/kube-monkey/network/members) 254 [💥](https://github.com/asobti/kube-monkey/issues) 28 🪪  Apache License 2.0
-*An implementation of Netflix's Chaos Monkey for Kubernetes clusters*
-
-### 204 - [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) [⭐️](https://github.com/ContainerSSH/ContainerSSH/stargazers) 3.0K [🚀](https://github.com/ContainerSSH/ContainerSSH/network/members) 109 [💥](https://github.com/ContainerSSH/ContainerSSH/issues) 57 🪪  Apache License 2.0
+### 203 - [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) [⭐️](https://github.com/ContainerSSH/ContainerSSH/stargazers) 3.0K [🚀](https://github.com/ContainerSSH/ContainerSSH/network/members) 109 [💥](https://github.com/ContainerSSH/ContainerSSH/issues) 57 🪪  Apache License 2.0
 *ContainerSSH: Launch containers on demand*
+
+### 204 - [Kube-monkey](https://github.com/asobti/kube-monkey) [⭐️](https://github.com/asobti/kube-monkey/stargazers) 3.0K [🚀](https://github.com/asobti/kube-monkey/network/members) 254 [💥](https://github.com/asobti/kube-monkey/issues) 28 🪪  Apache License 2.0
+*An implementation of Netflix's Chaos Monkey for Kubernetes clusters*
 
 ### 205 - [Robusta](https://github.com/robusta-dev/robusta) [⭐️](https://github.com/robusta-dev/robusta/stargazers) 3.0K [🚀](https://github.com/robusta-dev/robusta/network/members) 319 [💥](https://github.com/robusta-dev/robusta/issues) 192 🪪  MIT License
 *Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation*
@@ -637,7 +637,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 206 - [Yq](https://github.com/kislyuk/yq) [⭐️](https://github.com/kislyuk/yq/stargazers) 2.9K [🚀](https://github.com/kislyuk/yq/network/members) 85 [💥](https://github.com/kislyuk/yq/issues) 23 🪪  Apache License 2.0
 *Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents*
 
-### 207 - [Pack](https://github.com/buildpacks/pack) [⭐️](https://github.com/buildpacks/pack/stargazers) 2.9K [🚀](https://github.com/buildpacks/pack/network/members) 351 [💥](https://github.com/buildpacks/pack/issues) 174 🪪  Apache License 2.0
+### 207 - [Pack](https://github.com/buildpacks/pack) [⭐️](https://github.com/buildpacks/pack/stargazers) 2.9K [🚀](https://github.com/buildpacks/pack/network/members) 350 [💥](https://github.com/buildpacks/pack/issues) 174 🪪  Apache License 2.0
 *CLI for building apps using Cloud Native Buildpacks*
 
 ### 208 - [Kube-vip](https://github.com/kube-vip/kube-vip) [⭐️](https://github.com/kube-vip/kube-vip/stargazers) 2.9K [🚀](https://github.com/kube-vip/kube-vip/network/members) 306 [💥](https://github.com/kube-vip/kube-vip/issues) 52 🪪  Apache License 2.0
@@ -649,7 +649,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 210 - [Kcp](https://github.com/kcp-dev/kcp) [⭐️](https://github.com/kcp-dev/kcp/stargazers) 2.8K [🚀](https://github.com/kcp-dev/kcp/network/members) 457 [💥](https://github.com/kcp-dev/kcp/issues) 149 🪪  Apache License 2.0
 *Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.*
 
-### 211 - [Gpu-operator](https://github.com/NVIDIA/gpu-operator) [⭐️](https://github.com/NVIDIA/gpu-operator/stargazers) 2.8K [🚀](https://github.com/NVIDIA/gpu-operator/network/members) 525 [💥](https://github.com/NVIDIA/gpu-operator/issues) 93 🪪  Apache License 2.0
+### 211 - [Gpu-operator](https://github.com/NVIDIA/gpu-operator) [⭐️](https://github.com/NVIDIA/gpu-operator/stargazers) 2.8K [🚀](https://github.com/NVIDIA/gpu-operator/network/members) 525 [💥](https://github.com/NVIDIA/gpu-operator/issues) 94 🪪  Apache License 2.0
 *NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes*
 
 ### 212 - [Cluster-template](https://github.com/onedr0p/cluster-template) [⭐️](https://github.com/onedr0p/cluster-template/stargazers) 2.7K [🚀](https://github.com/onedr0p/cluster-template/network/members) 315 [💥](https://github.com/onedr0p/cluster-template/issues) 1 🪪  MIT License
@@ -658,7 +658,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 213 - [Goldpinger](https://github.com/bloomberg/goldpinger) [⭐️](https://github.com/bloomberg/goldpinger/stargazers) 2.7K [🚀](https://github.com/bloomberg/goldpinger/network/members) 187 [💥](https://github.com/bloomberg/goldpinger/issues) 35 🪪  Apache License 2.0
 *Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.*
 
-### 214 - [Keel](https://github.com/keel-hq/keel) [⭐️](https://github.com/keel-hq/keel/stargazers) 2.7K [🚀](https://github.com/keel-hq/keel/network/members) 318 [💥](https://github.com/keel-hq/keel/issues) 228 🪪  Mozilla Public License 2.0
+### 214 - [Keel](https://github.com/keel-hq/keel) [⭐️](https://github.com/keel-hq/keel/stargazers) 2.7K [🚀](https://github.com/keel-hq/keel/network/members) 319 [💥](https://github.com/keel-hq/keel/issues) 228 🪪  Mozilla Public License 2.0
 *Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates*
 
 ### 215 - [Tanka](https://github.com/grafana/tanka) [⭐️](https://github.com/grafana/tanka/stargazers) 2.6K [🚀](https://github.com/grafana/tanka/network/members) 192 [💥](https://github.com/grafana/tanka/issues) 58 🪪  Apache License 2.0
@@ -673,7 +673,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 218 - [Kube-capacity](https://github.com/robscott/kube-capacity) [⭐️](https://github.com/robscott/kube-capacity/stargazers) 2.6K [🚀](https://github.com/robscott/kube-capacity/network/members) 132 [💥](https://github.com/robscott/kube-capacity/issues) 51 🪪  Apache License 2.0
 *A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster*
 
-### 219 - [Radar](https://github.com/skyhook-io/radar) [⭐️](https://github.com/skyhook-io/radar/stargazers) 2.6K [🚀](https://github.com/skyhook-io/radar/network/members) 146 [💥](https://github.com/skyhook-io/radar/issues) 50 🪪  Apache License 2.0
+### 219 - [Radar](https://github.com/skyhook-io/radar) [⭐️](https://github.com/skyhook-io/radar/stargazers) 2.6K [🚀](https://github.com/skyhook-io/radar/network/members) 146 [💥](https://github.com/skyhook-io/radar/issues) 51 🪪  Apache License 2.0
 *The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management.*
 
 ### 220 - [KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) [⭐️](https://github.com/philippemerle/KubeDiagrams/stargazers) 2.6K [🚀](https://github.com/philippemerle/KubeDiagrams/network/members) 163 [💥](https://github.com/philippemerle/KubeDiagrams/issues) 9 🪪  Apache License 2.0
@@ -682,14 +682,14 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 221 - [Kubie](https://github.com/kubie-org/kubie) [⭐️](https://github.com/kubie-org/kubie/stargazers) 2.5K [🚀](https://github.com/kubie-org/kubie/network/members) 128 [💥](https://github.com/kubie-org/kubie/issues) 59 🪪  zlib License
 *A more powerful alternative to kubectx and kubens*
 
-### 222 - [KubeArmor](https://github.com/kubearmor/KubeArmor) [⭐️](https://github.com/kubearmor/KubeArmor/stargazers) 2.5K [🚀](https://github.com/kubearmor/KubeArmor/network/members) 512 [💥](https://github.com/kubearmor/KubeArmor/issues) 388 🪪  Apache License 2.0
+### 222 - [KubeArmor](https://github.com/kubearmor/KubeArmor) [⭐️](https://github.com/kubearmor/KubeArmor/stargazers) 2.5K [🚀](https://github.com/kubearmor/KubeArmor/network/members) 513 [💥](https://github.com/kubearmor/KubeArmor/issues) 391 🪪  Apache License 2.0
 *Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor).*
 
-### 223 - [Pluto](https://github.com/FairwindsOps/pluto) [⭐️](https://github.com/FairwindsOps/pluto/stargazers) 2.5K [🚀](https://github.com/FairwindsOps/pluto/network/members) 141 [💥](https://github.com/FairwindsOps/pluto/issues) 5 🪪  Apache License 2.0
-*A cli tool to help discover deprecated apiVersions in Kubernetes*
-
-### 224 - [Kured](https://github.com/kubereboot/kured) [⭐️](https://github.com/kubereboot/kured/stargazers) 2.5K [🚀](https://github.com/kubereboot/kured/network/members) 231 [💥](https://github.com/kubereboot/kured/issues) 60 🪪  Apache License 2.0
+### 223 - [Kured](https://github.com/kubereboot/kured) [⭐️](https://github.com/kubereboot/kured/stargazers) 2.5K [🚀](https://github.com/kubereboot/kured/network/members) 231 [💥](https://github.com/kubereboot/kured/issues) 61 🪪  Apache License 2.0
 *Kubernetes Reboot Daemon*
+
+### 224 - [Pluto](https://github.com/FairwindsOps/pluto) [⭐️](https://github.com/FairwindsOps/pluto/stargazers) 2.5K [🚀](https://github.com/FairwindsOps/pluto/network/members) 140 [💥](https://github.com/FairwindsOps/pluto/issues) 5 🪪  Apache License 2.0
+*A cli tool to help discover deprecated apiVersions in Kubernetes*
 
 ### 225 - [Brigade](https://github.com/brigadecore/brigade) [⭐️](https://github.com/brigadecore/brigade/stargazers) 2.4K [🚀](https://github.com/brigadecore/brigade/network/members) 244 [💥](https://github.com/brigadecore/brigade/issues) 31 🪪  Apache License 2.0
 *Event-driven scripting for Kubernetes*
@@ -706,7 +706,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 229 - [AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) [⭐️](https://github.com/LeanerCloud/AutoSpotting/stargazers) 2.3K [🚀](https://github.com/LeanerCloud/AutoSpotting/network/members) 313 [💥](https://github.com/LeanerCloud/AutoSpotting/issues) 45 🪪  Open Software License 3.0
 *Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances.*
 
-### 230 - [Kube-ovn](https://github.com/kubeovn/kube-ovn) [⭐️](https://github.com/kubeovn/kube-ovn/stargazers) 2.3K [🚀](https://github.com/kubeovn/kube-ovn/network/members) 544 [💥](https://github.com/kubeovn/kube-ovn/issues) 45 🪪  Apache License 2.0
+### 230 - [Kube-ovn](https://github.com/kubeovn/kube-ovn) [⭐️](https://github.com/kubeovn/kube-ovn/stargazers) 2.3K [🚀](https://github.com/kubeovn/kube-ovn/network/members) 544 [💥](https://github.com/kubeovn/kube-ovn/issues) 47 🪪  Apache License 2.0
 *A Bridge between SDN and Cloud Native (Project under CNCF)*
 
 ### 231 - [Kubelogin](https://github.com/int128/kubelogin) [⭐️](https://github.com/int128/kubelogin/stargazers) 2.3K [🚀](https://github.com/int128/kubelogin/network/members) 239 [💥](https://github.com/int128/kubelogin/issues) 116 🪪  Apache License 2.0
@@ -715,19 +715,19 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 232 - [Botkube](https://github.com/kubeshop/botkube) [⭐️](https://github.com/kubeshop/botkube/stargazers) 2.2K [🚀](https://github.com/kubeshop/botkube/network/members) 308 [💥](https://github.com/kubeshop/botkube/issues) 64 🪪  MIT License
 *An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices*
 
-### 233 - [Kubenav](https://github.com/kubenav/kubenav) [⭐️](https://github.com/kubenav/kubenav/stargazers) 2.2K [🚀](https://github.com/kubenav/kubenav/network/members) 150 [💥](https://github.com/kubenav/kubenav/issues) 44 🪪  MIT License
-*kubenav is the navigator for your Kubernetes clusters right in your pocket.*
-
-### 234 - [Netwatch](https://github.com/matthart1983/netwatch) [⭐️](https://github.com/matthart1983/netwatch/stargazers) 2.2K [🚀](https://github.com/matthart1983/netwatch/network/members) 95 [💥](https://github.com/matthart1983/netwatch/issues) 0 🪪  MIT License
+### 233 - [Netwatch](https://github.com/matthart1983/netwatch) [⭐️](https://github.com/matthart1983/netwatch/stargazers) 2.2K [🚀](https://github.com/matthart1983/netwatch/network/members) 95 [💥](https://github.com/matthart1983/netwatch/issues) 0 🪪  MIT License
 *Real-time network diagnostics in your terminal. One command, zero config, instant visibility.*
 
-### 235 - [Rke2](https://github.com/rancher/rke2) [⭐️](https://github.com/rancher/rke2/stargazers) 2.2K [🚀](https://github.com/rancher/rke2/network/members) 348 [💥](https://github.com/rancher/rke2/issues) 114 🪪  Apache License 2.0
+### 234 - [Kubenav](https://github.com/kubenav/kubenav) [⭐️](https://github.com/kubenav/kubenav/stargazers) 2.2K [🚀](https://github.com/kubenav/kubenav/network/members) 150 [💥](https://github.com/kubenav/kubenav/issues) 44 🪪  MIT License
+*kubenav is the navigator for your Kubernetes clusters right in your pocket.*
+
+### 235 - [Rke2](https://github.com/rancher/rke2) [⭐️](https://github.com/rancher/rke2/stargazers) 2.2K [🚀](https://github.com/rancher/rke2/network/members) 348 [💥](https://github.com/rancher/rke2/issues) 94 🪪  Apache License 2.0
 *No description in repo.*
 
-### 236 - [Kilo](https://github.com/squat/kilo) [⭐️](https://github.com/squat/kilo/stargazers) 2.2K [🚀](https://github.com/squat/kilo/network/members) 139 [💥](https://github.com/squat/kilo/issues) 91 🪪  Apache License 2.0
+### 236 - [Kilo](https://github.com/squat/kilo) [⭐️](https://github.com/squat/kilo/stargazers) 2.2K [🚀](https://github.com/squat/kilo/network/members) 140 [💥](https://github.com/squat/kilo/issues) 91 🪪  Apache License 2.0
 *Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)*
 
-### 237 - [Apl-core](https://github.com/linode/apl-core) [⭐️](https://github.com/linode/apl-core/stargazers) 2.2K [🚀](https://github.com/linode/apl-core/network/members) 180 [💥](https://github.com/linode/apl-core/issues) 58 🪪  Apache License 2.0
+### 237 - [Apl-core](https://github.com/linode/apl-core) [⭐️](https://github.com/linode/apl-core/stargazers) 2.2K [🚀](https://github.com/linode/apl-core/network/members) 181 [💥](https://github.com/linode/apl-core/issues) 59 🪪  Apache License 2.0
 *App Platform for Linode Kubernetes Engine*
 
 ### 238 - [Kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) [⭐️](https://github.com/kuberhealthy/kuberhealthy/stargazers) 2.2K [🚀](https://github.com/kuberhealthy/kuberhealthy/network/members) 291 [💥](https://github.com/kuberhealthy/kuberhealthy/issues) 8 🪪  Apache License 2.0
@@ -772,7 +772,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 251 - [Typhoon](https://github.com/poseidon/typhoon) [⭐️](https://github.com/poseidon/typhoon/stargazers) 2.0K [🚀](https://github.com/poseidon/typhoon/network/members) 324 [💥](https://github.com/poseidon/typhoon/issues) 6 🪪  MIT License
 *Minimal and free Kubernetes distribution with Terraform*
 
-### 252 - [Kube2iam](https://github.com/jtblin/kube2iam) [⭐️](https://github.com/jtblin/kube2iam/stargazers) 2.0K [🚀](https://github.com/jtblin/kube2iam/network/members) 333 [💥](https://github.com/jtblin/kube2iam/issues) 13 🪪  BSD 3-Clause "New" or "Revised" License
+### 252 - [Kube2iam](https://github.com/jtblin/kube2iam) [⭐️](https://github.com/jtblin/kube2iam/stargazers) 2.0K [🚀](https://github.com/jtblin/kube2iam/network/members) 332 [💥](https://github.com/jtblin/kube2iam/issues) 14 🪪  BSD 3-Clause "New" or "Revised" License
 *kube2iam provides different AWS IAM roles for pods running on Kubernetes*
 
 ### 253 - [Caretta](https://github.com/groundcover-com/caretta) [⭐️](https://github.com/groundcover-com/caretta/stargazers) 2.0K [🚀](https://github.com/groundcover-com/caretta/network/members) 81 [💥](https://github.com/groundcover-com/caretta/issues) 18 🪪  Apache License 2.0
@@ -781,10 +781,10 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 254 - [Xlskubectl](https://github.com/learnk8s/xlskubectl) [⭐️](https://github.com/learnk8s/xlskubectl/stargazers) 2.0K [🚀](https://github.com/learnk8s/xlskubectl/network/members) 78 [💥](https://github.com/learnk8s/xlskubectl/issues) 7 🪪  N.A.
 *xlskubectl — a spreadsheet to control your Kubernetes cluster*
 
-### 255 - [Kamaji](https://github.com/clastix/kamaji) [⭐️](https://github.com/clastix/kamaji/stargazers) 1.9K [🚀](https://github.com/clastix/kamaji/network/members) 207 [💥](https://github.com/clastix/kamaji/issues) 32 🪪  Apache License 2.0
+### 255 - [Kamaji](https://github.com/clastix/kamaji) [⭐️](https://github.com/clastix/kamaji/stargazers) 1.9K [🚀](https://github.com/clastix/kamaji/network/members) 207 [💥](https://github.com/clastix/kamaji/issues) 30 🪪  Apache License 2.0
 *Kamaji is the Hosted Control Plane Manager for Kubernetes.*
 
-### 256 - [Openyurt](https://github.com/openyurtio/openyurt) [⭐️](https://github.com/openyurtio/openyurt/stargazers) 1.9K [🚀](https://github.com/openyurtio/openyurt/network/members) 450 [💥](https://github.com/openyurtio/openyurt/issues) 52 🪪  Apache License 2.0
+### 256 - [Openyurt](https://github.com/openyurtio/openyurt) [⭐️](https://github.com/openyurtio/openyurt/stargazers) 1.9K [🚀](https://github.com/openyurtio/openyurt/network/members) 452 [💥](https://github.com/openyurtio/openyurt/issues) 66 🪪  Apache License 2.0
 *OpenYurt - Extending your native Kubernetes to edge(project under CNCF)*
 
 ### 257 - [Powerfulseal](https://github.com/powerfulseal/powerfulseal) [⭐️](https://github.com/powerfulseal/powerfulseal/stargazers) 1.9K [🚀](https://github.com/powerfulseal/powerfulseal/network/members) 164 [💥](https://github.com/powerfulseal/powerfulseal/issues) 55 🪪  Apache License 2.0
@@ -799,16 +799,16 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 260 - [Kubewall](https://github.com/kubewall/kubewall) [⭐️](https://github.com/kubewall/kubewall/stargazers) 1.9K [🚀](https://github.com/kubewall/kubewall/network/members) 99 [💥](https://github.com/kubewall/kubewall/issues) 30 🪪  Apache License 2.0
 *kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)*
 
-### 261 - [Apptainer](https://github.com/apptainer/apptainer) [⭐️](https://github.com/apptainer/apptainer/stargazers) 1.9K [🚀](https://github.com/apptainer/apptainer/network/members) 185 [💥](https://github.com/apptainer/apptainer/issues) 190 🪪  Other
+### 261 - [Apptainer](https://github.com/apptainer/apptainer) [⭐️](https://github.com/apptainer/apptainer/stargazers) 1.9K [🚀](https://github.com/apptainer/apptainer/network/members) 185 [💥](https://github.com/apptainer/apptainer/issues) 191 🪪  Other
 *Apptainer: Application containers for Linux*
 
-### 262 - [Kpt](https://github.com/kptdev/kpt) [⭐️](https://github.com/kptdev/kpt/stargazers) 1.8K [🚀](https://github.com/kptdev/kpt/network/members) 259 [💥](https://github.com/kptdev/kpt/issues) 378 🪪  Apache License 2.0
+### 262 - [Kpt](https://github.com/kptdev/kpt) [⭐️](https://github.com/kptdev/kpt/stargazers) 1.8K [🚀](https://github.com/kptdev/kpt/network/members) 259 [💥](https://github.com/kptdev/kpt/issues) 372 🪪  Apache License 2.0
 *Automate Kubernetes Configuration Editing*
 
 ### 263 - [Ytt](https://github.com/carvel-dev/ytt) [⭐️](https://github.com/carvel-dev/ytt/stargazers) 1.8K [🚀](https://github.com/carvel-dev/ytt/network/members) 160 [💥](https://github.com/carvel-dev/ytt/issues) 158 🪪  Apache License 2.0
 *YAML templating tool that works on YAML structure instead of text*
 
-### 264 - [Loxilb](https://github.com/loxilb-io/loxilb) [⭐️](https://github.com/loxilb-io/loxilb/stargazers) 1.8K [🚀](https://github.com/loxilb-io/loxilb/network/members) 144 [💥](https://github.com/loxilb-io/loxilb/issues) 29 🪪  Apache License 2.0
+### 264 - [Loxilb](https://github.com/loxilb-io/loxilb) [⭐️](https://github.com/loxilb-io/loxilb/stargazers) 1.8K [🚀](https://github.com/loxilb-io/loxilb/network/members) 144 [💥](https://github.com/loxilb-io/loxilb/issues) 28 🪪  Apache License 2.0
 *eBPF based cloud-native load-balancer for Kubernetes|Edge|Telco|IoT|XaaS.*
 
 ### 265 - [Kubepug](https://github.com/kubepug/kubepug) [⭐️](https://github.com/kubepug/kubepug/stargazers) 1.8K [🚀](https://github.com/kubepug/kubepug/network/members) 81 [💥](https://github.com/kubepug/kubepug/issues) 38 🪪  Apache License 2.0
@@ -829,7 +829,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 270 - [Karpor](https://github.com/KusionStack/karpor) [⭐️](https://github.com/KusionStack/karpor/stargazers) 1.7K [🚀](https://github.com/KusionStack/karpor/network/members) 114 [💥](https://github.com/KusionStack/karpor/issues) 90 🪪  Apache License 2.0
 *Intelligence for Kubernetes. World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams.*
 
-### 271 - [Fleet](https://github.com/rancher/fleet) [⭐️](https://github.com/rancher/fleet/stargazers) 1.7K [🚀](https://github.com/rancher/fleet/network/members) 275 [💥](https://github.com/rancher/fleet/issues) 180 🪪  Apache License 2.0
+### 271 - [Fleet](https://github.com/rancher/fleet) [⭐️](https://github.com/rancher/fleet/stargazers) 1.7K [🚀](https://github.com/rancher/fleet/network/members) 275 [💥](https://github.com/rancher/fleet/issues) 178 🪪  Apache License 2.0
 *Deploy workloads from Git to large fleets of Kubernetes clusters*
 
 ### 272 - [Kubevious](https://github.com/kubevious/kubevious) [⭐️](https://github.com/kubevious/kubevious/stargazers) 1.7K [🚀](https://github.com/kubevious/kubevious/network/members) 97 [💥](https://github.com/kubevious/kubevious/issues) 17 🪪  Apache License 2.0
@@ -850,13 +850,13 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 277 - [Kftray](https://github.com/hcavarsan/kftray) [⭐️](https://github.com/hcavarsan/kftray/stargazers) 1.5K [🚀](https://github.com/hcavarsan/kftray/network/members) 73 [💥](https://github.com/hcavarsan/kftray/issues) 15 🪪  GNU General Public License v3.0
 *kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding, multi-hop proxy routing through k8s clusters, stateful config via filesystem or git - GUI and TUI available*
 
-### 278 - [Kubeone](https://github.com/kubermatic/kubeone) [⭐️](https://github.com/kubermatic/kubeone/stargazers) 1.5K [🚀](https://github.com/kubermatic/kubeone/network/members) 254 [💥](https://github.com/kubermatic/kubeone/issues) 102 🪪  Apache License 2.0
+### 278 - [Kubeone](https://github.com/kubermatic/kubeone) [⭐️](https://github.com/kubermatic/kubeone/stargazers) 1.5K [🚀](https://github.com/kubermatic/kubeone/network/members) 254 [💥](https://github.com/kubermatic/kubeone/issues) 100 🪪  Apache License 2.0
 *Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.*
 
 ### 279 - [Peirates](https://github.com/inguardians/peirates) [⭐️](https://github.com/inguardians/peirates/stargazers) 1.4K [🚀](https://github.com/inguardians/peirates/network/members) 133 [💥](https://github.com/inguardians/peirates/issues) 25 🪪  GNU General Public License v2.0
 *Peirates - Kubernetes Penetration Testing tool*
 
-### 280 - [Liqo](https://github.com/liqotech/liqo) [⭐️](https://github.com/liqotech/liqo/stargazers) 1.4K [🚀](https://github.com/liqotech/liqo/network/members) 147 [💥](https://github.com/liqotech/liqo/issues) 100 🪪  Apache License 2.0
+### 280 - [Liqo](https://github.com/liqotech/liqo) [⭐️](https://github.com/liqotech/liqo/stargazers) 1.4K [🚀](https://github.com/liqotech/liqo/network/members) 147 [💥](https://github.com/liqotech/liqo/issues) 101 🪪  Apache License 2.0
 *Enable dynamic and seamless Kubernetes multi-cluster topologies*
 
 ### 281 - [Skooner](https://github.com/skooner-k8s/skooner) [⭐️](https://github.com/skooner-k8s/skooner/stargazers) 1.4K [🚀](https://github.com/skooner-k8s/skooner/network/members) 187 [💥](https://github.com/skooner-k8s/skooner/issues) 110 🪪  Apache License 2.0
@@ -868,13 +868,13 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 283 - [KubiScan](https://github.com/cyberark/KubiScan) [⭐️](https://github.com/cyberark/KubiScan/stargazers) 1.4K [🚀](https://github.com/cyberark/KubiScan/network/members) 141 [💥](https://github.com/cyberark/KubiScan/issues) 6 🪪  GNU General Public License v3.0
 *A tool to scan Kubernetes cluster for risky permissions*
 
-### 284 - [Shifu](https://github.com/Edgenesis/shifu) [⭐️](https://github.com/Edgenesis/shifu/stargazers) 1.4K [🚀](https://github.com/Edgenesis/shifu/network/members) 138 [💥](https://github.com/Edgenesis/shifu/issues) 20 🪪  Apache License 2.0
+### 284 - [Shifu](https://github.com/Edgenesis/shifu) [⭐️](https://github.com/Edgenesis/shifu/stargazers) 1.4K [🚀](https://github.com/Edgenesis/shifu/network/members) 138 [💥](https://github.com/Edgenesis/shifu/issues) 23 🪪  Apache License 2.0
 *Kubernetes-native IoT gateway*
 
 ### 285 - [Stash](https://github.com/stashed/stash) [⭐️](https://github.com/stashed/stash/stargazers) 1.4K [🚀](https://github.com/stashed/stash/network/members) 86 [💥](https://github.com/stashed/stash/issues) 119 🪪  Other
 *🛅 Backup your Kubernetes Stateful Applications*
 
-### 286 - [Porter](https://github.com/getporter/porter) [⭐️](https://github.com/getporter/porter/stargazers) 1.4K [🚀](https://github.com/getporter/porter/network/members) 222 [💥](https://github.com/getporter/porter/issues) 129 🪪  Apache License 2.0
+### 286 - [Porter](https://github.com/getporter/porter) [⭐️](https://github.com/getporter/porter/stargazers) 1.4K [🚀](https://github.com/getporter/porter/network/members) 222 [💥](https://github.com/getporter/porter/issues) 130 🪪  Apache License 2.0
 *Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.*
 
 ### 287 - [Stackgres](https://github.com/ongres/stackgres) [⭐️](https://github.com/ongres/stackgres/stargazers) 1.4K [🚀](https://github.com/ongres/stackgres/network/members) 73 [💥](https://github.com/ongres/stackgres/issues) 1 🪪  GNU Affero General Public License v3.0
@@ -904,7 +904,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 295 - [Kusion](https://github.com/KusionStack/kusion) [⭐️](https://github.com/KusionStack/kusion/stargazers) 1.3K [🚀](https://github.com/KusionStack/kusion/network/members) 108 [💥](https://github.com/KusionStack/kusion/issues) 53 🪪  Apache License 2.0
 *Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).*
 
-### 296 - [Openchoreo](https://github.com/openchoreo/openchoreo) [⭐️](https://github.com/openchoreo/openchoreo/stargazers) 1.2K [🚀](https://github.com/openchoreo/openchoreo/network/members) 197 [💥](https://github.com/openchoreo/openchoreo/issues) 204 🪪  Apache License 2.0
+### 296 - [Openchoreo](https://github.com/openchoreo/openchoreo) [⭐️](https://github.com/openchoreo/openchoreo/stargazers) 1.2K [🚀](https://github.com/openchoreo/openchoreo/network/members) 199 [💥](https://github.com/openchoreo/openchoreo/issues) 212 🪪  Apache License 2.0
 *OpenChoreo is a developer platform for Kubernetes*
 
 ### 297 - [Kudo](https://github.com/kudobuilder/kudo) [⭐️](https://github.com/kudobuilder/kudo/stargazers) 1.2K [🚀](https://github.com/kudobuilder/kudo/network/members) 104 [💥](https://github.com/kudobuilder/kudo/issues) 190 🪪  Apache License 2.0
@@ -913,16 +913,16 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 298 - [Kubeview](https://github.com/benc-uk/kubeview) [⭐️](https://github.com/benc-uk/kubeview/stargazers) 1.2K [🚀](https://github.com/benc-uk/kubeview/network/members) 136 [💥](https://github.com/benc-uk/kubeview/issues) 10 🪪  MIT License
 *KubeView is a Kubernetes cluster visualization tool that provides a graphical representation of your cluster's resources and their relationships*
 
-### 299 - [K8gb](https://github.com/k8gb-io/k8gb) [⭐️](https://github.com/k8gb-io/k8gb/stargazers) 1.1K [🚀](https://github.com/k8gb-io/k8gb/network/members) 145 [💥](https://github.com/k8gb-io/k8gb/issues) 43 🪪  Apache License 2.0
+### 299 - [K8gb](https://github.com/k8gb-io/k8gb) [⭐️](https://github.com/k8gb-io/k8gb/stargazers) 1.1K [🚀](https://github.com/k8gb-io/k8gb/network/members) 146 [💥](https://github.com/k8gb-io/k8gb/issues) 44 🪪  Apache License 2.0
 *A cloud native Kubernetes Global Balancer*
 
 ### 300 - [Kubediff](https://github.com/weaveworks/kubediff) [⭐️](https://github.com/weaveworks/kubediff/stargazers) 1.1K [🚀](https://github.com/weaveworks/kubediff/network/members) 100 [💥](https://github.com/weaveworks/kubediff/issues) 31 🪪  Apache License 2.0
 *Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration.*
 
-### 301 - [Kubeswitch](https://github.com/danielfoehrKn/kubeswitch) [⭐️](https://github.com/danielfoehrKn/kubeswitch/stargazers) 1.1K [🚀](https://github.com/danielfoehrKn/kubeswitch/network/members) 104 [💥](https://github.com/danielfoehrKn/kubeswitch/issues) 60 🪪  Apache License 2.0
+### 301 - [Kubeswitch](https://github.com/danielfoehrKn/kubeswitch) [⭐️](https://github.com/danielfoehrKn/kubeswitch/stargazers) 1.1K [🚀](https://github.com/danielfoehrKn/kubeswitch/network/members) 105 [💥](https://github.com/danielfoehrKn/kubeswitch/issues) 60 🪪  Apache License 2.0
 *The kubectx for operators.*
 
-### 302 - [Cluster-api-provider-hetzner](https://github.com/syself/cluster-api-provider-hetzner) [⭐️](https://github.com/syself/cluster-api-provider-hetzner/stargazers) 1.1K [🚀](https://github.com/syself/cluster-api-provider-hetzner/network/members) 104 [💥](https://github.com/syself/cluster-api-provider-hetzner/issues) 180 🪪  Apache License 2.0
+### 302 - [Cluster-api-provider-hetzner](https://github.com/syself/cluster-api-provider-hetzner) [⭐️](https://github.com/syself/cluster-api-provider-hetzner/stargazers) 1.1K [🚀](https://github.com/syself/cluster-api-provider-hetzner/network/members) 104 [💥](https://github.com/syself/cluster-api-provider-hetzner/issues) 181 🪪  Apache License 2.0
 *Cluster API Provider Hetzner :rocket: The best way to manage Kubernetes clusters on Hetzner, fully declarative, Kubernetes-native and with self-healing capabilities*
 
 ### 303 - [Runtime](https://github.com/acorn-io/runtime) [⭐️](https://github.com/acorn-io/runtime/stargazers) 1.1K [🚀](https://github.com/acorn-io/runtime/network/members) 99 [💥](https://github.com/acorn-io/runtime/issues) 239 🪪  Apache License 2.0
@@ -943,11 +943,11 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 308 - [Rbac-tool](https://github.com/alcideio/rbac-tool) [⭐️](https://github.com/alcideio/rbac-tool/stargazers) 1.0K [🚀](https://github.com/alcideio/rbac-tool/network/members) 72 [💥](https://github.com/alcideio/rbac-tool/issues) 12 🪪  Apache License 2.0
 *Rapid7 | insightCloudSec | Kubernetes RBAC Power Toys - Visualize, Analyze, Generate & Query*
 
-### 309 - [Gravity](https://github.com/gravitational/gravity) [⭐️](https://github.com/gravitational/gravity/stargazers) 1.0K [🚀](https://github.com/gravitational/gravity/network/members) 108 [💥](https://github.com/gravitational/gravity/issues) 0 🪪  Apache License 2.0 💀 Deprecated
-*Kubernetes application deployments for restricted, regulated, or remote environments*
-
-### 310 - [Kpack](https://github.com/buildpacks-community/kpack) [⭐️](https://github.com/buildpacks-community/kpack/stargazers) 1.0K [🚀](https://github.com/buildpacks-community/kpack/network/members) 178 [💥](https://github.com/buildpacks-community/kpack/issues) 115 🪪  Apache License 2.0
+### 309 - [Kpack](https://github.com/buildpacks-community/kpack) [⭐️](https://github.com/buildpacks-community/kpack/stargazers) 1.0K [🚀](https://github.com/buildpacks-community/kpack/network/members) 178 [💥](https://github.com/buildpacks-community/kpack/issues) 115 🪪  Apache License 2.0
 *Kubernetes Native Container Build Service*
+
+### 310 - [Gravity](https://github.com/gravitational/gravity) [⭐️](https://github.com/gravitational/gravity/stargazers) 1.0K [🚀](https://github.com/gravitational/gravity/network/members) 108 [💥](https://github.com/gravitational/gravity/issues) 0 🪪  Apache License 2.0 💀 Deprecated
+*Kubernetes application deployments for restricted, regulated, or remote environments*
 
 ### 311 - [Kiosk](https://github.com/loft-sh/kiosk) [⭐️](https://github.com/loft-sh/kiosk/stargazers) 1.0K [🚀](https://github.com/loft-sh/kiosk/network/members) 72 [💥](https://github.com/loft-sh/kiosk/issues) 20 🪪  Apache License 2.0 💀 Archived
 *kiosk 🏢 Multi-Tenancy Extension For Kubernetes - Secure Cluster Sharing & Self-Service Namespace Provisioning*
@@ -979,19 +979,19 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 320 - [Kots](https://github.com/replicatedhq/kots) [⭐️](https://github.com/replicatedhq/kots/stargazers) 947 [🚀](https://github.com/replicatedhq/kots/network/members) 98 [💥](https://github.com/replicatedhq/kots/issues) 115 🪪  Apache License 2.0
 *KOTS provides the framework, tools and integrations that enable the delivery and management of 3rd-party Kubernetes applications, a.k.a. Kubernetes Off-The-Shelf (KOTS) Software.*
 
-### 321 - [X509-certificate-exporter](https://github.com/enix/x509-certificate-exporter) [⭐️](https://github.com/enix/x509-certificate-exporter/stargazers) 939 [🚀](https://github.com/enix/x509-certificate-exporter/network/members) 108 [💥](https://github.com/enix/x509-certificate-exporter/issues) 28 🪪  MIT License
+### 321 - [X509-certificate-exporter](https://github.com/enix/x509-certificate-exporter) [⭐️](https://github.com/enix/x509-certificate-exporter/stargazers) 939 [🚀](https://github.com/enix/x509-certificate-exporter/network/members) 108 [💥](https://github.com/enix/x509-certificate-exporter/issues) 29 🪪  MIT License
 *A Prometheus exporter for X.509 certificates, built for Kubernetes first but equally happy as a standalone binary*
 
 ### 322 - [Kamus](https://github.com/Soluto/kamus) [⭐️](https://github.com/Soluto/kamus/stargazers) 935 [🚀](https://github.com/Soluto/kamus/network/members) 66 [💥](https://github.com/Soluto/kamus/issues) 0 🪪  Apache License 2.0
 *An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications*
 
-### 323 - [Kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) [⭐️](https://github.com/rohitg00/kubectl-mcp-server/stargazers) 931 [🚀](https://github.com/rohitg00/kubectl-mcp-server/network/members) 177 [💥](https://github.com/rohitg00/kubectl-mcp-server/issues) 4 🪪  MIT License
+### 323 - [Kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) [⭐️](https://github.com/rohitg00/kubectl-mcp-server/stargazers) 932 [🚀](https://github.com/rohitg00/kubectl-mcp-server/network/members) 177 [💥](https://github.com/rohitg00/kubectl-mcp-server/issues) 4 🪪  MIT License
 *Published in CNCF Landscape: A MCP server for Kubernetes.*
 
 ### 324 - [K8Studio](https://github.com/guiqui/k8Studio) [⭐️](https://github.com/guiqui/k8Studio/stargazers) 920 [🚀](https://github.com/guiqui/k8Studio/network/members) 30 [💥](https://github.com/guiqui/k8Studio/issues) 39 🪪  Other
 *K8Studio: A Kubernetes IDE*
 
-### 325 - [Hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) [⭐️](https://github.com/hetznercloud/hcloud-cloud-controller-manager/stargazers) 920 [🚀](https://github.com/hetznercloud/hcloud-cloud-controller-manager/network/members) 138 [💥](https://github.com/hetznercloud/hcloud-cloud-controller-manager/issues) 37 🪪  Apache License 2.0
+### 325 - [Hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) [⭐️](https://github.com/hetznercloud/hcloud-cloud-controller-manager/stargazers) 920 [🚀](https://github.com/hetznercloud/hcloud-cloud-controller-manager/network/members) 137 [💥](https://github.com/hetznercloud/hcloud-cloud-controller-manager/issues) 39 🪪  Apache License 2.0
 *Kubernetes cloud-controller-manager for Hetzner Cloud*
 
 ### 326 - [Helmwave](https://github.com/helmwave/helmwave) [⭐️](https://github.com/helmwave/helmwave/stargazers) 891 [🚀](https://github.com/helmwave/helmwave/network/members) 46 [💥](https://github.com/helmwave/helmwave/issues) 25 🪪  MIT License
@@ -1000,7 +1000,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 327 - [Webkubectl](https://github.com/1Panel-dev/webkubectl) [⭐️](https://github.com/1Panel-dev/webkubectl/stargazers) 883 [🚀](https://github.com/1Panel-dev/webkubectl/network/members) 128 [💥](https://github.com/1Panel-dev/webkubectl/issues) 14 🪪  Apache License 2.0
 *Run kubectl command in Web Browser.*
 
-### 328 - [Kanister](https://github.com/kanisterio/kanister) [⭐️](https://github.com/kanisterio/kanister/stargazers) 883 [🚀](https://github.com/kanisterio/kanister/network/members) 178 [💥](https://github.com/kanisterio/kanister/issues) 80 🪪  Apache License 2.0
+### 328 - [Kanister](https://github.com/kanisterio/kanister) [⭐️](https://github.com/kanisterio/kanister/stargazers) 883 [🚀](https://github.com/kanisterio/kanister/network/members) 178 [💥](https://github.com/kanisterio/kanister/issues) 86 🪪  Apache License 2.0
 *An extensible framework for application-level data management on Kubernetes, Kanister is a Cloud Native Computing Foundation sandbox project and was originally created by the Veeam Kasten team.*
 
 ### 329 - [Clusterpedia](https://github.com/clusterpedia-io/clusterpedia) [⭐️](https://github.com/clusterpedia-io/clusterpedia/stargazers) 881 [🚀](https://github.com/clusterpedia-io/clusterpedia/network/members) 126 [💥](https://github.com/clusterpedia-io/clusterpedia/issues) 65 🪪  Apache License 2.0
@@ -1012,7 +1012,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 331 - [Jkube](https://github.com/eclipse-jkube/jkube) [⭐️](https://github.com/eclipse-jkube/jkube/stargazers) 851 [🚀](https://github.com/eclipse-jkube/jkube/network/members) 553 [💥](https://github.com/eclipse-jkube/jkube/issues) 155 🪪  Eclipse Public License 2.0
 *Build and Deploy java applications on Kubernetes*
 
-### 332 - [Loft](https://github.com/loft-sh/loft) [⭐️](https://github.com/loft-sh/loft/stargazers) 844 [🚀](https://github.com/loft-sh/loft/network/members) 78 [💥](https://github.com/loft-sh/loft/issues) 10 🪪  Other
+### 332 - [Loft](https://github.com/loft-sh/loft) [⭐️](https://github.com/loft-sh/loft/stargazers) 845 [🚀](https://github.com/loft-sh/loft/network/members) 78 [💥](https://github.com/loft-sh/loft/issues) 10 🪪  Other
 *Namespace & Virtual Cluster Manager for Kubernetes - Lightweight Virtual Clusters, Self-Service Provisioning for Engineers and 70% Cost Savings with Sleep Mode*
 
 ### 333 - [Validkube](https://github.com/komodorio/validkube) [⭐️](https://github.com/komodorio/validkube/stargazers) 840 [🚀](https://github.com/komodorio/validkube/network/members) 64 [💥](https://github.com/komodorio/validkube/issues) 24 🪪  Apache License 2.0
@@ -1027,13 +1027,13 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 336 - [Kube-scan](https://github.com/octarinesec/kube-scan) [⭐️](https://github.com/octarinesec/kube-scan/stargazers) 803 [🚀](https://github.com/octarinesec/kube-scan/network/members) 107 [💥](https://github.com/octarinesec/kube-scan/issues) 40 🪪  MIT License 💀 Deprecated
 *kube-scan: Octarine k8s cluster risk assessment tool*
 
-### 337 - [Gefyra](https://github.com/gefyrahq/gefyra) [⭐️](https://github.com/gefyrahq/gefyra/stargazers) 794 [🚀](https://github.com/gefyrahq/gefyra/network/members) 35 [💥](https://github.com/gefyrahq/gefyra/issues) 47 🪪  Apache License 2.0
+### 337 - [Gefyra](https://github.com/gefyrahq/gefyra) [⭐️](https://github.com/gefyrahq/gefyra/stargazers) 794 [🚀](https://github.com/gefyrahq/gefyra/network/members) 35 [💥](https://github.com/gefyrahq/gefyra/issues) 52 🪪  Apache License 2.0
 *Blazingly-fast :rocket:, rock-solid, local application development :arrow_right: with Kubernetes.*
 
 ### 338 - [Kubewatch](https://github.com/robusta-dev/kubewatch) [⭐️](https://github.com/robusta-dev/kubewatch/stargazers) 790 [🚀](https://github.com/robusta-dev/kubewatch/network/members) 104 [💥](https://github.com/robusta-dev/kubewatch/issues) 29 🪪  Apache License 2.0
 *Watch k8s events and trigger Handlers*
 
-### 339 - [Claudie](https://github.com/berops/claudie) [⭐️](https://github.com/berops/claudie/stargazers) 786 [🚀](https://github.com/berops/claudie/network/members) 59 [💥](https://github.com/berops/claudie/issues) 57 🪪  Apache License 2.0
+### 339 - [Claudie](https://github.com/berops/claudie) [⭐️](https://github.com/berops/claudie/stargazers) 787 [🚀](https://github.com/berops/claudie/network/members) 59 [💥](https://github.com/berops/claudie/issues) 57 🪪  Apache License 2.0
 *Cloud-agnostic managed Kubernetes*
 
 ### 340 - [Ketall](https://github.com/corneliusweig/ketall) [⭐️](https://github.com/corneliusweig/ketall/stargazers) 752 [🚀](https://github.com/corneliusweig/ketall/network/members) 29 [💥](https://github.com/corneliusweig/ketall/issues) 15 🪪  Apache License 2.0
@@ -1060,7 +1060,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 347 - [Peanut](https://github.com/Clivern/Peanut) [⭐️](https://github.com/Clivern/Peanut/stargazers) 726 [🚀](https://github.com/Clivern/Peanut/network/members) 29 [💥](https://github.com/Clivern/Peanut/issues) 25 🪪  MIT License
 *🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.*
 
-### 348 - [K0smotron](https://github.com/k0sproject/k0smotron) [⭐️](https://github.com/k0sproject/k0smotron/stargazers) 721 [🚀](https://github.com/k0sproject/k0smotron/network/members) 78 [💥](https://github.com/k0sproject/k0smotron/issues) 51 🪪  Other
+### 348 - [K0smotron](https://github.com/k0sproject/k0smotron) [⭐️](https://github.com/k0sproject/k0smotron/stargazers) 721 [🚀](https://github.com/k0sproject/k0smotron/network/members) 78 [💥](https://github.com/k0sproject/k0smotron/issues) 53 🪪  Other
 *k0smotron*
 
 ### 349 - [Drbd](https://github.com/LINBIT/drbd) [⭐️](https://github.com/LINBIT/drbd/stargazers) 713 [🚀](https://github.com/LINBIT/drbd/network/members) 115 [💥](https://github.com/LINBIT/drbd/issues) 37 🪪  GNU General Public License v2.0
@@ -1072,13 +1072,13 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 351 - [Terraform-kubestack](https://github.com/kbst/terraform-kubestack) [⭐️](https://github.com/kbst/terraform-kubestack/stargazers) 712 [🚀](https://github.com/kbst/terraform-kubestack/network/members) 97 [💥](https://github.com/kbst/terraform-kubestack/issues) 21 🪪  Apache License 2.0
 *Kubestack is a framework for Kubernetes platform engineering teams to define the entire cloud native stack in one Terraform code base and continuously evolve the platform safely through GitOps.*
 
-### 352 - [Consul-k8s](https://github.com/hashicorp/consul-k8s) [⭐️](https://github.com/hashicorp/consul-k8s/stargazers) 708 [🚀](https://github.com/hashicorp/consul-k8s/network/members) 338 [💥](https://github.com/hashicorp/consul-k8s/issues) 346 🪪  Mozilla Public License 2.0
+### 352 - [Consul-k8s](https://github.com/hashicorp/consul-k8s) [⭐️](https://github.com/hashicorp/consul-k8s/stargazers) 708 [🚀](https://github.com/hashicorp/consul-k8s/network/members) 338 [💥](https://github.com/hashicorp/consul-k8s/issues) 347 🪪  Mozilla Public License 2.0
 *First-class support for Consul Service Mesh on Kubernetes*
 
 ### 353 - [Telescope](https://github.com/iamtelescope/telescope) [⭐️](https://github.com/iamtelescope/telescope/stargazers) 706 [🚀](https://github.com/iamtelescope/telescope/network/members) 30 [💥](https://github.com/iamtelescope/telescope/issues) 12 🪪  MIT License
 *Web-based log viewer UI. Explore logs data stored in several sources: ClickHouse, Kubernetes or Docker*
 
-### 354 - [Kubestellar](https://github.com/kubestellar/kubestellar) [⭐️](https://github.com/kubestellar/kubestellar/stargazers) 696 [🚀](https://github.com/kubestellar/kubestellar/network/members) 309 [💥](https://github.com/kubestellar/kubestellar/issues) 195 🪪  Apache License 2.0
+### 354 - [Kubestellar](https://github.com/kubestellar/kubestellar) [⭐️](https://github.com/kubestellar/kubestellar/stargazers) 697 [🚀](https://github.com/kubestellar/kubestellar/network/members) 309 [💥](https://github.com/kubestellar/kubestellar/issues) 189 🪪  Apache License 2.0
 *KubeStellar - a flexible solution for multi-cluster configuration management for edge, multi-cloud, and hybrid cloud*
 
 ### 355 - [Kubectl-graph](https://github.com/steveteuber/kubectl-graph) [⭐️](https://github.com/steveteuber/kubectl-graph/stargazers) 695 [🚀](https://github.com/steveteuber/kubectl-graph/network/members) 33 [💥](https://github.com/steveteuber/kubectl-graph/issues) 3 🪪  Apache License 2.0
@@ -1090,7 +1090,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 357 - [Kubecost](https://github.com/kubecost/kubecost) [⭐️](https://github.com/kubecost/kubecost/stargazers) 662 [🚀](https://github.com/kubecost/kubecost/network/members) 435 [💥](https://github.com/kubecost/kubecost/issues) 29 🪪  Apache License 2.0
 *Kubecost helm chart*
 
-### 358 - [Draft](https://github.com/Azure/draft) [⭐️](https://github.com/Azure/draft/stargazers) 642 [🚀](https://github.com/Azure/draft/network/members) 72 [💥](https://github.com/Azure/draft/issues) 25 🪪  MIT License
+### 358 - [Draft](https://github.com/Azure/draft) [⭐️](https://github.com/Azure/draft/stargazers) 642 [🚀](https://github.com/Azure/draft/network/members) 72 [💥](https://github.com/Azure/draft/issues) 26 🪪  MIT License
 *A day 0 tool for getting your app on k8s fast*
 
 ### 359 - [K8s-wait-for](https://github.com/groundnuty/k8s-wait-for) [⭐️](https://github.com/groundnuty/k8s-wait-for/stargazers) 634 [🚀](https://github.com/groundnuty/k8s-wait-for/network/members) 134 [💥](https://github.com/groundnuty/k8s-wait-for/issues) 12 🪪  MIT License
@@ -1108,25 +1108,25 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 363 - [Kubectl-explore](https://github.com/keisku/kubectl-explore) [⭐️](https://github.com/keisku/kubectl-explore/stargazers) 605 [🚀](https://github.com/keisku/kubectl-explore/network/members) 17 [💥](https://github.com/keisku/kubectl-explore/issues) 1 🪪  MIT License
 *A better kubectl explain with the fuzzy finder*
 
-### 364 - [Lagoon](https://github.com/uselagoon/lagoon) [⭐️](https://github.com/uselagoon/lagoon/stargazers) 600 [🚀](https://github.com/uselagoon/lagoon/network/members) 157 [💥](https://github.com/uselagoon/lagoon/issues) 221 🪪  Apache License 2.0
+### 364 - [Lagoon](https://github.com/uselagoon/lagoon) [⭐️](https://github.com/uselagoon/lagoon/stargazers) 600 [🚀](https://github.com/uselagoon/lagoon/network/members) 157 [💥](https://github.com/uselagoon/lagoon/issues) 218 🪪  Apache License 2.0
 *Lagoon, the developer-focused application delivery platform*
 
 ### 365 - [Clusterlint](https://github.com/digitalocean/clusterlint) [⭐️](https://github.com/digitalocean/clusterlint/stargazers) 595 [🚀](https://github.com/digitalocean/clusterlint/network/members) 46 [💥](https://github.com/digitalocean/clusterlint/issues) 11 🪪  Apache License 2.0
 *A best practices checker for Kubernetes clusters. 🤠*
 
-### 366 - [Troubleshoot](https://github.com/replicatedhq/troubleshoot) [⭐️](https://github.com/replicatedhq/troubleshoot/stargazers) 583 [🚀](https://github.com/replicatedhq/troubleshoot/network/members) 110 [💥](https://github.com/replicatedhq/troubleshoot/issues) 63 🪪  Apache License 2.0
+### 366 - [Troubleshoot](https://github.com/replicatedhq/troubleshoot) [⭐️](https://github.com/replicatedhq/troubleshoot/stargazers) 584 [🚀](https://github.com/replicatedhq/troubleshoot/network/members) 110 [💥](https://github.com/replicatedhq/troubleshoot/issues) 63 🪪  Apache License 2.0
 *Preflight Checks and Support Bundles Framework for Kubernetes Applications*
 
-### 367 - [Sympozium](https://github.com/sympozium-ai/sympozium) [⭐️](https://github.com/sympozium-ai/sympozium/stargazers) 574 [🚀](https://github.com/sympozium-ai/sympozium/network/members) 69 [💥](https://github.com/sympozium-ai/sympozium/issues) 21 🪪  MIT License
+### 367 - [Sympozium](https://github.com/sympozium-ai/sympozium) [⭐️](https://github.com/sympozium-ai/sympozium/stargazers) 575 [🚀](https://github.com/sympozium-ai/sympozium/network/members) 69 [💥](https://github.com/sympozium-ai/sympozium/issues) 22 🪪  MIT License
 *The Coordination Layer for Multi-Agent AI*
 
 ### 368 - [NexClipper](https://github.com/NexClipper/NexClipper) [⭐️](https://github.com/NexClipper/NexClipper/stargazers) 562 [🚀](https://github.com/NexClipper/NexClipper/network/members) 71 [💥](https://github.com/NexClipper/NexClipper/issues) 8 🪪  Apache License 2.0
 *Metrics Pipeline for interoperability and Enterprise Prometheus*
 
-### 369 - [Image-builder](https://github.com/kubernetes-sigs/image-builder) [⭐️](https://github.com/kubernetes-sigs/image-builder/stargazers) 545 [🚀](https://github.com/kubernetes-sigs/image-builder/network/members) 499 [💥](https://github.com/kubernetes-sigs/image-builder/issues) 54 🪪  Apache License 2.0
+### 369 - [Image-builder](https://github.com/kubernetes-sigs/image-builder) [⭐️](https://github.com/kubernetes-sigs/image-builder/stargazers) 546 [🚀](https://github.com/kubernetes-sigs/image-builder/network/members) 499 [💥](https://github.com/kubernetes-sigs/image-builder/issues) 54 🪪  Apache License 2.0
 *Tools for building Kubernetes disk images*
 
-### 370 - [Hypershift](https://github.com/openshift/hypershift) [⭐️](https://github.com/openshift/hypershift/stargazers) 535 [🚀](https://github.com/openshift/hypershift/network/members) 523 [💥](https://github.com/openshift/hypershift/issues) 217 🪪  Apache License 2.0
+### 370 - [Hypershift](https://github.com/openshift/hypershift) [⭐️](https://github.com/openshift/hypershift/stargazers) 535 [🚀](https://github.com/openshift/hypershift/network/members) 526 [💥](https://github.com/openshift/hypershift/issues) 229 🪪  Apache License 2.0
 *Hyperscale OpenShift - clusters with hosted control planes*
 
 ### 371 - [Kubean](https://github.com/kubean-io/kubean) [⭐️](https://github.com/kubean-io/kubean/stargazers) 529 [🚀](https://github.com/kubean-io/kubean/network/members) 53 [💥](https://github.com/kubean-io/kubean/issues) 13 🪪  Apache License 2.0
@@ -1156,10 +1156,10 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 379 - [Kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) [⭐️](https://github.com/yashbhutwala/kubectl-df-pv/stargazers) 497 [🚀](https://github.com/yashbhutwala/kubectl-df-pv/network/members) 38 [💥](https://github.com/yashbhutwala/kubectl-df-pv/issues) 17 🪪  Apache License 2.0
 *kubectl plugin - giving admins df (disk free) like utility for persistent volumes*
 
-### 380 - [Talm](https://github.com/cozystack/talm) [⭐️](https://github.com/cozystack/talm/stargazers) 480 [🚀](https://github.com/cozystack/talm/network/members) 23 [💥](https://github.com/cozystack/talm/issues) 18 🪪  Apache License 2.0
+### 380 - [Talm](https://github.com/cozystack/talm) [⭐️](https://github.com/cozystack/talm/stargazers) 480 [🚀](https://github.com/cozystack/talm/network/members) 23 [💥](https://github.com/cozystack/talm/issues) 17 🪪  Apache License 2.0
 *Manage Talos Linux the GitOps Way!*
 
-### 381 - [Sidero](https://github.com/siderolabs/sidero) [⭐️](https://github.com/siderolabs/sidero/stargazers) 478 [🚀](https://github.com/siderolabs/sidero/network/members) 71 [💥](https://github.com/siderolabs/sidero/issues) 31 🪪  Mozilla Public License 2.0
+### 381 - [Sidero](https://github.com/siderolabs/sidero) [⭐️](https://github.com/siderolabs/sidero/stargazers) 479 [🚀](https://github.com/siderolabs/sidero/network/members) 71 [💥](https://github.com/siderolabs/sidero/issues) 31 🪪  Mozilla Public License 2.0
 *Sidero Metal is a bare metal provisioning system with support for Kubernetes Cluster API.*
 
 ### 382 - [Kubeorbit](https://github.com/teamcode-inc/kubeorbit) [⭐️](https://github.com/teamcode-inc/kubeorbit/stargazers) 454 [🚀](https://github.com/teamcode-inc/kubeorbit/network/members) 56 [💥](https://github.com/teamcode-inc/kubeorbit/issues) 3 🪪  Apache License 2.0
@@ -1207,7 +1207,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 396 - [Docker-registry.helm](https://github.com/twuni/docker-registry.helm) [⭐️](https://github.com/twuni/docker-registry.helm/stargazers) 392 [🚀](https://github.com/twuni/docker-registry.helm/network/members) 173 [💥](https://github.com/twuni/docker-registry.helm/issues) 68 🪪  Apache License 2.0
 *Helm chart for a Docker registry. Successor to stable/docker-registry chart.*
 
-### 397 - [Metalk8s](https://github.com/scality/metalk8s) [⭐️](https://github.com/scality/metalk8s/stargazers) 391 [🚀](https://github.com/scality/metalk8s/network/members) 49 [💥](https://github.com/scality/metalk8s/issues) 477 🪪  Apache License 2.0
+### 397 - [Metalk8s](https://github.com/scality/metalk8s) [⭐️](https://github.com/scality/metalk8s/stargazers) 391 [🚀](https://github.com/scality/metalk8s/network/members) 49 [💥](https://github.com/scality/metalk8s/issues) 479 🪪  Apache License 2.0
 *An opinionated Kubernetes distribution with a focus on long-term on-prem deployments*
 
 ### 398 - [K8s-pod-restart-info-collector](https://github.com/airwallex/k8s-pod-restart-info-collector) [⭐️](https://github.com/airwallex/k8s-pod-restart-info-collector/stargazers) 388 [🚀](https://github.com/airwallex/k8s-pod-restart-info-collector/network/members) 62 [💥](https://github.com/airwallex/k8s-pod-restart-info-collector/issues) 18 🪪  N.A.
@@ -1228,7 +1228,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 403 - [Kubefarm](https://github.com/aenix-io/kubefarm) [⭐️](https://github.com/aenix-io/kubefarm/stargazers) 351 [🚀](https://github.com/aenix-io/kubefarm/network/members) 27 [💥](https://github.com/aenix-io/kubefarm/issues) 4 🪪  Apache License 2.0
 *Automated Kubernetes deployment and the PXE-bootable servers farm*
 
-### 404 - [Lvm-localpv](https://github.com/openebs/lvm-localpv) [⭐️](https://github.com/openebs/lvm-localpv/stargazers) 348 [🚀](https://github.com/openebs/lvm-localpv/network/members) 122 [💥](https://github.com/openebs/lvm-localpv/issues) 28 🪪  Apache License 2.0
+### 404 - [Lvm-localpv](https://github.com/openebs/lvm-localpv) [⭐️](https://github.com/openebs/lvm-localpv/stargazers) 348 [🚀](https://github.com/openebs/lvm-localpv/network/members) 122 [💥](https://github.com/openebs/lvm-localpv/issues) 29 🪪  Apache License 2.0
 *Dynamically provision Stateful Persistent Node-Local Volumes & Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.*
 
 ### 405 - [Kns](https://github.com/blendle/kns) [⭐️](https://github.com/blendle/kns/stargazers) 344 [🚀](https://github.com/blendle/kns/network/members) 26 [💥](https://github.com/blendle/kns/issues) 1 🪪  ISC License
@@ -1240,7 +1240,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 407 - [Thundernetes](https://github.com/PlayFab/thundernetes) [⭐️](https://github.com/PlayFab/thundernetes/stargazers) 338 [🚀](https://github.com/PlayFab/thundernetes/network/members) 51 [💥](https://github.com/PlayFab/thundernetes/issues) 21 🪪  Apache License 2.0
 *Thundernetes makes it easy to run your game servers on Kubernetes*
 
-### 408 - [Kubectl-rolesum](https://github.com/Ladicle/kubectl-rolesum) [⭐️](https://github.com/Ladicle/kubectl-rolesum/stargazers) 321 [🚀](https://github.com/Ladicle/kubectl-rolesum/network/members) 19 [💥](https://github.com/Ladicle/kubectl-rolesum/issues) 4 🪪  MIT License
+### 408 - [Kubectl-rolesum](https://github.com/Ladicle/kubectl-rolesum) [⭐️](https://github.com/Ladicle/kubectl-rolesum/stargazers) 321 [🚀](https://github.com/Ladicle/kubectl-rolesum/network/members) 18 [💥](https://github.com/Ladicle/kubectl-rolesum/issues) 4 🪪  MIT License
 *Summarize Kubernetes RBAC roles for the specified subjects.*
 
 ### 409 - [Kube-fluentd-operator](https://github.com/vmware-archive/kube-fluentd-operator) [⭐️](https://github.com/vmware-archive/kube-fluentd-operator/stargazers) 321 [🚀](https://github.com/vmware-archive/kube-fluentd-operator/network/members) 103 [💥](https://github.com/vmware-archive/kube-fluentd-operator/issues) 58 🪪  Other 💀 Officially archived
@@ -1342,7 +1342,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 441 - [K8s-testsuite](https://github.com/mrahbar/k8s-testsuite) [⭐️](https://github.com/mrahbar/k8s-testsuite/stargazers) 182 [🚀](https://github.com/mrahbar/k8s-testsuite/network/members) 32 [💥](https://github.com/mrahbar/k8s-testsuite/issues) 0 🪪  MIT License
 *Test suite for Kubernetes*
 
-### 442 - [Kubeflex](https://github.com/kubestellar/kubeflex) [⭐️](https://github.com/kubestellar/kubeflex/stargazers) 180 [🚀](https://github.com/kubestellar/kubeflex/network/members) 61 [💥](https://github.com/kubestellar/kubeflex/issues) 54 🪪  Apache License 2.0
+### 442 - [Kubeflex](https://github.com/kubestellar/kubeflex) [⭐️](https://github.com/kubestellar/kubeflex/stargazers) 180 [🚀](https://github.com/kubestellar/kubeflex/network/members) 62 [💥](https://github.com/kubestellar/kubeflex/issues) 54 🪪  Apache License 2.0
 *A flexible and scalable platform for running Kubernetes control plane APIs.*
 
 ### 443 - [Konf-go](https://github.com/SimonTheLeg/konf-go) [⭐️](https://github.com/SimonTheLeg/konf-go/stargazers) 180 [🚀](https://github.com/SimonTheLeg/konf-go/network/members) 12 [💥](https://github.com/SimonTheLeg/konf-go/issues) 9 🪪  Apache License 2.0
@@ -1411,7 +1411,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 464 - [Kubectl-whoami](https://github.com/rajatjindal/kubectl-whoami) [⭐️](https://github.com/rajatjindal/kubectl-whoami/stargazers) 125 [🚀](https://github.com/rajatjindal/kubectl-whoami/network/members) 13 [💥](https://github.com/rajatjindal/kubectl-whoami/issues) 1 🪪  Apache License 2.0
 *This plugin gets the subject name using the effective kubeconfig*
 
-### 465 - [Console](https://github.com/kubestellar/console) [⭐️](https://github.com/kubestellar/console/stargazers) 121 [🚀](https://github.com/kubestellar/console/network/members) 126 [💥](https://github.com/kubestellar/console/issues) 9 🪪  Apache License 2.0
+### 465 - [Console](https://github.com/kubestellar/console) [⭐️](https://github.com/kubestellar/console/stargazers) 122 [🚀](https://github.com/kubestellar/console/network/members) 124 [💥](https://github.com/kubestellar/console/issues) 15 🪪  Apache License 2.0
 *World's first fully integrated and fully Automated Kubernetes management and orchestration solution*
 
 ### 466 - [Chatgpt-yaml-generator](https://github.com/robusta-dev/chatgpt-yaml-generator) [⭐️](https://github.com/robusta-dev/chatgpt-yaml-generator/stargazers) 117 [🚀](https://github.com/robusta-dev/chatgpt-yaml-generator/network/members) 14 [💥](https://github.com/robusta-dev/chatgpt-yaml-generator/issues) 1 🪪  MIT License
@@ -1426,10 +1426,10 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 469 - [Helm-release-plugin](https://github.com/JovianX/helm-release-plugin) [⭐️](https://github.com/JovianX/helm-release-plugin/stargazers) 111 [🚀](https://github.com/JovianX/helm-release-plugin/network/members) 23 [💥](https://github.com/JovianX/helm-release-plugin/issues) 12 🪪  Apache License 2.0
 *Helm3 plugin that pulls(re-creates) helm Charts from deployed releases, and updates values of deployed releases without the chart.*
 
-### 470 - [Klustr](https://github.com/SametKUM/klustr) [⭐️](https://github.com/SametKUM/klustr/stargazers) 110 [🚀](https://github.com/SametKUM/klustr/network/members) 6 [💥](https://github.com/SametKUM/klustr/issues) 1 🪪  MIT License
+### 470 - [Klustr](https://github.com/SametKUM/klustr) [⭐️](https://github.com/SametKUM/klustr/stargazers) 110 [🚀](https://github.com/SametKUM/klustr/network/members) 6 [💥](https://github.com/SametKUM/klustr/issues) 2 🪪  MIT License
 *A native Kubernetes desktop client — nothing in your cluster. Helm, Argo CD, Flux CD, Gateway API & cert-manager built in. MIT-licensed.*
 
-### 471 - [Rosa](https://github.com/openshift/rosa) [⭐️](https://github.com/openshift/rosa/stargazers) 104 [🚀](https://github.com/openshift/rosa/network/members) 254 [💥](https://github.com/openshift/rosa/issues) 17 🪪  Apache License 2.0
+### 471 - [Rosa](https://github.com/openshift/rosa) [⭐️](https://github.com/openshift/rosa/stargazers) 103 [🚀](https://github.com/openshift/rosa/network/members) 254 [💥](https://github.com/openshift/rosa/issues) 22 🪪  Apache License 2.0
 *No description in repo.*
 
 ### 472 - [Yakiapp](https://github.com/vivekagate/yakiapp) [⭐️](https://github.com/vivekagate/yakiapp/stargazers) 102 [🚀](https://github.com/vivekagate/yakiapp/network/members) 4 [💥](https://github.com/vivekagate/yakiapp/issues) 5 🪪  MIT License
@@ -1486,7 +1486,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 489 - [Yaml-schema-router](https://github.com/tepea-code/yaml-schema-router) [⭐️](https://github.com/tepea-code/yaml-schema-router/stargazers) 71 [🚀](https://github.com/tepea-code/yaml-schema-router/network/members) 3 [💥](https://github.com/tepea-code/yaml-schema-router/issues) 0 🪪  MIT License
 *Content-based JSON schema routing for YAML LSP (Neovim/Helix/Emacs)*
 
-### 490 - [Hcloud-pricing-exporter](https://github.com/jangraefen/hcloud-pricing-exporter) [⭐️](https://github.com/jangraefen/hcloud-pricing-exporter/stargazers) 65 [🚀](https://github.com/jangraefen/hcloud-pricing-exporter/network/members) 9 [💥](https://github.com/jangraefen/hcloud-pricing-exporter/issues) 0 🪪  MIT License
+### 490 - [Hcloud-pricing-exporter](https://github.com/jangraefen/hcloud-pricing-exporter) [⭐️](https://github.com/jangraefen/hcloud-pricing-exporter/stargazers) 66 [🚀](https://github.com/jangraefen/hcloud-pricing-exporter/network/members) 9 [💥](https://github.com/jangraefen/hcloud-pricing-exporter/issues) 0 🪪  MIT License
 *A prometheus exporter for the current pricing and costs of your HCloud account*
 
 ### 491 - [Podtnl](https://github.com/nnrthota/podtnl) [⭐️](https://github.com/nnrthota/podtnl/stargazers) 65 [🚀](https://github.com/nnrthota/podtnl/network/members) 14 [💥](https://github.com/nnrthota/podtnl/issues) 4 🪪  Apache License 2.0
@@ -1507,7 +1507,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 ### 496 - [Kubernetes-multicooker](https://github.com/marvasgit/kubernetes-multicooker) [⭐️](https://github.com/marvasgit/kubernetes-multicooker/stargazers) 51 [🚀](https://github.com/marvasgit/kubernetes-multicooker/network/members) 2 [💥](https://github.com/marvasgit/kubernetes-multicooker/issues) 0 🪪  Apache License 2.0
 *Automatically taint nodes and evict pods based on cpu pressure*
 
-### 497 - [Btrfs-nfs-csi](https://github.com/erikmagkekse/btrfs-nfs-csi) [⭐️](https://github.com/erikmagkekse/btrfs-nfs-csi/stargazers) 49 [🚀](https://github.com/erikmagkekse/btrfs-nfs-csi/network/members) 1 [💥](https://github.com/erikmagkekse/btrfs-nfs-csi/issues) 8 🪪  Apache License 2.0
+### 497 - [Btrfs-nfs-csi](https://github.com/erikmagkekse/btrfs-nfs-csi) [⭐️](https://github.com/erikmagkekse/btrfs-nfs-csi/stargazers) 50 [🚀](https://github.com/erikmagkekse/btrfs-nfs-csi/network/members) 1 [💥](https://github.com/erikmagkekse/btrfs-nfs-csi/issues) 8 🪪  Apache License 2.0
 *Kubernetes Enterprise storage vibes for your homelab. A single-binary CSI driver that turns any Linux box with a btrfs disk into a full-featured storage backend(Agent) - instant snapshots, writable clones, per-volume quotas, live compression tuning, NoCOW for databases, and automatic NFS exports.*
 
 ### 498 - [Kubeclarity](https://github.com/openclarity/kubeclarity) [⭐️](https://github.com/openclarity/kubeclarity/stargazers) 45 [🚀](https://github.com/openclarity/kubeclarity/network/members) 6 [💥](https://github.com/openclarity/kubeclarity/issues) 16 🪪  Apache License 2.0 💀 Archived

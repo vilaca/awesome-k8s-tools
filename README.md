@@ -35,6 +35,7 @@ This list tracks the most popular open source tools in the Kubernetes and contai
 *The Prometheus monitoring system and time series database.*
 
 ### 6 - [Localstack](https://github.com/localstack/localstack) [⭐️](https://github.com/localstack/localstack/stargazers) 65.1K [🚀](https://github.com/localstack/localstack/network/members) 4.7K [💥](https://github.com/localstack/localstack/issues) 0 🪪  Other
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 *💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline*
 
 ### 7 - [Traefik](https://github.com/traefik/traefik) [⭐️](https://github.com/traefik/traefik/stargazers) 64.9K [🚀](https://github.com/traefik/traefik/network/members) 6.2K [💥](https://github.com/traefik/traefik/issues) 943 🪪  MIT License

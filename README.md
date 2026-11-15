@@ -9,6 +9,8 @@
 
 This list tracks the most popular open source tools in the Kubernetes and container ecosystem. Tools are automatically ranked by GitHub stars and updated **every night at midnight UTC**.
 
+- [No Stairs Please](https://nostairsplease.com/) — live-music venue directory & MCP server (`https://nostairsplease.com/mcp`).
+
 ### Legend
 
 - ⭐️ **Stars** - GitHub stars (popularity indicator)
